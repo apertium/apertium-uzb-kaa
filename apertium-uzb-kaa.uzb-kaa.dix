@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+
+  <sdefs>
+    <sdef n="n"     c="Noun"/>
+    <sdef n="np"    c=""/>
+    <sdef n="adv"   c=""/>
+    <sdef n="adj"   c=""/>
+    <sdef n="prn"   c=""/>
+    <sdef n="pers"  c=""/>
+    <sdef n="ant"   c=""/>
+    <sdef n="top"   c=""/>
+    <sdef n="cog"   c=""/>
+    <sdef n="m"     c=""/>
+    <sdef n="f"     c=""/>
+      <sdef n="dem"/>
+      <sdef n="iv"/>
+      <sdef n="qst"/>
+      <sdef n="rpar"/>
+      <sdef n="rquot"/>
+      <sdef n="tv"/>
+      <sdef n="v"/>
+
+  </sdefs>
+
+   <section id="main" type="standard">
+
+      <!-- РАЗДЕЛ: Местоимение -->
+      <e><p><l>u<s n="prn"/><s n="pers"/></l><r>ol<s n="prn"/><s n="pers"/></r></p></e>
+
+      <!-- РАЗДЕЛ: -->
+
+      <!-- РАЗДЕЛ: -->
+
+      <e><p><l>bog'<s n="n"/></l><r>baqsha<s n="n"/></r></p></e>
+      <e><p><l>bog'cha<s n="n"/></l><r>baqsha<s n="n"/></r></p></e>
+
+      <e><p><l>advokat<s n="n"/></l><r>advokat<s n="n"/></r></p></e>
+      <e><p><l>akademiya<s n="n"/></l><r>akademiya<s n="n"/></r></p></e>
+      <e><p><l>aktyor<s n="n"/></l><r>aktyor<s n="n"/></r></p></e>
+      <e><p><l>ana<s n="n"/></l><r>ana<s n="n"/></r></p></e>
+      <e><p><l>apparat<s n="n"/></l><r>apparat<s n="n"/></r></p></e>
+      <e><p><l>arab<s n="n"/></l><r>arab<s n="n"/></r></p></e>
+      <e><p><l>arman<s n="n"/></l><r>arman<s n="n"/></r></p></e>
+      <e><p><l>armiya<s n="n"/></l><r>armiya<s n="n"/></r></p></e>
+      <e><p><l>arpa<s n="n"/></l><r>arpa<s n="n"/></r></p></e>
+      <e><p><l>astronomiya<s n="n"/></l><r>astronomiya<s n="n"/></r></p></e>
+      <e><p><l>ata<s n="n"/></l><r>ata<s n="n"/></r></p></e>
+      <e><p><l>atmosfera<s n="n"/></l><r>atmosfera<s n="n"/></r></p></e>
+      <e><p><l>atom<s n="n"/></l><r>atom<s n="n"/></r></p></e>
+      <e><p><l>avgust<s n="n"/></l><r>avgust<s n="n"/></r></p></e>
+      <e><p><l>aviatsiya<s n="n"/></l><r>aviatsiya<s n="n"/></r></p></e>
+      <e><p><l>avtobus<s n="n"/></l><r>avtobus<s n="n"/></r></p></e>
+      <e><p><l>bakteriya<s n="n"/></l><r>bakteriya<s n="n"/></r></p></e>
+      <e><p><l>bal<s n="n"/></l><r>bal<s n="n"/></r></p></e>
+      <e><p><l>bank<s n="n"/></l><r>bank<s n="n"/></r></p></e>
+      <e><p><l>bas<s n="n"/></l><r>bas<s n="n"/></r></p></e>
+      <e><p><l>bayram<s n="n"/></l><r>bayram<s n="n"/></r></p></e>
+      <e><p><l>baza<s n="n"/></l><r>baza<s n="n"/></r></p></e>
+      <e><p><l>belgi<s n="n"/></l><r>belgi<s n="n"/></r></p></e>
+      <e><p><l>beton<s n="n"/></l><r>beton<s n="n"/></r></p></e>
+      <e><p><l>bez<s n="n"/></l><r>bez<s n="n"/></r></p></e>
+      <e><p><l>bilim<s n="n"/></l><r>bilim<s n="n"/></r></p></e>
+      <e><p><l>birlik<s n="n"/></l><r>birlik<s n="n"/></r></p></e>
+      <e><p><l>biznes<s n="n"/></l><r>biznes<s n="n"/></r></p></e>
+      <e><p><l>bo'lim<s n="n"/></l><r>bo'lim<s n="n"/></r></p></e>
+      <e><p><l>bomba<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
+      <e><p><l>boy<s n="n"/></l><r>boy<s n="n"/></r></p></e>
+      <e><p><l>chempionat<s n="n"/></l><r>chempionat<s n="n"/></r></p></e>
+      <e><p><l>chempion<s n="n"/></l><r>chempion<s n="n"/></r></p></e>
+      <e><p><l>departament<s n="n"/></l><r>departament<s n="n"/></r></p></e>
+      <e><p><l>diametr<s n="n"/></l><r>diametr<s n="n"/></r></p></e>
+      <e><p><l>din<s n="n"/></l><r>din<s n="n"/></r></p></e>
+      <e><p><l>direktor<s n="n"/></l><r>direktor<s n="n"/></r></p></e>
+      <e><p><l>dollar<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
+      <e><p><l>dotsent<s n="n"/></l><r>dotsent<s n="n"/></r></p></e>
+      <e><p><l>drama<s n="n"/></l><r>drama<s n="n"/></r></p></e>
+      <e><p><l>ekspeditsiya<s n="n"/></l><r>ekspeditsiya<s n="n"/></r></p></e>
+      <e><p><l>elektron<s n="n"/></l><r>elektron<s n="n"/></r></p></e>
+      <e><p><l>elektr<s n="n"/></l><r>elektr<s n="n"/></r></p></e>
+      <e><p><l>element<s n="n"/></l><r>element<s n="n"/></r></p></e>
+      <e><p><l>el<s n="n"/></l><r>el<s n="n"/></r></p></e>
+      <e><p><l>energetika<s n="n"/></l><r>energetika<s n="n"/></r></p></e>
+      <e><p><l>energiya<s n="n"/></l><r>energiya<s n="n"/></r></p></e>
+      <e><p><l>en<s n="n"/></l><r>en<s n="n"/></r></p></e>
+      <e><p><l>er<s n="n"/></l><r>er<s n="n"/></r></p></e>
+      <e><p><l>estrada<s n="n"/></l><r>estrada<s n="n"/></r></p></e>
+      <e><p><l>fakultet<s n="n"/></l><r>fakultet<s n="n"/></r></p></e>
+      <e><p><l>federatsiya<s n="n"/></l><r>federatsiya<s n="n"/></r></p></e>
+      <e><p><l>festival<s n="n"/></l><r>festival<s n="n"/></r></p></e>
+      <e><p><l>fevral<s n="n"/></l><r>fevral<s n="n"/></r></p></e>
+      <e><p><l>filial<s n="n"/></l><r>filial<s n="n"/></r></p></e>
+      <e><p><l>film<s n="n"/></l><r>film<s n="n"/></r></p></e>
+      <e><p><l>firma<s n="n"/></l><r>firma<s n="n"/></r></p></e>
+      <e><p><l>fizika<s n="n"/></l><r>fizika<s n="n"/></r></p></e>
+      <e><p><l>folklor<s n="n"/></l><r>folklor<s n="n"/></r></p></e>
+      <e><p><l>fond<s n="n"/></l><r>fond<s n="n"/></r></p></e>
+      <e><p><l>formula<s n="n"/></l><r>formula<s n="n"/></r></p></e>
+      <e><p><l>forum<s n="n"/></l><r>forum<s n="n"/></r></p></e>
+      <e><p><l>fosfor<s n="n"/></l><r>fosfor<s n="n"/></r></p></e>
+      <e><p><l>futbol<s n="n"/></l><r>futbol<s n="n"/></r></p></e>
+      <e><p><l>gazeta<s n="n"/></l><r>gazeta<s n="n"/></r></p></e>
+      <e><p><l>gaz<s n="n"/></l><r>gaz<s n="n"/></r></p></e>
+      <e><p><l>gektar<s n="n"/></l><r>gektar<s n="n"/></r></p></e>
+      <e><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p></e>
+      <e><p><l>gen<s n="n"/></l><r>gen<s n="n"/></r></p></e>
+      <e><p><l>geografiya<s n="n"/></l><r>geografiya<s n="n"/></r></p></e>
+      <e><p><l>geograf<s n="n"/></l><r>geograf<s n="n"/></r></p></e>
+      <e><p><l>geolog<s n="n"/></l><r>geolog<s n="n"/></r></p></e>
+      <e><p><l>gips<s n="n"/></l><r>gips<s n="n"/></r></p></e>
+      <e><p><l>gormon<s n="n"/></l><r>gormon<s n="n"/></r></p></e>
+      <e><p><l>granit<s n="n"/></l><r>granit<s n="n"/></r></p></e>
+      <e><p><l>grek<s n="n"/></l><r>grek<s n="n"/></r></p></e>
+      <e><p><l>hal<s n="n"/></l><r>hal<s n="n"/></r></p></e>
+      <e><p><l>hind<s n="n"/></l><r>hind<s n="n"/></r></p></e>
+      <e><p><l>ideologiya<s n="n"/></l><r>ideologiya<s n="n"/></r></p></e>
+      <e><p><l>imperiya<s n="n"/></l><r>imperiya<s n="n"/></r></p></e>
+      <e><p><l>in<s n="n"/></l><r>in<s n="n"/></r></p></e>
+      <e><p><l>institut<s n="n"/></l><r>institut<s n="n"/></r></p></e>
+      <e><p><l>internet<s n="n"/></l><r>internet<s n="n"/></r></p></e>
+      <e><p><l>ion<s n="n"/></l><r>ion<s n="n"/></r></p></e>
+      <e><p><l>ish<s n="n"/></l><r>ish<s n="n"/></r></p></e>
+      <e><p><l>is<s n="n"/></l><r>is<s n="n"/></r></p></e>
+      <e><p><l>italyan<s n="n"/></l><r>italyan<s n="n"/></r></p></e>
+      <e><p><l>it<s n="n"/></l><r>it<s n="n"/></r></p></e>
+      <e><p><l>iyul<s n="n"/></l><r>iyul<s n="n"/></r></p></e>
+      <e><p><l>iyun<s n="n"/></l><r>iyun<s n="n"/></r></p></e>
+      <e><p><l>iz<s n="n"/></l><r>iz<s n="n"/></r></p></e>
+      <e><p><l>janr<s n="n"/></l><r>janr<s n="n"/></r></p></e>
+      <e><p><l>jan<s n="n"/></l><r>jan<s n="n"/></r></p></e>
+      <e><p><l>jurnalist<s n="n"/></l><r>jurnalist<s n="n"/></r></p></e>
+      <e><p><l>kadr<s n="n"/></l><r>kadr<s n="n"/></r></p></e>
+      <e><p><l>kafedra<s n="n"/></l><r>kafedra<s n="n"/></r></p></e>
+      <e><p><l>kanal<s n="n"/></l><r>kanal<s n="n"/></r></p></e>
+      <e><p><l>kapital<s n="n"/></l><r>kapital<s n="n"/></r></p></e>
+      <e><p><l>katolik<s n="n"/></l><r>katolik<s n="n"/></r></p></e>
+      <e><p><l>kelin<s n="n"/></l><r>kelin<s n="n"/></r></p></e>
+      <e><p><l>keyin<s n="n"/></l><r>keyin<s n="n"/></r></p></e>
+      <e><p><l>kilometr<s n="n"/></l><r>kilometr<s n="n"/></r></p></e>
+      <e><p><l>kino<s n="n"/></l><r>kino<s n="n"/></r></p></e>
+      <e><p><l>kit<s n="n"/></l><r>kit<s n="n"/></r></p></e>
+      <e><p><l>kiyim<s n="n"/></l><r>kiyim<s n="n"/></r></p></e>
+      <e><p><l>klub<s n="n"/></l><r>klub<s n="n"/></r></p></e>
+      <e><p><l>ko'l<s n="n"/></l><r>ko'l<s n="n"/></r></p></e>
+      <e><p><l>komanda<s n="n"/></l><r>komanda<s n="n"/></r></p></e>
+      <e><p><l>komissiya<s n="n"/></l><r>komissiya<s n="n"/></r></p></e>
+      <e><p><l>kompaniya<s n="n"/></l><r>kompaniya<s n="n"/></r></p></e>
+      <e><p><l>kompleks<s n="n"/></l><r>kompleks<s n="n"/></r></p></e>
+      <e><p><l>kompozitor<s n="n"/></l><r>kompozitor<s n="n"/></r></p></e>
+      <e><p><l>kompyuter<s n="n"/></l><r>kompyuter<s n="n"/></r></p></e>
+      <e><p><l>kongress<s n="n"/></l><r>kongress<s n="n"/></r></p></e>
+      <e><p><l>konstitutsiya<s n="n"/></l><r>konstitutsiya<s n="n"/></r></p></e>
+      <e><p><l>ko'z<s n="n"/></l><r>ko'z<s n="n"/></r></p></e>
+      <e><p><l>kredit<s n="n"/></l><r>kredit<s n="n"/></r></p></e>
+      <e><p><l>kristall<s n="n"/></l><r>kristall<s n="n"/></r></p></e>
+      <e><p><l>kupe<s n="n"/></l><r>kupe<s n="n"/></r></p></e>
+      <e><p><l>kvadrat<s n="n"/></l><r>kvadrat<s n="n"/></r></p></e>
+      <e><p><l>lat<s n="n"/></l><r>lat<s n="n"/></r></p></e>
+      <e><p><l>laureat<s n="n"/></l><r>laureat<s n="n"/></r></p></e>
+      <e><p><l>limfa<s n="n"/></l><r>limfa<s n="n"/></r></p></e>
+      <e><p><l>liniya<s n="n"/></l><r>liniya<s n="n"/></r></p></e>
+      <e><p><l>magnit<s n="n"/></l><r>magnit<s n="n"/></r></p></e>
+      <e><p><l>magniy<s n="n"/></l><r>magniy<s n="n"/></r></p></e>
+      <e><p><l>marshal<s n="n"/></l><r>marshal<s n="n"/></r></p></e>
+      <e><p><l>mart<s n="n"/></l><r>mart<s n="n"/></r></p></e>
+      <e><p><l>mashina<s n="n"/></l><r>mashina<s n="n"/></r></p></e>
+      <e><p><l>massa<s n="n"/></l><r>massa<s n="n"/></r></p></e>
+      <e><p><l>match<s n="n"/></l><r>match<s n="n"/></r></p></e>
+      <e><p><l>matematika<s n="n"/></l><r>matematika<s n="n"/></r></p></e>
+      <e><p><l>matematik<s n="n"/></l><r>matematik<s n="n"/></r></p></e>
+      <e><p><l>material<s n="n"/></l><r>material<s n="n"/></r></p></e>
+      <e><p><l>may<s n="n"/></l><r>may<s n="n"/></r></p></e>
+      <e><p><l>mazmun<s n="n"/></l><r>mazmun<s n="n"/></r></p></e>
+      <e><p><l>metall<s n="n"/></l><r>metall<s n="n"/></r></p></e>
+      <e><p><l>metr<s n="n"/></l><r>metr<s n="n"/></r></p></e>
+      <e><p><l>militsiya<s n="n"/></l><r>militsiya<s n="n"/></r></p></e>
+      <e><p><l>mineral<s n="n"/></l><r>mineral<s n="n"/></r></p></e>
+      <e><p><l>molekula<s n="n"/></l><r>molekula<s n="n"/></r></p></e>
+      <e><p><l>molibden<s n="n"/></l><r>molibden<s n="n"/></r></p></e>
+      <e><p><l>muzey<s n="n"/></l><r>muzey<s n="n"/></r></p></e>
+      <e><p><l>muz<s n="n"/></l><r>muz<s n="n"/></r></p></e>
+      <e><p><l>neft<s n="n"/></l><r>neft<s n="n"/></r></p></e>
+      <e><p><l>negiz<s n="n"/></l><r>negiz<s n="n"/></r></p></e>
+      <e><p><l>nemis<s n="n"/></l><r>nemis<s n="n"/></r></p></e>
+      <e><p><l>nerv<s n="n"/></l><r>nerv<s n="n"/></r></p></e>
+      <e><p><l>nikel<s n="n"/></l><r>nikel<s n="n"/></r></p></e>
+      <e><p><l>nomer<s n="n"/></l><r>nomer<s n="n"/></r></p></e>
+      <e><p><l>noyabr<s n="n"/></l><r>noyabr<s n="n"/></r></p></e>
+      <e><p><l>nur<s n="n"/></l><r>nur<s n="n"/></r></p></e>
+      <e><p><l>obraz<s n="n"/></l><r>obraz<s n="n"/></r></p></e>
+      <e><p><l>okean<s n="n"/></l><r>okean<s n="n"/></r></p></e>
+      <e><p><l>okrug<s n="n"/></l><r>okrug<s n="n"/></r></p></e>
+      <e><p><l>o'lim<s n="n"/></l><r>o'lim<s n="n"/></r></p></e>
+      <e><p><l>opera<s n="n"/></l><r>opera<s n="n"/></r></p></e>
+      <e><p><l>operatsiya<s n="n"/></l><r>operatsiya<s n="n"/></r></p></e>
+      <e><p><l>oq<s n="n"/></l><r>oq<s n="n"/></r></p></e>
+      <e><p><l>organizm<s n="n"/></l><r>organizm<s n="n"/></r></p></e>
+      <e><p><l>organ<s n="n"/></l><r>organ<s n="n"/></r></p></e>
+      <e><p><l>o'simlik<s n="n"/></l><r>o'simlik<s n="n"/></r></p></e>
+      <e><p><l>ot<s n="n"/></l><r>ot<s n="n"/></r></p></e>
+      <e><p><l>oy<s n="n"/></l><r>oy<s n="n"/></r></p></e>
+      <e><p><l>o'zbek<s n="n"/></l><r>o'zbek<s n="n"/></r></p></e>
+      <e><p><l>parallel<s n="n"/></l><r>parallel<s n="n"/></r></p></e>
+      <e><p><l>parlament<s n="n"/></l><r>parlament<s n="n"/></r></p></e>
+      <e><p><l>partiya<s n="n"/></l><r>partiya<s n="n"/></r></p></e>
+      <e><p><l>paxta<s n="n"/></l><r>paxta<s n="n"/></r></p></e>
+      <e><p><l>payg'ambar<s n="n"/></l><r>payg'ambar<s n="n"/></r></p></e>
+      <e><p><l>pedagogika<s n="n"/></l><r>pedagogika<s n="n"/></r></p></e>
+      <e><p><l>pedagog<s n="n"/></l><r>pedagog<s n="n"/></r></p></e>
+      <e><p><l>pivo<s n="n"/></l><r>pivo<s n="n"/></r></p></e>
+      <e><p><l>plastmassa<s n="n"/></l><r>plastmassa<s n="n"/></r></p></e>
+      <e><p><l>port<s n="n"/></l><r>port<s n="n"/></r></p></e>
+      <e><p><l>preparat<s n="n"/></l><r>preparat<s n="n"/></r></p></e>
+      <e><p><l>prezident<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
+      <e><p><l>programma<s n="n"/></l><r>programma<s n="n"/></r></p></e>
+      <e><p><l>protsent<s n="n"/></l><r>protsent<s n="n"/></r></p></e>
+      <e><p><l>protsess<s n="n"/></l><r>protsess<s n="n"/></r></p></e>
+      <e><p><l>psixologiya<s n="n"/></l><r>psixologiya<s n="n"/></r></p></e>
+      <e><p><l>pul<s n="n"/></l><r>pul<s n="n"/></r></p></e>
+      <e><p><l>punkt<s n="n"/></l><r>punkt<s n="n"/></r></p></e>
+      <e><p><l>qol<s n="n"/></l><r>qol<s n="n"/></r></p></e>
+      <e><p><l>qora<s n="n"/></l><r>qora<s n="n"/></r></p></e>
+      <e><p><l>qor<s n="n"/></l><r>qor<s n="n"/></r></p></e>
+      <e><p><l>qul<s n="n"/></l><r>qul<s n="n"/></r></p></e>
+      <e><p><l>qum<s n="n"/></l><r>qum<s n="n"/></r></p></e>
+      <e><p><l>qur<s n="n"/></l><r>qur<s n="n"/></r></p></e>
+      <e><p><l>raketa<s n="n"/></l><r>raketa<s n="n"/></r></p></e>
+      <e><p><l>rayon<s n="n"/></l><r>rayon<s n="n"/></r></p></e>
+      <e><p><l>reforma<s n="n"/></l><r>reforma<s n="n"/></r></p></e>
+      <e><p><l>rejim<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
+      <e><p><l>rentgen<s n="n"/></l><r>rentgen<s n="n"/></r></p></e>
+      <e><p><l>respublika<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
+      <e><p><l>resurs<s n="n"/></l><r>resurs<s n="n"/></r></p></e>
+      <e><p><l>rol<s n="n"/></l><r>rol<s n="n"/></r></p></e>
+      <e><p><l>roman<s n="n"/></l><r>roman<s n="n"/></r></p></e>
+      <e><p><l>rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
+      <e><p><l>rux<s n="n"/></l><r>rux<s n="n"/></r></p></e>
+      <e><p><l>sana<s n="n"/></l><r>sana<s n="n"/></r></p></e>
+      <e><p><l>sektor<s n="n"/></l><r>sektor<s n="n"/></r></p></e>
+      <e><p><l>senat<s n="n"/></l><r>senat<s n="n"/></r></p></e>
+      <e><p><l>shaxs<s n="n"/></l><r>shaxs<s n="n"/></r></p></e>
+      <e><p><l>shay<s n="n"/></l><r>shay<s n="n"/></r></p></e>
+      <e><p><l>shtat<s n="n"/></l><r>shtat<s n="n"/></r></p></e>
+      <e><p><l>sintez<s n="n"/></l><r>sintez<s n="n"/></r></p></e>
+      <e><p><l>sistema<s n="n"/></l><r>sistema<s n="n"/></r></p></e>
+      <e><p><l>sovet<s n="n"/></l><r>sovet<s n="n"/></r></p></e>
+      <e><p><l>so'z<s n="n"/></l><r>so'z<s n="n"/></r></p></e>
+      <e><p><l>soz<s n="n"/></l><r>soz<s n="n"/></r></p></e>
+      <e><p><l>spektakl<s n="n"/></l><r>spektakl<s n="n"/></r></p></e>
+      <e><p><l>sport<s n="n"/></l><r>sport<s n="n"/></r></p></e>
+      <e><p><l>stadion<s n="n"/></l><r>stadion<s n="n"/></r></p></e>
+      <e><p><l>stil<s n="n"/></l><r>stil<s n="n"/></r></p></e>
+      <e><p><l>stol<s n="n"/></l><r>stol<s n="n"/></r></p></e>
+      <e><p><l>struktura<s n="n"/></l><r>struktura<s n="n"/></r></p></e>
+      <e><p><l>sud<s n="n"/></l><r>sud<s n="n"/></r></p></e>
+      <e><p><l>sudya<s n="n"/></l><r>sudya<s n="n"/></r></p></e>
+      <e><p><l>sulfat<s n="n"/></l><r>sulfat<s n="n"/></r></p></e>
+      <e><p><l>sutka<s n="n"/></l><r>sutka<s n="n"/></r></p></e>
+      <e><p><l>taktika<s n="n"/></l><r>taktika<s n="n"/></r></p></e>
+      <e><p><l>ta'lim<s n="n"/></l><r>ta'lim<s n="n"/></r></p></e>
+      <e><p><l>taq<s n="n"/></l><r>taq<s n="n"/></r></p></e>
+      <e><p><l>ta'sir<s n="n"/></l><r>ta'sir<s n="n"/></r></p></e>
+      <e><p><l>taxta<s n="n"/></l><r>taxta<s n="n"/></r></p></e>
+      <e><p><l>teatr<s n="n"/></l><r>teatr<s n="n"/></r></p></e>
+      <e><p><l>telefon<s n="n"/></l><r>telefon<s n="n"/></r></p></e>
+      <e><p><l>telegraf<s n="n"/></l><r>telegraf<s n="n"/></r></p></e>
+      <e><p><l>televizor<s n="n"/></l><r>televizor<s n="n"/></r></p></e>
+      <e><p><l>temir<s n="n"/></l><r>temir<s n="n"/></r></p></e>
+      <e><p><l>teri<s n="n"/></l><r>teri<s n="n"/></r></p></e>
+      <e><p><l>termin<s n="n"/></l><r>termin<s n="n"/></r></p></e>
+      <e><p><l>ter<s n="n"/></l><r>ter<s n="n"/></r></p></e>
+      <e><p><l>texnika<s n="n"/></l><r>texnika<s n="n"/></r></p></e>
+      <e><p><l>texnologiya<s n="n"/></l><r>texnologiya<s n="n"/></r></p></e>
+      <e><p><l>tezlik<s n="n"/></l><r>tezlik<s n="n"/></r></p></e>
+      <e><p><l>til<s n="n"/></l><r>til<s n="n"/></r></p></e>
+      <e><p><l>tok<s n="n"/></l><r>tok<s n="n"/></r></p></e>
+      <e><p><l>ton<s n="n"/></l><r>ton<s n="n"/></r></p></e>
+      <e><p><l>top<s n="n"/></l><r>top<s n="n"/></r></p></e>
+      <e><p><l>tovar<s n="n"/></l><r>tovar<s n="n"/></r></p></e>
+      <e><p><l>transport<s n="n"/></l><r>transport<s n="n"/></r></p></e>
+      <e><p><l>uglevodorod<s n="n"/></l><r>uglevodorod<s n="n"/></r></p></e>
+      <e><p><l>ul<s n="n"/></l><r>ul<s n="n"/></r></p></e>
+      <e><p><l>universitet<s n="n"/></l><r>universitet<s n="n"/></r></p></e>
+      <e><p><l>uran<s n="n"/></l><r>uran<s n="n"/></r></p></e>
+      <e><p><l>uya<s n="n"/></l><r>uya<s n="n"/></r></p></e>
+      <e><p><l>valyuta<s n="n"/></l><r>valyuta<s n="n"/></r></p></e>
+      <e><p><l>virus<s n="n"/></l><r>virus<s n="n"/></r></p></e>
+      <e><p><l>vitamin<s n="n"/></l><r>vitamin<s n="n"/></r></p></e>
+      <e><p><l>vodorod<s n="n"/></l><r>vodorod<s n="n"/></r></p></e>
+      <e><p><l>vokal<s n="n"/></l><r>vokal<s n="n"/></r></p></e>
+      <e><p><l>xabar<s n="n"/></l><r>xabar<s n="n"/></r></p></e>
+      <e><p><l>xat<s n="n"/></l><r>xat<s n="n"/></r></p></e>
+      <e><p><l>xristian<s n="n"/></l><r>xristian<s n="n"/></r></p></e>
+      <e><p><l>xromosoma<s n="n"/></l><r>xromosoma<s n="n"/></r></p></e>
+      <e><p><l>yadro<s n="n"/></l><r>yadro<s n="n"/></r></p></e>
+      <e><p><l>yahudiy<s n="n"/></l><r>yahudiy<s n="n"/></r></p></e>
+      <e><p><l>yanvar<s n="n"/></l><r>yanvar<s n="n"/></r></p></e>
+      <e><p><l>zavod<s n="n"/></l><r>zavod<s n="n"/></r></p></e>
+      <e><p><l>zona<s n="n"/></l><r>zona<s n="n"/></r></p></e>
+
+
+      <!-- РАЗДЕЛ: -->
+
+      <e><p><l>Afrika<s n="np"/><s n="top"/></l><r>Afrika<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Amerika<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Angliya<s n="np"/><s n="top"/></l><r>Angliya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>AQSh<s n="np"/><s n="top"/></l><r>AQSh<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Arktika<s n="np"/><s n="top"/></l><r>Arktika<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Avstraliya<s n="np"/><s n="top"/></l><r>Avstraliya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Avstriya<s n="np"/><s n="top"/></l><r>Avstriya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Barselona<s n="np"/><s n="top"/></l><r>Barselona<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Braziliya<s n="np"/><s n="top"/></l><r>Braziliya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Britaniya<s n="np"/><s n="top"/></l><r>Britaniya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Genuya<s n="np"/><s n="top"/></l><r>Genuya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Germaniya<s n="np"/><s n="top"/></l><r>Germaniya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Gretsiya<s n="np"/><s n="top"/></l><r>Gretsiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Gruziya<s n="np"/><s n="top"/></l><r>Gruziya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Ispaniya<s n="np"/><s n="top"/></l><r>Ispaniya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Istanbul<s n="np"/><s n="top"/></l><r>Istanbul<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Koreya<s n="np"/><s n="top"/></l><r>Koreya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>London<s n="np"/><s n="top"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Milan<s n="np"/><s n="top"/></l><r>Milan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Moskva<s n="np"/><s n="top"/></l><r>Moskva<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Parij<s n="np"/><s n="top"/></l><r>Parij<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Rim<s n="np"/><s n="top"/></l><r>Rim<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Rossiya<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Rus<s n="np"/><s n="top"/></l><r>Rus<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Samarqand<s n="np"/><s n="top"/></l><r>Samarqand<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Talas<s n="np"/><s n="top"/></l><r>Talas<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Ukraina<s n="np"/><s n="top"/></l><r>Ukraina<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Ural<s n="np"/><s n="top"/></l><r>Ural<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Venetsiya<s n="np"/><s n="top"/></l><r>Venetsiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Vizantiya<s n="np"/><s n="top"/></l><r>Vizantiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Yaponiya<s n="np"/><s n="top"/></l><r>Yaponiya<s n="np"/><s n="top"/></r></p></e>
+
+      <e><p><l>Azamat<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Aygul<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygul<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>Aygu'l<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygu'l<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+
+      <e><p><l>Abdulla<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulla<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Adam<s n="np"/><s n="ant"/><s n="m"/></l><r>Adam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Alfred<s n="np"/><s n="ant"/><s n="m"/></l><r>Alfred<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Alisher<s n="np"/><s n="ant"/><s n="m"/></l><r>Alisher<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Altay<s n="np"/><s n="ant"/><s n="m"/></l><r>Altay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Anton<s n="np"/><s n="ant"/><s n="m"/></l><r>Anton<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Arman<s n="np"/><s n="ant"/><s n="m"/></l><r>Arman<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Azamat<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Bari<s n="np"/><s n="ant"/><s n="m"/></l><r>Bari<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Boris<s n="np"/><s n="ant"/><s n="m"/></l><r>Boris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Charles<s n="np"/><s n="ant"/><s n="m"/></l><r>Charles<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>David<s n="np"/><s n="ant"/><s n="m"/></l><r>David<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Denis<s n="np"/><s n="ant"/><s n="m"/></l><r>Denis<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Filip<s n="np"/><s n="ant"/><s n="m"/></l><r>Filip<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Franklin<s n="np"/><s n="ant"/><s n="m"/></l><r>Franklin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Grigoriy<s n="np"/><s n="ant"/><s n="m"/></l><r>Grigoriy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Ivan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>John<s n="np"/><s n="ant"/><s n="m"/></l><r>John<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Karl<s n="np"/><s n="ant"/><s n="m"/></l><r>Karl<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Konstantin<s n="np"/><s n="ant"/><s n="m"/></l><r>Konstantin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Mansur<s n="np"/><s n="ant"/><s n="m"/></l><r>Mansur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Mark<s n="np"/><s n="ant"/><s n="m"/></l><r>Mark<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Mars<s n="np"/><s n="ant"/><s n="m"/></l><r>Mars<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Martin<s n="np"/><s n="ant"/><s n="m"/></l><r>Martin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Nikolay<s n="np"/><s n="ant"/><s n="m"/></l><r>Nikolay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Richard<s n="np"/><s n="ant"/><s n="m"/></l><r>Richard<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Robert<s n="np"/><s n="ant"/><s n="m"/></l><r>Robert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Tom<s n="np"/><s n="ant"/><s n="m"/></l><r>Tom<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Valentin<s n="np"/><s n="ant"/><s n="m"/></l><r>Valentin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Vladimir<s n="np"/><s n="ant"/><s n="m"/></l><r>Vladimir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>William<s n="np"/><s n="ant"/><s n="m"/></l><r>William<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
+      <e><p><l>Karimov<s n="np"/><s n="cog"/></l><r>Karimov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Yusupov<s n="np"/><s n="cog"/></l><r>Yusupov<s n="np"/><s n="cog"/></r></p></e>
+
+
+      <!-- РАЗДЕЛ: -->
+
+      <e><p><l>bos<s n="adj"/></l><r>bos<s n="adj"/></r></p></e>
+      <e><p><l>diniy<s n="adj"/></l><r>diniy<s n="adj"/></r></p></e>
+      <e><p><l>elementar<s n="adj"/></l><r>elementar<s n="adj"/></r></p></e>
+      <e><p><l>epik<s n="adj"/></l><r>epik<s n="adj"/></r></p></e>
+      <e><p><l>erkin<s n="adj"/></l><r>erkin<s n="adj"/></r></p></e>
+      <e><p><l>eski<s n="adj"/></l><r>eski<s n="adj"/></r></p></e>
+      <e><p><l>estetik<s n="adj"/></l><r>estetik<s n="adj"/></r></p></e>
+      <e><p><l>gorizontal<s n="adj"/></l><r>gorizontal<s n="adj"/></r></p></e>
+      <e><p><l>keyingi<s n="adj"/></l><r>keyingi<s n="adj"/></r></p></e>
+      <e><p><l>kir<s n="adj"/></l><r>kir<s n="adj"/></r></p></e>
+      <e><p><l>kishi<s n="adj"/></l><r>kishi<s n="adj"/></r></p></e>
+      <e><p><l>klassik<s n="adj"/></l><r>klassik<s n="adj"/></r></p></e>
+      <e><p><l>kontinental<s n="adj"/></l><r>kontinental<s n="adj"/></r></p></e>
+      <e><p><l>ko'p<s n="adj"/></l><r>ko'p<s n="adj"/></r></p></e>
+      <e><p><l>lirik<s n="adj"/></l><r>lirik<s n="adj"/></r></p></e>
+      <e><p><l>matematik<s n="adj"/></l><r>matematik<s n="adj"/></r></p></e>
+      <e><p><l>mayda<s n="adj"/></l><r>mayda<s n="adj"/></r></p></e>
+      <e><p><l>mexanik<s n="adj"/></l><r>mexanik<s n="adj"/></r></p></e>
+      <e><p><l>milliy<s n="adj"/></l><r>milliy<s n="adj"/></r></p></e>
+      <e><p><l>mol<s n="adj"/></l><r>mol<s n="adj"/></r></p></e>
+      <e><p><l>optik<s n="adj"/></l><r>optik<s n="adj"/></r></p></e>
+      <e><p><l>organik<s n="adj"/></l><r>organik<s n="adj"/></r></p></e>
+      <e><p><l>o'tkir<s n="adj"/></l><r>o'tkir<s n="adj"/></r></p></e>
+      <e><p><l>o'z<s n="adj"/></l><r>o'z<s n="adj"/></r></p></e>
+      <e><p><l>professional<s n="adj"/></l><r>professional<s n="adj"/></r></p></e>
+      <e><p><l>qara<s n="adj"/></l><r>qara<s n="adj"/></r></p></e>
+      <e><p><l>qor<s n="adj"/></l><r>qor<s n="adj"/></r></p></e>
+      <e><p><l>realistik<s n="adj"/></l><r>realistik<s n="adj"/></r></p></e>
+      <e><p><l>real<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
+      <e><p><l>sol<s n="adj"/></l><r>sol<s n="adj"/></r></p></e>
+      <e><p><l>sur<s n="adj"/></l><r>sur<s n="adj"/></r></p></e>
+      <e><p><l>tez<s n="adj"/></l><r>tez<s n="adj"/></r></p></e>
+      <e><p><l>tik<s n="adj"/></l><r>tik<s n="adj"/></r></p></e>
+
+      <!-- РАЗДЕЛ: -->
+      <e><p><l>bugun<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
+
+      <!-- РАЗДЕЛ: -->
+
+      <!-- РАЗДЕЛ: -->
+
+    <e><p><l>o'sha<s n="prn"/><s n="dem"/></l><r>sol<s n="prn"/><s n="dem"/></r></p></e>
+    <e><p><l>shu<s n="prn"/><s n="dem"/></l><r>usı<s n="prn"/><s n="dem"/></r></p></e>
+    <e><p><l>mi<s n="qst"/></l><r>ma<s n="qst"/></r></p></e>
+    <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+    <e><p><l>]<s n="rpar"/></l><r>]<s n="rpar"/></r></p></e>
+    <e><p><l>”<s n="rquot"/></l><r>”<s n="rquot"/></r></p></e>
+    <e><p><l>»<s n="rquot"/></l><r>»<s n="rquot"/></r></p></e>
+    <e><p><l>ayt<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>bor<s n="v"/><s n="iv"/></l><r>bar<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>boshla<s n="v"/><s n="tv"/></l><r>basla<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>bos<s n="v"/><s n="tv"/></l><r>bas<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>bil<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>bo'l<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>de<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>eshit<s n="v"/><s n="tv"/></l><r>esit<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>qil<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ich<s n="v"/><s n="tv"/></l><r>ish<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>qil<s n="v"/><s n="tv"/></l><r>isle<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>izla<s n="v"/><s n="tv"/></l><r>izle<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>yop<s n="v"/><s n="tv"/></l><r>jap<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>berkin<s n="v"/><s n="iv"/></l><r>jasırın<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>yot<s n="v"/><s n="iv"/></l><r>jat<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>ye<s n="v"/><s n="tv"/></l><r>je<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>yugur<s n="v"/><s n="iv"/></l><r>ju'gir<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>yur<s n="v"/><s n="iv"/></l><r>ju'r<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>kel<s n="v"/><s n="iv"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>ket<s n="v"/><s n="iv"/></l><r>ket<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>kor<s n="v"/><s n="tv"/></l><r>ko'r<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>kul<s n="v"/><s n="iv"/></l><r>ku'l<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>o'tir<s n="v"/><s n="iv"/></l><r>otır<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>o'yla<s n="v"/><s n="tv"/></l><r>oyla<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>uyna<s n="v"/><s n="iv"/></l><r>oyna<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>uyna<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>bit<s n="v"/><s n="iv"/></l><r>pit<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>qayt<s n="v"/><s n="iv"/></l><r>qayt<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>qil<s n="v"/><s n="tv"/></l><r>qıl<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>sana<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>chiq<s n="v"/><s n="iv"/></l><r>shıq<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>so'ra<s n="v"/><s n="tv"/></l><r>sora<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>top<s n="v"/><s n="tv"/></l><r>tap<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>eshit<s n="v"/><s n="tv"/></l><r>tın'la<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>tur<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>eshit<s n="v"/><s n="tv"/></l><r>uq<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>uxla<s n="v"/><s n="iv"/></l><r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
+
+   </section>
+</dictionary>
+

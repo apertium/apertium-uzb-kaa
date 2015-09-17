@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- uzb → kaa -->
+
+  <mode name="uzb-kaa" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kaa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.uzb-kaa.t1x"/>
+        <file name="uzb-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uzb-kaa.uzb-kaa.t2x"/>
+        <file name="uzb-kaa.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uzb-kaa.uzb-kaa.t3x"/>
+        <file name="uzb-kaa.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="uzb-kaa.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="uzb-kaa.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.uzb-kaa.t1x"/>
+        <file name="uzb-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uzb-kaa.uzb-kaa.t2x"/>
+        <file name="uzb-kaa.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uzb-kaa.uzb-kaa.t3x"/>
+        <file name="uzb-kaa.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="uzb-kaa.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="uzb-kaa.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kaa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-uzb-kaa.uzb-kaa.t1x"/>
+        <file name="uzb-kaa.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kaa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.uzb-kaa.t1x"/>
+        <file name="uzb-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-uzb-kaa.uzb-kaa.t2x"/>
+        <file name="uzb-kaa.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kaa-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uzb-kaa.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="uzb-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kaa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.uzb-kaa.t1x"/>
+        <file name="uzb-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uzb-kaa.uzb-kaa.t2x"/>
+        <file name="uzb-kaa.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uzb-kaa.uzb-kaa.t3x"/>
+        <file name="uzb-kaa.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- kaa → uzb -->
+
+  <mode name="kaa-uzb" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaa-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.kaa-uzb.t1x"/>
+        <file name="kaa-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uzb-kaa.kaa-uzb.t2x"/>
+        <file name="kaa-uzb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uzb-kaa.kaa-uzb.t3x"/>
+        <file name="kaa-uzb.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="kaa-uzb.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="kaa-uzb.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.kaa-uzb.t1x"/>
+        <file name="kaa-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uzb-kaa.kaa-uzb.t2x"/>
+        <file name="kaa-uzb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uzb-kaa.kaa-uzb.t3x"/>
+        <file name="kaa-uzb.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="kaa-uzb.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaa-uzb.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-uzb-kaa.kaa-uzb.t1x"/>
+        <file name="kaa-uzb.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.kaa-uzb.t1x"/>
+        <file name="kaa-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-uzb-kaa.kaa-uzb.t2x"/>
+        <file name="kaa-uzb.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-uzb-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-uzb.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="kaa-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-uzb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uzb-kaa.kaa-uzb.t1x"/>
+        <file name="kaa-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uzb-kaa.kaa-uzb.t2x"/>
+        <file name="kaa-uzb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uzb-kaa.kaa-uzb.t3x"/>
+        <file name="kaa-uzb.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
