@@ -33,7 +33,7 @@
 
       <!-- РАЗДЕЛ: -->
 
-      <e><p><l>bog'<s n="n"/></l><r>baqsha<s n="n"/></r></p></e>
+      <e><p><l>bog'<s n="n"/></l><r>bag'<s n="n"/></r></p></e>
       <e><p><l>bog'cha<s n="n"/></l><r>baqsha<s n="n"/></r></p></e>
 
       <e><p><l>advokat<s n="n"/></l><r>advokat<s n="n"/></r></p></e>
@@ -276,7 +276,7 @@
       <e><p><l>til<s n="n"/></l><r>til<s n="n"/></r></p></e>
       <e><p><l>tok<s n="n"/></l><r>tok<s n="n"/></r></p></e>
       <e><p><l>ton<s n="n"/></l><r>ton<s n="n"/></r></p></e>
-      <e><p><l>top<s n="n"/></l><r>top<s n="n"/></r></p></e>
+      <e><p><l>top<s n="n"/></l><r>tap<s n="n"/></r></p></e>
       <e><p><l>tovar<s n="n"/></l><r>tovar<s n="n"/></r></p></e>
       <e><p><l>transport<s n="n"/></l><r>transport<s n="n"/></r></p></e>
       <e><p><l>uglevodorod<s n="n"/></l><r>uglevodorod<s n="n"/></r></p></e>
@@ -450,8 +450,8 @@
     <e><p><l>kul<s n="v"/><s n="iv"/></l><r>ku'l<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>o'tir<s n="v"/><s n="iv"/></l><r>otır<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>o'yla<s n="v"/><s n="tv"/></l><r>oyla<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>uyna<s n="v"/><s n="iv"/></l><r>oyna<s n="v"/><s n="iv"/></r></p></e>
-    <e><p><l>uyna<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>o'yna<s n="v"/><s n="iv"/></l><r>oyna<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>o'yna<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>bit<s n="v"/><s n="iv"/></l><r>pit<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>qayt<s n="v"/><s n="iv"/></l><r>qayt<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>qil<s n="v"/><s n="tv"/></l><r>qıl<s n="v"/><s n="tv"/></r></p></e>
@@ -459,9 +459,9 @@
     <e><p><l>chiq<s n="v"/><s n="iv"/></l><r>shıq<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>so'ra<s n="v"/><s n="tv"/></l><r>sora<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>top<s n="v"/><s n="tv"/></l><r>tap<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>eshit<s n="v"/><s n="tv"/></l><r>tın'la<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>eshit<s n="v"/><s n="tv"/></l><r>esit<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>tur<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
-    <e><p><l>eshit<s n="v"/><s n="tv"/></l><r>uq<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>tingla<s n="v"/><s n="tv"/></l><r>tın'la<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>uxla<s n="v"/><s n="iv"/></l><r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
 
    </section>
