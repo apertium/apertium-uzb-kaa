@@ -2,8 +2,8 @@
 <!--
 	Dictionary:
 	Sections: 1
-	Entries: 412
-	Sdefs: 18
+	Entries: 754
+	Sdefs: 22
 
 -->
 <dictionary>
@@ -11,6 +11,11 @@
   <sdefs>
     <sdef n="n" 	c="Noun"/> 
     <sdef n="np" 	c=""/> 
+    <sdef n="cnjcoo" 	c=""/>
+    <sdef n="cnjsub" 	c=""/>
+    <sdef n="post" 	c=""/>
+    <sdef n="abbr" 	c=""/>         
+    <sdef n="ij" 	c=""/> 
     <sdef n="adv" 	c=""/> 
     <sdef n="adj" 	c=""/> 
     <sdef n="prn" 	c=""/> 
@@ -27,19 +32,356 @@
     <sdef n="rquot" /> 
     <sdef n="tv" /> 
     <sdef n="v" /> 
+    <sdef n="prep" /> 
   </sdefs>
   <section id="main" type="standard">
 
-      <!-- РАЗДЕЛ: Местоимение -->
-<e>       <p><l>u<s n="prn"/><s n="pers"/></l>         <r>ol<s n="prn"/><s n="pers"/></r></p></e>
+      <!-- SECTION: Common-->
 
-      <!-- РАЗДЕЛ: -->
-
-      <!-- РАЗДЕЛ: -->
-
-<e>       <p><l>bog'<s n="n"/></l>                     <r>baǵ<s n="n"/></r></p></e>
-<e>       <p><l>bog'cha<s n="n"/></l>                  <r>baqsha<s n="n"/></r></p></e>
-
+<e>       <p><l>a<s n="cnjcoo"/></l>                   <r>a</r></p></e>
+<e>       <p><l>a<s n="ij"/></l>                       <r>a</r></p></e>
+<e>       <p><l>-a<s n="qst"/></l>                     <r>-a</r></p></e>
+<e>       <p><l>-ya<s n="qst"/></l>                    <r>-ya</r></p></e>
+<e>       <p><l>abad<s n="adv"/></l>                   <r>abad</r></p></e>
+<e>       <p><l>abad<s n="n"/></l>                     <r>abad</r></p></e>
+<e>       <p><l>abadiy<s n="adj"/></l>                 <r>abadiy</r></p></e>
+<e>       <p><l>abadiylash<s n="n"/></l>               <r>abadiylash</r></p></e>
+<e>       <p><l>abadiylashtir<s n="v"/><s n="tv"/></l> <r>abadiylashtir</r></p></e>
+<e>       <p><l>abadiylik<s n="n"/></l>                <r>abadiylik</r></p></e>
+<e>       <p><l>abadiya<s n="adj"/></l>                <r>abadiya</r></p></e>
+<e>       <p><l>abadiyan<s n="adv"/></l>               <r>abadiyan</r></p></e>
+<e>       <p><l>abadiyat<s n="n"/></l>                 <r>abadiyat</r></p></e>
+<e>       <p><l>abajur<s n="n"/></l>                   <r>abajur</r></p></e>
+<e>       <p><l>abas<s n="adj"/></l>                   <r>abas</r></p></e>
+<e>       <p><l>abgor<s n="adj"/></l>                  <r>abgor</r></p></e>
+<e>       <p><l>abgorlik<s n="n"/></l>                 <r>abgorlik</r></p></e>
+<e>       <p><l>abdol<s n="adj"/></l>                  <r>abdol</r></p></e>
+<e>       <p><l>aberratsion<s n="adj"/></l>            <r>aberratsion</r></p></e>
+<e>       <p><l>aberratsiya<s n="n"/></l>              <r>aberratsiya</r></p></e>
+<e>       <p><l>abjad<s n="n"/></l>                    <r>abjad</r></p></e>
+<e>       <p><l>abjaq<s n="n"/></l>                    <r>abjaq</r></p></e>
+<e>       <p><l>abjir<s n="adj"/></l>                  <r>abjir</r></p></e>
+<e>       <p><l>abjirlik<s n="n"/></l>                 <r>abjirlik</r></p></e>
+<e>       <p><l>abzal<s n="n"/></l>                    <r>abzal</r></p></e>
+<e>       <p><l>abzalla<s n="v"/><s n="tv"/></l>       <r>abzalla</r></p></e>
+<e>       <p><l>abzats<s n="n"/></l>                   <r>abzats</r></p></e>
+<e>       <p><l>abira<s n="n"/></l>                    <r>abira</r></p></e>
+<e>       <p><l>ablaq<s n="adj"/></l>                  <r>ablaq</r></p></e>
+<e>       <p><l>ablah<s n="n"/></l>                    <r>ablah</r></p></e>
+<e>       <p><l>ablahlarcha<s n="adv"/></l>            <r>ablahlarcha</r></p></e>
+<e>       <p><l>ablahlik<s n="n"/></l>                 <r>ablahlik</r></p></e>
+<e>       <p><l>ablahona<s n="adj"/></l>               <r>ablahona</r></p></e>
+<e>       <p><l>abonement<s n="n"/></l>                <r>abonement</r></p></e>
+<e>       <p><l>abonent<s n="n"/></l>                  <r>abonent</r></p></e>
+<e>       <p><l>abort<s n="n"/></l>                    <r>abort</r></p></e>
+<e>       <p><l>abortiv<s n="adj"/></l>                <r>abortiv</r></p></e>
+<e>       <p><l>abort<b/>qil<s n="v"/><s n="iv"/></l>  <r>abort<b/>qil</r></p></e>
+<e>       <p><l>abr<s n="n"/></l>                      <r>abr</r></p></e>
+<e>       <p><l>abraziv<s n="n"/></l>                  <r>abraziv</r></p></e>
+<e>       <p><l>abrishim<s n="n"/></l>                 <r>abrishim</r></p></e>
+<e>       <p><l>abroʻ<s n="n"/></l>                    <r>abroʻ</r></p></e>
+<e>       <p><l>abroʻkamon<s n="adj"/></l>             <r>abroʻkamon</r></p></e>
+<e>       <p><l>abroʻkamon<s n="n"/></l>               <r>abroʻkamon</r></p></e>
+<e>       <p><l>absolut<s n="adj"/></l>                <r>absolut</r></p></e>
+<e>       <p><l>absolut<s n="n"/></l>                  <r>absolut</r></p></e>
+<e>       <p><l>absolyutizm<s n="n"/></l>              <r>absolyutizm</r></p></e>
+<e>       <p><l>abstrakt<s n="adj"/></l>               <r>abstrakt</r></p></e>
+<e>       <p><l>abstraktla<s n="v"/><s n="tv"/></l>    <r>abstraktla</r></p></e>
+<e>       <p><l>abstraktlashtir<s n="v"/><s n="tv"/></l><r>abstraktlashtir</r></p></e>
+<e>       <p><l>abstraktlik<s n="n"/></l>              <r>abstraktlik</r></p></e>
+<e>       <p><l>abstraksiya<s n="n"/></l>              <r>abstraksiya</r></p></e>
+<e>       <p><l>abssess<s n="n"/></l>                  <r>abssess</r></p></e>
+<e>       <p><l>abssissa<s n="n"/></l>                 <r>abssissa</r></p></e>
+<e>       <p><l>abxaz<s n="n"/></l>                    <r>abxaz</r></p></e>
+<e>       <p><l>av</l>                                 <r>av</r></p></e>
+<e>       <p><l>avayla<s n="v"/><s n="tv"/></l>        <r>avayla</r></p></e>
+<e>       <p><l>avaylab<s n="adv"/></l>                <r>avaylab</r></p></e>
+<e>       <p><l>avangard<s n="n"/></l>                 <r>avangard</r></p></e>
+<e>       <p><l>avangardlik<s n="n"/></l>              <r>avangardlik</r></p></e>
+<e>       <p><l>avans<s n="n"/></l>                    <r>avans</r></p></e>
+<e>       <p><l>avantyura<s n="n"/></l>                <r>avantyura</r></p></e>
+<e>       <p><l>avantyurachi<s n="n"/></l>             <r>avantyurachi</r></p></e>
+<e>       <p><l>avantyurizm<s n="n"/></l>              <r>avantyurizm</r></p></e>
+<e>       <p><l>avantyurist<s n="n"/></l>              <r>avantyurist</r></p></e>
+<e>       <p><l>avantyuristik<s n="adj"/></l>          <r>avantyuristik</r></p></e>
+<e>       <p><l>avantyuristlik<s n="n"/></l>           <r>avantyuristlik</r></p></e>
+<e>       <p><l>avar<s n="n"/></l>                     <r>avar</r></p></e>
+<e>       <p><l>avariya<s n="n"/></l>                  <r>avariya</r></p></e>
+<e>       <p><l>avaxta<s n="n"/></l>                   <r>avaxta</r></p></e>
+<e>       <p><l>avagʻa<s n="n"/></l>                   <r>avagʻa</r></p></e>
+<e>       <p><l>avbosh<s n="n"/></l>                   <r>avbosh</r></p></e>
+<e>       <p><l>avboshlik<s n="n"/></l>                <r>avboshlik</r></p></e>
+<e>       <p><l>avval<s n="adj"/></l>                  <r>avval</r></p></e>
+<e>       <p><l>avval<s n="adv"/></l>                  <r>avval</r></p></e>
+<e>       <p><l>avval<s n="n"/></l>                    <r>avval</r></p></e>
+<e>       <p><l>avval<s n="post"/></l>                 <r>avval</r></p></e>
+<e>       <p><l>avvalan<s n="adv"/></l>                <r>avvalan</r></p></e>
+<e>       <p><l>avvalgidek<s n="adv"/></l>             <r>avvalgidek</r></p></e>
+<e>       <p><l>avvalgicha<s n="adv"/></l>             <r>avvalgicha</r></p></e>
+<e>       <p><l>avvallari<s n="adv"/></l>              <r>avvallari</r></p></e>
+<e>       <p><l>avvalo<s n="adv"/></l>                 <r>avvalo</r></p></e>
+<e>       <p><l>avg%.<s n="abbr"/></l>                 <r>avg%.</r></p></e>
+<e>       <p><l>avg<s n="abbr"/></l>                   <r>avg</r></p></e>
+<e>       <p><l>avgust<s n="n"/></l>                   <r>avgust</r></p></e>
+<e>       <p><l>avj<s n="n"/></l>                      <r>avj</r></p></e>
+<e>       <p><l>avjlantir<s n="v"/><s n="tv"/></l>     <r>avjlantir</r></p></e>
+<e>       <p><l>avjli<s n="adj"/></l>                  <r>avjli</r></p></e>
+<e>       <p><l>avjsiz<s n="adj"/></l>                 <r>avjsiz</r></p></e>
+<e>       <p><l>avzo<s n="n"/></l>                     <r>avzo</r></p></e>
+<e>       <p><l>avzoi<s n="n"/></l>                    <r>avzoi</r></p></e>
+<e>       <p><l>aviabaza<s n="n"/></l>                 <r>aviabaza</r></p></e>
+<e>       <p><l>aviabomba<s n="n"/></l>                <r>aviabomba</r></p></e>
+<e>       <p><l>aviadesant<s n="n"/></l>               <r>aviadesant</r></p></e>
+<e>       <p><l>aviadesantchi<s n="n"/></l>            <r>aviadesantchi</r></p></e>
+<e>       <p><l>aviazavod<s n="n"/></l>                <r>aviazavod</r></p></e>
+<e>       <p><l>aviakonstruktor<s n="n"/></l>          <r>aviakonstruktor</r></p></e>
+<e>       <p><l>avialiniya<s n="n"/></l>               <r>avialiniya</r></p></e>
+<e>       <p><l>aviamodel<s n="n"/></l>                <r>aviamodel</r></p></e>
+<e>       <p><l>aviamodelchi<s n="n"/></l>             <r>aviamodelchi</r></p></e>
+<e>       <p><l>aviamodelchilik<s n="n"/></l>          <r>aviamodelchilik</r></p></e>
+<e>       <p><l>aviamotor<s n="n"/></l>                <r>aviamotor</r></p></e>
+<e>       <p><l>aviamotorsozlik<s n="n"/></l>          <r>aviamotorsozlik</r></p></e>
+<e>       <p><l>avianos<s n="n"/></l>                  <r>avianos</r></p></e>
+<e>       <p><l>avianosets<s n="n"/></l>               <r>avianosets</r></p></e>
+<e>       <p><l>aviapochta<s n="n"/></l>               <r>aviapochta</r></p></e>
+<e>       <p><l>aviatsion<s n="adj"/></l>              <r>aviatsion</r></p></e>
+<e>       <p><l>aviatsiya<s n="n"/></l>                <r>aviatsiya</r></p></e>
+<e>       <p><l>avliyo<s n="n"/></l>                   <r>avliyo</r></p></e>
+<e>       <p><l>avliyonamo<s n="adj"/></l>             <r>avliyonamo</r></p></e>
+<e>       <p><l>avlo<s n="adj"/></l>                   <r>avlo</r></p></e>
+<e>       <p><l>avlod<s n="n"/></l>                    <r>avlod</r></p></e>
+<e>       <p><l>avlod-ajdod<s n="n"/></l>              <r>avlod-ajdod</r></p></e>
+<e>       <p><l>avom<s n="n"/></l>                     <r>avom</r></p></e>
+<e>       <p><l>avra<s n="n"/></l>                     <r>avra</r></p></e>
+<e>       <p><l>avra-astar<s n="n"/></l>               <r>avra-astar</r></p></e>
+<e>       <p><l>avral<s n="n"/></l>                    <r>avral</r></p></e>
+<e>       <p><l>avra<s n="v"/><s n="tv"/></l>          <r>avra</r></p></e>
+<e>       <p><l>avrat<s n="n"/></l>                    <r>avrat</r></p></e>
+<e>       <p><l>avratpoʻsh<s n="n"/></l>               <r>avratpoʻsh</r></p></e>
+<e>       <p><l>avrash<s n="n"/></l>                   <r>avrash</r></p></e>
+<e>       <p><l>avrash-aldash<s n="n"/></l>            <r>avrash-aldash</r></p></e>
+<e>       <p><l>avrogʻich<s n="n"/></l>                <r>avrogʻich</r></p></e>
+<e>       <p><l>avroqchi<s n="n"/></l>                 <r>avroqchi</r></p></e>
+<e>       <p><l>avsat<s n="adj"/></l>                  <r>avsat</r></p></e>
+<e>       <p><l>avtobaza<s n="n"/></l>                 <r>avtobaza</r></p></e>
+<e>       <p><l>avtobiografik<s n="adj"/></l>          <r>avtobiografik</r></p></e>
+<e>       <p><l>avtobiografiya<s n="n"/></l>           <r>avtobiografiya</r></p></e>
+<e>       <p><l>avtoblokirovka<s n="n"/></l>           <r>avtoblokirovka</r></p></e>
+<e>       <p><l>avtobus<s n="n"/></l>                  <r>avtobus</r></p></e>
+<e>       <p><l>avtogen<s n="n"/></l>                  <r>avtogen</r></p></e>
+<e>       <p><l>avtograf<s n="n"/></l>                 <r>avtograf</r></p></e>
+<e>       <p><l>avtografik<s n="adj"/></l>             <r>avtografik</r></p></e>
+<e>       <p><l>avtozavod<s n="n"/></l>                <r>avtozavod</r></p></e>
+<e>       <p><l>avtokamera<s n="n"/></l>               <r>avtokamera</r></p></e>
+<e>       <p><l>avtokolonna<s n="n"/></l>              <r>avtokolonna</r></p></e>
+<e>       <p><l>avtol<s n="n"/></l>                    <r>avtol</r></p></e>
+<e>       <p><l>avtomat<s n="n"/></l>                  <r>avtomat</r></p></e>
+<e>       <p><l>avtomatik<s n="adj"/></l>              <r>avtomatik</r></p></e>
+<e>       <p><l>avtomatlash<s n="v"/><s n="iv"/></l>   <r>avtomatlash</r></p></e>
+<e>       <p><l>avtomatlashtir<s n="v"/><s n="tv"/></l><r>avtomatlashtir</r></p></e>
+<e>       <p><l>avtomatlashtirish<s n="n"/></l>        <r>avtomatlashtirish</r></p></e>
+<e>       <p><l>avtomatchi<s n="n"/></l>               <r>avtomatchi</r></p></e>
+<e>       <p><l>avtomashina<s n="n"/></l>              <r>avtomashina</r></p></e>
+<e>       <p><l>avtomobil<s n="n"/></l>                <r>avtomobil</r></p></e>
+<e>       <p><l>avtomobilsozlik<s n="n"/></l>          <r>avtomobilsozlik</r></p></e>
+<e>       <p><l>avtonom<s n="adj"/></l>                <r>avtonom</r></p></e>
+<e>       <p><l>avtonomist<s n="n"/></l>               <r>avtonomist</r></p></e>
+<e>       <p><l>avtonomiya<s n="n"/></l>               <r>avtonomiya</r></p></e>
+<e>       <p><l>avtonomiyali<s n="adj"/></l>           <r>avtonomiyali</r></p></e>
+<e>       <p><l>avtonomiyachi<s n="n"/></l>            <r>avtonomiyachi</r></p></e>
+<e>       <p><l>avtonomlik<s n="n"/></l>               <r>avtonomlik</r></p></e>
+<e>       <p><l>avtopark<s n="n"/></l>                 <r>avtopark</r></p></e>
+<e>       <p><l>avtopoyga<s n="n"/></l>                <r>avtopoyga</r></p></e>
+<e>       <p><l>avtor<s n="n"/></l>                    <r>avtor</r></p></e>
+<e>       <p><l>avtoremont<s n="n"/></l>               <r>avtoremont</r></p></e>
+<e>       <p><l>avtoreferat<s n="n"/></l>              <r>avtoreferat</r></p></e>
+<e>       <p><l>avtorlik<s n="n"/></l>                 <r>avtorlik</r></p></e>
+<e>       <p><l>avtoruchka<s n="n"/></l>               <r>avtoruchka</r></p></e>
+<e>       <p><l>avtosugʻorgʻich<s n="n"/></l>          <r>avtosugʻorgʻich</r></p></e>
+<e>       <p><l>avtotransport<s n="n"/></l>            <r>avtotransport</r></p></e>
+<e>       <p><l>avtoxoʻjalik<s n="n"/></l>             <r>avtoxoʻjalik</r></p></e>
+<e>       <p><l>avtochana<s n="n"/></l>                <r>avtochana</r></p></e>
+<e>       <p><l>agar<s n="cnjsub"/></l>                <r>agar</r></p></e>
+<e>       <p><l>agarda<s n="cnjsub"/></l>              <r>agarda</r></p></e>
+<e>       <p><l>agar<b/>magar<s n="cnjsub"/></l>       <r>agar<b/>magar</r></p></e>
+<e>       <p><l>agglyutinativ<s n="adj"/></l>          <r>agglyutinativ</r></p></e>
+<e>       <p><l>agglyutinatsiya<s n="n"/></l>          <r>agglyutinatsiya</r></p></e>
+<e>       <p><l>agent<s n="n"/></l>                    <r>agent</r></p></e>
+<e>       <p><l>agentlik<s n="n"/></l>                 <r>agentlik</r></p></e>
+<e>       <p><l>agentura<s n="n"/></l>                 <r>agentura</r></p></e>
+<e>       <p><l>agitator<s n="n"/></l>                 <r>agitator</r></p></e>
+<e>       <p><l>agitatorlik<s n="n"/></l>              <r>agitatorlik</r></p></e>
+<e>       <p><l>agitatsion<s n="adj"/></l>             <r>agitatsion</r></p></e>
+<e>       <p><l>agitatsiya<s n="n"/></l>               <r>agitatsiya</r></p></e>
+<e>       <p><l>agitpunkt<s n="n"/></l>                <r>agitpunkt</r></p></e>
+<e>       <p><l>agnostik<s n="adj"/></l>               <r>agnostik</r></p></e>
+<e>       <p><l>agnostik<s n="n"/></l>                 <r>agnostik</r></p></e>
+<e>       <p><l>agnostitsizm<s n="n"/></l>             <r>agnostitsizm</r></p></e>
+<e>       <p><l>agrar<s n="adj"/></l>                  <r>agrar</r></p></e>
+<e>       <p><l>agrarchi<s n="n"/></l>                 <r>agrarchi</r></p></e>
+<e>       <p><l>agregat<s n="n"/></l>                  <r>agregat</r></p></e>
+<e>       <p><l>agressiv<s n="adj"/></l>               <r>agressiv</r></p></e>
+<e>       <p><l>agressivlik<s n="n"/></l>              <r>agressivlik</r></p></e>
+<e>       <p><l>agressiya<s n="n"/></l>                <r>agressiya</r></p></e>
+<e>       <p><l>agressiyachi<s n="n"/></l>             <r>agressiyachi</r></p></e>
+<e>       <p><l>agressiyachilik<s n="n"/></l>          <r>agressiyachilik</r></p></e>
+<e>       <p><l>agressor<s n="n"/></l>                 <r>agressor</r></p></e>
+<e>       <p><l>agressorlik<s n="n"/></l>              <r>agressorlik</r></p></e>
+<e>       <p><l>agrikultura<s n="n"/></l>              <r>agrikultura</r></p></e>
+<e>       <p><l>agrobiologik<s n="adj"/></l>           <r>agrobiologik</r></p></e>
+<e>       <p><l>agrobiologiya<s n="n"/></l>            <r>agrobiologiya</r></p></e>
+<e>       <p><l>agrokultura<s n="n"/></l>              <r>agrokultura</r></p></e>
+<e>       <p><l>agromeliorativ<s n="adj"/></l>         <r>agromeliorativ</r></p></e>
+<e>       <p><l>agromelioratsiya<s n="n"/></l>         <r>agromelioratsiya</r></p></e>
+<e>       <p><l>agronom<s n="n"/></l>                  <r>agronom</r></p></e>
+<e>       <p><l>agronomik<s n="adj"/></l>              <r>agronomik</r></p></e>
+<e>       <p><l>agronomiya<s n="n"/></l>               <r>agronomiya</r></p></e>
+<e>       <p><l>agronomlik<s n="n"/></l>               <r>agronomlik</r></p></e>
+<e>       <p><l>agrosanoat<s n="n"/></l>               <r>agrosanoat</r></p></e>
+<e>       <p><l>agrotexnik<s n="adj"/></l>             <r>agrotexnik</r></p></e>
+<e>       <p><l>agrotexnik<s n="n"/></l>               <r>agrotexnik</r></p></e>
+<e>       <p><l>agrouchastka<s n="n"/></l>             <r>agrouchastka</r></p></e>
+<e>       <p><l>ada<s n="n"/></l>                      <r>ada</r></p></e>
+<e>       <p><l>adab<s n="n"/></l>                     <r>adab</r></p></e>
+<e>       <p><l>adabiyot<s n="n"/></l>                 <r>adabiyot</r></p></e>
+<e>       <p><l>adabiyotchi<s n="n"/></l>              <r>adabiyotchi</r></p></e>
+<e>       <p><l>adabiyotchilik<s n="n"/></l>           <r>adabiyotchilik</r></p></e>
+<e>       <p><l>adabiyotshunos<s n="n"/></l>           <r>adabiyotshunos</r></p></e>
+<e>       <p><l>adabiyotshunoslik<s n="n"/></l>        <r>adabiyotshunoslik</r></p></e>
+<e>       <p><l>adabiy<s n="adj"/></l>                 <r>adabiy</r></p></e>
+<e>       <p><l>adabiy-publitsistik<s n="adj"/></l>    <r>adabiy-publitsistik</r></p></e>
+<e>       <p><l>adabsiz<s n="adj"/></l>                <r>adabsiz</r></p></e>
+<e>       <p><l>adabsizlik<s n="n"/></l>               <r>adabsizlik</r></p></e>
+<e>       <p><l>adad<s n="n"/></l>                     <r>adad</r></p></e>
+<e>       <p><l>adadsiz<s n="adj"/></l>                <r>adadsiz</r></p></e>
+<e>       <p><l>adam<s n="n"/></l>                     <r>adam</r></p></e>
+<e>       <p><l>adaptatsiya<s n="n"/></l>              <r>adaptatsiya</r></p></e>
+<e>       <p><l>adash<s n="adj"/></l>                  <r>adash</r></p></e>
+<e>       <p><l>adash<s n="v"/><s n="iv"/></l>         <r>adash</r></p></e>
+<e>       <p><l>adash<s n="n"/></l>                    <r>adash</r></p></e>
+<e>       <p><l>adashtir<s n="v"/><s n="tv"/></l>      <r>adashtir</r></p></e>
+<e>       <p><l>advokat<s n="n"/></l>                  <r>advokat</r></p></e>
+<e>       <p><l>advokatlik<s n="n"/></l>               <r>advokatlik</r></p></e>
+<e>       <p><l>advokatura<s n="n"/></l>               <r>advokatura</r></p></e>
+<e>       <p><l>addoiy<s n="adj"/></l>                 <r>addoiy</r></p></e>
+<e>       <p><l>adekvat<s n="adj"/></l>                <r>adekvat</r></p></e>
+<e>       <p><l>adekvatlik<s n="n"/></l>               <r>adekvatlik</r></p></e>
+<e>       <p><l>adyol<s n="n"/></l>                    <r>adyol</r></p></e>
+<e>       <p><l>adiba<s n="n"/></l>                    <r>adiba</r></p></e>
+<e>       <p><l>adi-badi<s n="n"/></l>                 <r>adi-badi</r></p></e>
+<e>       <p><l>adi-badi<b/>ayt<s n="v"/><s n="iv"/></l><r>adi-badi<b/>ayt</r></p></e>
+<e>       <p><l>adi-badi<b/>aytish<s n="v"/><s n="iv"/></l><r>adi-badi<b/>aytish</r></p></e>
+<e>       <p><l>adib<s n="n"/></l>                     <r>adib</r></p></e>
+<e>       <p><l>adiblik<s n="n"/></l>                  <r>adiblik</r></p></e>
+<e>       <p><l>adibona<s n="adv"/></l>                <r>adibona</r></p></e>
+<e>       <p><l>adil<s n="adj"/></l>                   <r>adil</r></p></e>
+<e>       <p><l>adillik<s n="n"/></l>                  <r>adillik</r></p></e>
+<e>       <p><l>adip<s n="n"/></l>                     <r>adip</r></p></e>
+<e>       <p><l>adipla<s n="v"/><s n="tv"/></l>        <r>adipla</r></p></e>
+<e>       <p><l>adir<s n="n"/></l>                     <r>adir</r></p></e>
+<e>       <p><l>adir-gaza<s n="n"/></l>                <r>adir-gaza</r></p></e>
+<e>       <p><l>adirli<s n="adj"/></l>                 <r>adirli</r></p></e>
+<e>       <p><l>adirlik<s n="n"/></l>                  <r>adirlik</r></p></e>
+<e>       <p><l>adl<s n="n"/></l>                      <r>adl</r></p></e>
+<e>       <p><l>adl-insof<s n="n"/></l>                <r>adl-insof</r></p></e>
+<e>       <p><l>adliya<s n="n"/></l>                   <r>adliya</r></p></e>
+<e>       <p><l>administrativ<s n="adj"/></l>          <r>administrativ</r></p></e>
+<e>       <p><l>administrator<s n="n"/></l>            <r>administrator</r></p></e>
+<e>       <p><l>administratorlik<s n="n"/></l>         <r>administratorlik</r></p></e>
+<e>       <p><l>administratsiya<s n="n"/></l>          <r>administratsiya</r></p></e>
+<e>       <p><l>admiral<s n="n"/></l>                  <r>admiral</r></p></e>
+<e>       <p><l>admirallik<s n="n"/></l>               <r>admirallik</r></p></e>
+<e>       <p><l>adno<s n="adj"/></l>                   <r>adno</r></p></e>
+<e>       <p><l>ado<s n="n"/></l>                      <r>ado</r></p></e>
+<e>       <p><l>ado<b/>bul<s n="v"/><s n="iv"/></l>    <r>ado<b/>bul</r></p></e>
+<e>       <p><l>ado<b/>et<s n="v"/><s n="iv"/></l>     <r>ado<b/>et</r></p></e>
+<e>       <p><l>ado<b/>qil<s n="v"/><s n="iv"/></l>    <r>ado<b/>qil</r></p></e>
+<e>       <p><l>adovat<s n="n"/></l>                   <r>adovat</r></p></e>
+<e>       <p><l>adovatli<s n="adj"/></l>               <r>adovatli</r></p></e>
+<e>       <p><l>adovatsiz<s n="adj"/></l>              <r>adovatsiz</r></p></e>
+<e>       <p><l>adovatsizlik<s n="n"/></l>             <r>adovatsizlik</r></p></e>
+<e>       <p><l>adovatchilik<s n="n"/></l>             <r>adovatchilik</r></p></e>
+<e>       <p><l>adoyi<s n="n"/></l>                    <r>adoyi</r></p></e>
+<e>       <p><l>adoyi<b/>tamom<b/>bul<s n="v"/><s n="iv"/></l><r>adoyi<b/>tamom<b/>bul</r></p></e>
+<e>       <p><l>adolat<s n="n"/></l>                   <r>adolat</r></p></e>
+<e>       <p><l>adolatli<s n="adj"/></l>               <r>adolatli</r></p></e>
+<e>       <p><l>adolatparvar<s n="adj"/></l>           <r>adolatparvar</r></p></e>
+<e>       <p><l>adolatparvar<s n="n"/></l>             <r>adolatparvar</r></p></e>
+<e>       <p><l>adolatparvarlik<s n="n"/></l>          <r>adolatparvarlik</r></p></e>
+<e>       <p><l>adolatsiz<s n="adj"/></l>              <r>adolatsiz</r></p></e>
+<e>       <p><l>adolatsizlik<s n="n"/></l>             <r>adolatsizlik</r></p></e>
+<e>       <p><l>adras<s n="n"/></l>                    <r>adras</r></p></e>
+<e>       <p><l>adres<s n="n"/></l>                    <r>adres</r></p></e>
+<e>       <p><l>adresla<s n="v"/><s n="tv"/></l>       <r>adresla</r></p></e>
+<e>       <p><l>adyutant<s n="n"/></l>                 <r>adyutant</r></p></e>
+<e>       <p><l>aya<s n="v"/><s n="tv"/></l>           <r>aya</r></p></e>
+<e>       <p><l>ayo<s n="ij"/></l>                     <r>ayo</r></p></e>
+<e>       <p><l>ayovli<s n="adj"/></l>                 <r>ayovli</r></p></e>
+<e>       <p><l>ayovsiz<s n="adj"/></l>                <r>ayovsiz</r></p></e>
+<e>       <p><l>ayoz<s n="n"/></l>                     <r>ayoz</r></p></e>
+<e>       <p><l>ayoz<s n="adj"/></l>                   <r>ayoz</r></p></e>
+<e>       <p><l>ayol<s n="n"/></l>                     <r>ayol</r></p></e>
+<e>       <p><l>ayol<s n="n"/></l>                     <r>ayol</r></p></e>
+<e>       <p><l>ayolmand<s n="adj"/></l>               <r>ayolmand</r></p></e>
+<e>       <p><l>ayon<s n="adj"/></l>                   <r>ayon</r></p></e>
+<e>       <p><l>ajab<s n="adj"/></l>                   <r>ajab</r></p></e>
+<e>       <p><l>ajablan<s n="v"/><s n="iv"/></l>       <r>ajablan</r></p></e>
+<e>       <p><l>ajablanish<s n="n"/></l>               <r>ajablanish</r></p></e>
+<e>       <p><l>ajablantir<s n="v"/><s n="tv"/></l>    <r>ajablantir</r></p></e>
+<e>       <p><l>ajabo<s n="adv"/></l>                  <r>ajabo</r></p></e>
+<e>       <p><l>ajabsin<s n="v"/><s n="iv"/></l>       <r>ajabsin</r></p></e>
+<e>       <p><l>ajabtovur<s n="adj"/></l>              <r>ajabtovur</r></p></e>
+<e>       <p><l>ajal<s n="n"/></l>                     <r>ajal</r></p></e>
+<e>       <p><l>ajam<s n="n"/></l>                     <r>ajam</r></p></e>
+<e>       <p><l>ajamiy<s n="adj"/></l>                 <r>ajamiy</r></p></e>
+<e>       <p><l>ajdar<s n="n"/></l>                    <r>ajdar</r></p></e>
+<e>       <p><l>ajdargul<s n="n"/></l>                 <r>ajdargul</r></p></e>
+<e>       <p><l>ajdarnafs<s n="adj"/></l>              <r>ajdarnafs</r></p></e>
+<e>       <p><l>ajdarho<s n="n"/></l>                  <r>ajdarho</r></p></e>
+<e>       <p><l>ajdaho<s n="n"/></l>                   <r>ajdaho</r></p></e>
+<e>       <p><l>ajdahor<s n="n"/></l>                  <r>ajdahor</r></p></e>
+<e>       <p><l>ajdod<s n="n"/></l>                    <r>ajdod</r></p></e>
+<e>       <p><l>ajz<s n="n"/></l>                      <r>ajz</r></p></e>
+<e>       <p><l>aji-aji<s n="n"/></l>                  <r>aji-aji</r></p></e>
+<e>       <p><l>aji-aji<b/>qil<s n="v"/><s n="iv"/></l><r>aji-aji<b/>qil</r></p></e>
+<e>       <p><l>ajib<s n="adj"/></l>                   <r>ajib</r></p></e>
+<e>       <p><l>aji-buji<s n="adj"/></l>               <r>aji-buji</r></p></e>
+<e>       <p><l>ajiva<s n="adj"/></l>                  <r>ajiva</r></p></e>
+<e>       <p><l>ajiva-jinni<s n="adj"/></l>            <r>ajiva-jinni</r></p></e>
+<e>       <p><l>ajin<s n="n"/></l>                     <r>ajin</r></p></e>
+<e>       <p><l>ajina<s n="n"/></l>                    <r>ajina</r></p></e>
+<e>       <p><l>ajnabiy<s n="adj"/></l>                <r>ajnabiy</r></p></e>
+<e>       <p><l>ajnos<s n="n"/></l>                    <r>ajnos</r></p></e>
+<e>       <p><l>ajoyib<s n="adj"/></l>                 <r>ajoyib</r></p></e>
+<e>       <p><l>ajoyiblik<s n="n"/></l>                <r>ajoyiblik</r></p></e>
+<e>       <p><l>ajoyibot<s n="n"/></l>                 <r>ajoyibot</r></p></e>
+<e>       <p><l>ajoyib-gʻaroyib<s n="adj"/></l>        <r>ajoyib-gʻaroyib</r></p></e>
+<e>       <p><l>ajoyibxona<s n="n"/></l>               <r>ajoyibxona</r></p></e>
+<e>       <p><l>ajr<s n="n"/></l>                      <r>ajr</r></p></e>
+<e>       <p><l>ajra<s n="v"/><s n="iv"/></l>          <r>ajra</r></p></e>
+<e>       <p><l>ajral<s n="v"/><s n="iv"/></l>         <r>ajral</r></p></e>
+<e>       <p><l>ajralish<s n="n"/></l>                 <r>ajralish</r></p></e>
+<e>       <p><l>ajralmas<s n="adj"/></l>               <r>ajralmas</r></p></e>
+<e>       <p><l>ajrat<s n="v"/><s n="tv"/></l>         <r>ajrat</r></p></e>
+<e>       <p><l>ajratish<s n="n"/></l>                 <r>ajratish</r></p></e>
+<e>       <p><l>ajratqich<s n="n"/></l>                <r>ajratqich</r></p></e>
+<e>       <p><l>ajratma<s n="n"/></l>                  <r>ajratma</r></p></e>
+<e>       <p><l>ajrash<s n="v"/><s n="iv"/></l>        <r>ajrash</r></p></e>
+<e>       <p><l>ajriq<s n="n"/></l>                    <r>ajriq</r></p></e>
+<e>       <p><l>ajriqzor<s n="n"/></l>                 <r>ajriqzor</r></p></e>
+<e>       <p><l>ajrim<s n="n"/></l>                    <r>ajrim</r></p></e>
+<e>       <p><l>ajrimlik<s n="n"/></l>                 <r>ajrimlik</r></p></e>
+<e>       <p><l>ajuz-majuz<s n="n"/></l>               <r>ajuz-majuz</r></p></e>
+<e>       <p><l>az<s n="prep"/></l>                    <r>az</r></p></e>
+<e>       <p><l>az<b/>roʻzi<b/>azal<s n="adv"/></l>    <r>az<b/>roʻzi<b/>azal</r></p></e>
+<e>       <p><l>aza<s n="n"/></l>                      <r>aza</r></p></e>
+<e>       <p><l>azab<s n="n"/></l>                     <r>azab</r></p></e>
+<e>       <p><l>azavozlik<s n="n"/></l>                <r>azavozlik</r></p></e>
+<e>       <p><l>azador<s n="n"/></l>                   <r>azador</r></p></e>
+<e>       <p><l>azadorlik<s n="n"/></l>                <r>azadorlik</r></p></e>
+<e>       <p><l>azayimxon<s n="n"/></l>                <r>azayimxon</r></p></e>
+<e>       <p><l>azayimxonlik<s n="n"/></l>             <r>azayimxonlik</r></p></e>
+      
 <e>       <p><l>advokat<s n="n"/></l>                  <r>advokat<s n="n"/></r></p></e>
 <e>       <p><l>akademiya<s n="n"/></l>                <r>akademiya<s n="n"/></r></p></e>
 <e>       <p><l>aktyor<s n="n"/></l>                   <r>aktyor<s n="n"/></r></p></e>
@@ -56,6 +398,7 @@
 <e>       <p><l>avgust<s n="n"/></l>                   <r>avgust<s n="n"/></r></p></e>
 <e>       <p><l>aviatsiya<s n="n"/></l>                <r>aviatsiya<s n="n"/></r></p></e>
 <e>       <p><l>avtobus<s n="n"/></l>                  <r>avtobus<s n="n"/></r></p></e>
+<e>       <p><l>ayt<s n="v"/><s n="tv"/></l>           <r>ayt<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>bakteriya<s n="n"/></l>                <r>bakteriya<s n="n"/></r></p></e>
 <e>       <p><l>bal<s n="n"/></l>                      <r>bal<s n="n"/></r></p></e>
 <e>       <p><l>bank<s n="n"/></l>                     <r>bank<s n="n"/></r></p></e>
@@ -63,18 +406,32 @@
 <e>       <p><l>bayram<s n="n"/></l>                   <r>bayram<s n="n"/></r></p></e>
 <e>       <p><l>baza<s n="n"/></l>                     <r>baza<s n="n"/></r></p></e>
 <e>       <p><l>belgi<s n="n"/></l>                    <r>belgi<s n="n"/></r></p></e>
+<e>       <p><l>berkin<s n="v"/><s n="iv"/></l>        <r>jasırın<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>beton<s n="n"/></l>                    <r>beton<s n="n"/></r></p></e>
 <e>       <p><l>bez<s n="n"/></l>                      <r>bez<s n="n"/></r></p></e>
 <e>       <p><l>bilim<s n="n"/></l>                    <r>bilim<s n="n"/></r></p></e>
+<e>       <p><l>bil<s n="v"/><s n="tv"/></l>           <r>bil<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>birlik<s n="n"/></l>                   <r>birlik<s n="n"/></r></p></e>
+<e>       <p><l>bit<s n="v"/><s n="iv"/></l>           <r>pit<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>biznes<s n="n"/></l>                   <r>biznes<s n="n"/></r></p></e>
+<e>       <p><l>bog'cha<s n="n"/></l>                  <r>baqsha<s n="n"/></r></p></e>
+<e>       <p><l>bog'<s n="n"/></l>                     <r>baǵ<s n="n"/></r></p></e>
 <e>       <p><l>bo'lim<s n="n"/></l>                   <r>bólim<s n="n"/></r></p></e>
+<e>       <p><l>bo'l<s n="v"/><s n="iv"/></l>          <r>bol<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>bomba<s n="n"/></l>                    <r>bomba<s n="n"/></r></p></e>
+<e>       <p><l>bor<s n="v"/><s n="iv"/></l>           <r>bar<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>boshla<s n="v"/><s n="tv"/></l>        <r>basla<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>bos<s n="adj"/></l>                    <r>bos<s n="adj"/></r></p></e>
+<e>       <p><l>bos<s n="v"/><s n="tv"/></l>           <r>bas<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>boy<s n="n"/></l>                      <r>boy<s n="n"/></r></p></e>
+<e>       <p><l>bugun<s n="adv"/></l>                  <r>búgin<s n="adv"/></r></p></e>
 <e>       <p><l>chempionat<s n="n"/></l>               <r>chempionat<s n="n"/></r></p></e>
 <e>       <p><l>chempion<s n="n"/></l>                 <r>chempion<s n="n"/></r></p></e>
+<e>       <p><l>chiq<s n="v"/><s n="iv"/></l>          <r>shıq<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>departament<s n="n"/></l>              <r>departament<s n="n"/></r></p></e>
+<e>       <p><l>de<s n="v"/><s n="tv"/></l>            <r>de<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>diametr<s n="n"/></l>                  <r>diametr<s n="n"/></r></p></e>
+<e>       <p><l>diniy<s n="adj"/></l>                  <r>diniy<s n="adj"/></r></p></e>
 <e>       <p><l>din<s n="n"/></l>                      <r>din<s n="n"/></r></p></e>
 <e>       <p><l>direktor<s n="n"/></l>                 <r>direktor<s n="n"/></r></p></e>
 <e>       <p><l>dollar<s n="n"/></l>                   <r>dollar<s n="n"/></r></p></e>
@@ -83,12 +440,18 @@
 <e>       <p><l>ekspeditsiya<s n="n"/></l>             <r>ekspeditsiya<s n="n"/></r></p></e>
 <e>       <p><l>elektron<s n="n"/></l>                 <r>elektron<s n="n"/></r></p></e>
 <e>       <p><l>elektr<s n="n"/></l>                   <r>elektr<s n="n"/></r></p></e>
+<e>       <p><l>elementar<s n="adj"/></l>              <r>elementar<s n="adj"/></r></p></e>
 <e>       <p><l>element<s n="n"/></l>                  <r>element<s n="n"/></r></p></e>
 <e>       <p><l>el<s n="n"/></l>                       <r>el<s n="n"/></r></p></e>
 <e>       <p><l>energetika<s n="n"/></l>               <r>energetika<s n="n"/></r></p></e>
 <e>       <p><l>energiya<s n="n"/></l>                 <r>energiya<s n="n"/></r></p></e>
 <e>       <p><l>en<s n="n"/></l>                       <r>en<s n="n"/></r></p></e>
+<e>       <p><l>epik<s n="adj"/></l>                   <r>epik<s n="adj"/></r></p></e>
+<e>       <p><l>erkin<s n="adj"/></l>                  <r>erkin<s n="adj"/></r></p></e>
 <e>       <p><l>er<s n="n"/></l>                       <r>er<s n="n"/></r></p></e>
+<e>       <p><l>eshit<s n="v"/><s n="tv"/></l>         <r>esit<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>eski<s n="adj"/></l>                   <r>eski<s n="adj"/></r></p></e>
+<e>       <p><l>estetik<s n="adj"/></l>                <r>estetik<s n="adj"/></r></p></e>
 <e>       <p><l>estrada<s n="n"/></l>                  <r>estrada<s n="n"/></r></p></e>
 <e>       <p><l>fakultet<s n="n"/></l>                 <r>fakultet<s n="n"/></r></p></e>
 <e>       <p><l>federatsiya<s n="n"/></l>              <r>federatsiya<s n="n"/></r></p></e>
@@ -113,11 +476,13 @@
 <e>       <p><l>geograf<s n="n"/></l>                  <r>geograf<s n="n"/></r></p></e>
 <e>       <p><l>geolog<s n="n"/></l>                   <r>geolog<s n="n"/></r></p></e>
 <e>       <p><l>gips<s n="n"/></l>                     <r>gips<s n="n"/></r></p></e>
+<e>       <p><l>gorizontal<s n="adj"/></l>             <r>gorizontal<s n="adj"/></r></p></e>
 <e>       <p><l>gormon<s n="n"/></l>                   <r>gormon<s n="n"/></r></p></e>
 <e>       <p><l>granit<s n="n"/></l>                   <r>granit<s n="n"/></r></p></e>
 <e>       <p><l>grek<s n="n"/></l>                     <r>grek<s n="n"/></r></p></e>
 <e>       <p><l>hal<s n="n"/></l>                      <r>hal<s n="n"/></r></p></e>
 <e>       <p><l>hind<s n="n"/></l>                     <r>hind<s n="n"/></r></p></e>
+<e>       <p><l>ich<s n="v"/><s n="tv"/></l>           <r>ish<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ideologiya<s n="n"/></l>               <r>ideologiya<s n="n"/></r></p></e>
 <e>       <p><l>imperiya<s n="n"/></l>                 <r>imperiya<s n="n"/></r></p></e>
 <e>       <p><l>in<s n="n"/></l>                       <r>in<s n="n"/></r></p></e>
@@ -130,6 +495,7 @@
 <e>       <p><l>it<s n="n"/></l>                       <r>it<s n="n"/></r></p></e>
 <e>       <p><l>iyul<s n="n"/></l>                     <r>iyul<s n="n"/></r></p></e>
 <e>       <p><l>iyun<s n="n"/></l>                     <r>iyun<s n="n"/></r></p></e>
+<e>       <p><l>izla<s n="v"/><s n="tv"/></l>          <r>izle<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>iz<s n="n"/></l>                       <r>iz<s n="n"/></r></p></e>
 <e>       <p><l>janr<s n="n"/></l>                     <r>janr<s n="n"/></r></p></e>
 <e>       <p><l>jan<s n="n"/></l>                      <r>jan<s n="n"/></r></p></e>
@@ -140,11 +506,17 @@
 <e>       <p><l>kapital<s n="n"/></l>                  <r>kapital<s n="n"/></r></p></e>
 <e>       <p><l>katolik<s n="n"/></l>                  <r>katolik<s n="n"/></r></p></e>
 <e>       <p><l>kelin<s n="n"/></l>                    <r>kelin<s n="n"/></r></p></e>
+<e>       <p><l>kel<s n="v"/><s n="iv"/></l>           <r>kel<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>ket<s n="v"/><s n="iv"/></l>           <r>ket<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>keyingi<s n="adj"/></l>                <r>keyingi<s n="adj"/></r></p></e>
 <e>       <p><l>keyin<s n="n"/></l>                    <r>keyin<s n="n"/></r></p></e>
 <e>       <p><l>kilometr<s n="n"/></l>                 <r>kilometr<s n="n"/></r></p></e>
 <e>       <p><l>kino<s n="n"/></l>                     <r>kino<s n="n"/></r></p></e>
+<e>       <p><l>kir<s n="adj"/></l>                    <r>kir<s n="adj"/></r></p></e>
+<e>       <p><l>kishi<s n="adj"/></l>                  <r>kishi<s n="adj"/></r></p></e>
 <e>       <p><l>kit<s n="n"/></l>                      <r>kit<s n="n"/></r></p></e>
 <e>       <p><l>kiyim<s n="n"/></l>                    <r>kiyim<s n="n"/></r></p></e>
+<e>       <p><l>klassik<s n="adj"/></l>                <r>klassik<s n="adj"/></r></p></e>
 <e>       <p><l>klub<s n="n"/></l>                     <r>klub<s n="n"/></r></p></e>
 <e>       <p><l>ko'l<s n="n"/></l>                     <r>kól<s n="n"/></r></p></e>
 <e>       <p><l>komanda<s n="n"/></l>                  <r>komanda<s n="n"/></r></p></e>
@@ -155,15 +527,20 @@
 <e>       <p><l>kompyuter<s n="n"/></l>                <r>kompyuter<s n="n"/></r></p></e>
 <e>       <p><l>kongress<s n="n"/></l>                 <r>kongress<s n="n"/></r></p></e>
 <e>       <p><l>konstitutsiya<s n="n"/></l>            <r>konstitutsiya<s n="n"/></r></p></e>
+<e>       <p><l>kontinental<s n="adj"/></l>            <r>kontinental<s n="adj"/></r></p></e>
+<e>       <p><l>ko'p<s n="adj"/></l>                   <r>kóp<s n="adj"/></r></p></e>
+<e>       <p><l>kor<s n="v"/><s n="tv"/></l>           <r>kór<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ko'z<s n="n"/></l>                     <r>kóz<s n="n"/></r></p></e>
 <e>       <p><l>kredit<s n="n"/></l>                   <r>kredit<s n="n"/></r></p></e>
 <e>       <p><l>kristall<s n="n"/></l>                 <r>kristall<s n="n"/></r></p></e>
+<e>       <p><l>kul<s n="v"/><s n="iv"/></l>           <r>kúl<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>kupe<s n="n"/></l>                     <r>kupe<s n="n"/></r></p></e>
 <e>       <p><l>kvadrat<s n="n"/></l>                  <r>kvadrat<s n="n"/></r></p></e>
 <e>       <p><l>lat<s n="n"/></l>                      <r>lat<s n="n"/></r></p></e>
 <e>       <p><l>laureat<s n="n"/></l>                  <r>laureat<s n="n"/></r></p></e>
 <e>       <p><l>limfa<s n="n"/></l>                    <r>limfa<s n="n"/></r></p></e>
 <e>       <p><l>liniya<s n="n"/></l>                   <r>liniya<s n="n"/></r></p></e>
+<e>       <p><l>lirik<s n="adj"/></l>                  <r>lirik<s n="adj"/></r></p></e>
 <e>       <p><l>magnit<s n="n"/></l>                   <r>magnit<s n="n"/></r></p></e>
 <e>       <p><l>magniy<s n="n"/></l>                   <r>magniy<s n="n"/></r></p></e>
 <e>       <p><l>marshal<s n="n"/></l>                  <r>marshal<s n="n"/></r></p></e>
@@ -172,16 +549,22 @@
 <e>       <p><l>massa<s n="n"/></l>                    <r>massa<s n="n"/></r></p></e>
 <e>       <p><l>match<s n="n"/></l>                    <r>match<s n="n"/></r></p></e>
 <e>       <p><l>matematika<s n="n"/></l>               <r>matematika<s n="n"/></r></p></e>
+<e>       <p><l>matematik<s n="adj"/></l>              <r>matematik<s n="adj"/></r></p></e>
 <e>       <p><l>matematik<s n="n"/></l>                <r>matematik<s n="n"/></r></p></e>
 <e>       <p><l>material<s n="n"/></l>                 <r>material<s n="n"/></r></p></e>
+<e>       <p><l>mayda<s n="adj"/></l>                  <r>mayda<s n="adj"/></r></p></e>
 <e>       <p><l>may<s n="n"/></l>                      <r>may<s n="n"/></r></p></e>
 <e>       <p><l>mazmun<s n="n"/></l>                   <r>mazmun<s n="n"/></r></p></e>
 <e>       <p><l>metall<s n="n"/></l>                   <r>metall<s n="n"/></r></p></e>
 <e>       <p><l>metr<s n="n"/></l>                     <r>metr<s n="n"/></r></p></e>
+<e>       <p><l>mexanik<s n="adj"/></l>                <r>mexanik<s n="adj"/></r></p></e>
 <e>       <p><l>militsiya<s n="n"/></l>                <r>militsiya<s n="n"/></r></p></e>
+<e>       <p><l>milliy<s n="adj"/></l>                 <r>milliy<s n="adj"/></r></p></e>
 <e>       <p><l>mineral<s n="n"/></l>                  <r>mineral<s n="n"/></r></p></e>
+<e>       <p><l>mi<s n="qst"/></l>                     <r>ma<s n="qst"/></r></p></e>
 <e>       <p><l>molekula<s n="n"/></l>                 <r>molekula<s n="n"/></r></p></e>
 <e>       <p><l>molibden<s n="n"/></l>                 <r>molibden<s n="n"/></r></p></e>
+<e>       <p><l>mol<s n="adj"/></l>                    <r>mol<s n="adj"/></r></p></e>
 <e>       <p><l>muzey<s n="n"/></l>                    <r>muzey<s n="n"/></r></p></e>
 <e>       <p><l>muz<s n="n"/></l>                      <r>muz<s n="n"/></r></p></e>
 <e>       <p><l>neft<s n="n"/></l>                     <r>neft<s n="n"/></r></p></e>
@@ -198,13 +581,22 @@
 <e>       <p><l>o'lim<s n="n"/></l>                    <r>ólim<s n="n"/></r></p></e>
 <e>       <p><l>opera<s n="n"/></l>                    <r>opera<s n="n"/></r></p></e>
 <e>       <p><l>operatsiya<s n="n"/></l>               <r>operatsiya<s n="n"/></r></p></e>
+<e>       <p><l>optik<s n="adj"/></l>                  <r>optik<s n="adj"/></r></p></e>
 <e>       <p><l>oq<s n="n"/></l>                       <r>oq<s n="n"/></r></p></e>
+<e>       <p><l>organik<s n="adj"/></l>                <r>organik<s n="adj"/></r></p></e>
 <e>       <p><l>organizm<s n="n"/></l>                 <r>organizm<s n="n"/></r></p></e>
 <e>       <p><l>organ<s n="n"/></l>                    <r>organ<s n="n"/></r></p></e>
+<e>       <p><l>o'sha<s n="prn"/><s n="dem"/></l>      <r>sol<s n="prn"/><s n="dem"/></r></p></e>
 <e>       <p><l>o'simlik<s n="n"/></l>                 <r>ósimlik<s n="n"/></r></p></e>
+<e>       <p><l>o'tir<s n="v"/><s n="iv"/></l>         <r>otır<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>o'tkir<s n="adj"/></l>                 <r>ótkir<s n="adj"/></r></p></e>
 <e>       <p><l>ot<s n="n"/></l>                       <r>ot<s n="n"/></r></p></e>
+<e>       <p><l>o'yla<s n="v"/><s n="tv"/></l>         <r>oyla<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>o'yna<s n="v"/><s n="iv"/></l>         <r>oyna<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>o'yna<s n="v"/><s n="tv"/></l>         <r>oyna<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>oy<s n="n"/></l>                       <r>oy<s n="n"/></r></p></e>
 <e>       <p><l>o'zbek<s n="n"/></l>                   <r>ózbek<s n="n"/></r></p></e>
+<e>       <p><l>o'z<s n="adj"/></l>                    <r>óz<s n="adj"/></r></p></e>
 <e>       <p><l>parallel<s n="n"/></l>                 <r>parallel<s n="n"/></r></p></e>
 <e>       <p><l>parlament<s n="n"/></l>                <r>parlament<s n="n"/></r></p></e>
 <e>       <p><l>partiya<s n="n"/></l>                  <r>partiya<s n="n"/></r></p></e>
@@ -217,20 +609,29 @@
 <e>       <p><l>port<s n="n"/></l>                     <r>port<s n="n"/></r></p></e>
 <e>       <p><l>preparat<s n="n"/></l>                 <r>preparat<s n="n"/></r></p></e>
 <e>       <p><l>prezident<s n="n"/></l>                <r>prezident<s n="n"/></r></p></e>
+<e>       <p><l>professional<s n="adj"/></l>           <r>professional<s n="adj"/></r></p></e>
 <e>       <p><l>programma<s n="n"/></l>                <r>programma<s n="n"/></r></p></e>
 <e>       <p><l>protsent<s n="n"/></l>                 <r>protsent<s n="n"/></r></p></e>
 <e>       <p><l>protsess<s n="n"/></l>                 <r>protsess<s n="n"/></r></p></e>
 <e>       <p><l>psixologiya<s n="n"/></l>              <r>psixologiya<s n="n"/></r></p></e>
 <e>       <p><l>pul<s n="n"/></l>                      <r>pul<s n="n"/></r></p></e>
 <e>       <p><l>punkt<s n="n"/></l>                    <r>punkt<s n="n"/></r></p></e>
+<e>       <p><l>qara<s n="adj"/></l>                   <r>qara<s n="adj"/></r></p></e>
+<e>       <p><l>qayt<s n="v"/><s n="iv"/></l>          <r>qayt<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>qil<s n="v"/><s n="tv"/></l>           <r>et<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>qil<s n="v"/><s n="tv"/></l>           <r>isle<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>qil<s n="v"/><s n="tv"/></l>           <r>qıl<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>qol<s n="n"/></l>                      <r>qol<s n="n"/></r></p></e>
 <e>       <p><l>qora<s n="n"/></l>                     <r>qora<s n="n"/></r></p></e>
+<e>       <p><l>qor<s n="adj"/></l>                    <r>qor<s n="adj"/></r></p></e>
 <e>       <p><l>qor<s n="n"/></l>                      <r>qor<s n="n"/></r></p></e>
 <e>       <p><l>qul<s n="n"/></l>                      <r>qul<s n="n"/></r></p></e>
 <e>       <p><l>qum<s n="n"/></l>                      <r>qum<s n="n"/></r></p></e>
 <e>       <p><l>qur<s n="n"/></l>                      <r>qur<s n="n"/></r></p></e>
 <e>       <p><l>raketa<s n="n"/></l>                   <r>raketa<s n="n"/></r></p></e>
 <e>       <p><l>rayon<s n="n"/></l>                    <r>rayon<s n="n"/></r></p></e>
+<e>       <p><l>realistik<s n="adj"/></l>              <r>realistik<s n="adj"/></r></p></e>
+<e>       <p><l>real<s n="adj"/></l>                   <r>real<s n="adj"/></r></p></e>
 <e>       <p><l>reforma<s n="n"/></l>                  <r>reforma<s n="n"/></r></p></e>
 <e>       <p><l>rejim<s n="n"/></l>                    <r>rejim<s n="n"/></r></p></e>
 <e>       <p><l>rentgen<s n="n"/></l>                  <r>rentgen<s n="n"/></r></p></e>
@@ -241,13 +642,21 @@
 <e>       <p><l>rus<s n="n"/></l>                      <r>rus<s n="n"/></r></p></e>
 <e>       <p><l>rux<s n="n"/></l>                      <r>rux<s n="n"/></r></p></e>
 <e>       <p><l>sana<s n="n"/></l>                     <r>sana<s n="n"/></r></p></e>
+<e>       <p><l>sana<s n="v"/><s n="tv"/></l>          <r>sana<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>sektor<s n="n"/></l>                   <r>sektor<s n="n"/></r></p></e>
 <e>       <p><l>senat<s n="n"/></l>                    <r>senat<s n="n"/></r></p></e>
 <e>       <p><l>shaxs<s n="n"/></l>                    <r>shaxs<s n="n"/></r></p></e>
 <e>       <p><l>shay<s n="n"/></l>                     <r>shay<s n="n"/></r></p></e>
 <e>       <p><l>shtat<s n="n"/></l>                    <r>shtat<s n="n"/></r></p></e>
+<e>       <p><l>shu<s n="prn"/><s n="dem"/></l>        <r>usı<s n="prn"/><s n="dem"/></r></p></e>
 <e>       <p><l>sintez<s n="n"/></l>                   <r>sintez<s n="n"/></r></p></e>
 <e>       <p><l>sistema<s n="n"/></l>                  <r>sistema<s n="n"/></r></p></e>
+<e>       <p><l>)<s n="rpar"/></l>                     <r>)<s n="rpar"/></r></p></e>
+<e>       <p><l>]<s n="rpar"/></l>                     <r>]<s n="rpar"/></r></p></e>
+<e>       <p><l>»<s n="rquot"/></l>                    <r>»<s n="rquot"/></r></p></e>
+<e>       <p><l>”<s n="rquot"/></l>                    <r>”<s n="rquot"/></r></p></e>
+<e>       <p><l>sol<s n="adj"/></l>                    <r>sol<s n="adj"/></r></p></e>
+<e>       <p><l>so'ra<s n="v"/><s n="tv"/></l>         <r>sora<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>sovet<s n="n"/></l>                    <r>sovet<s n="n"/></r></p></e>
 <e>       <p><l>so'z<s n="n"/></l>                     <r>sóz<s n="n"/></r></p></e>
 <e>       <p><l>soz<s n="n"/></l>                      <r>soz<s n="n"/></r></p></e><!-- FIXME: CHECK -->
@@ -260,6 +669,7 @@
 <e>       <p><l>sud<s n="n"/></l>                      <r>sud<s n="n"/></r></p></e>
 <e>       <p><l>sudya<s n="n"/></l>                    <r>sudya<s n="n"/></r></p></e>
 <e>       <p><l>sulfat<s n="n"/></l>                   <r>sulfat<s n="n"/></r></p></e>
+<e>       <p><l>sur<s n="adj"/></l>                    <r>sur<s n="adj"/></r></p></e>
 <e>       <p><l>sutka<s n="n"/></l>                    <r>sutka<s n="n"/></r></p></e>
 <e>       <p><l>taktika<s n="n"/></l>                  <r>taktika<s n="n"/></r></p></e>
 <e>       <p><l>ta'lim<s n="n"/></l>                   <r>tálim<s n="n"/></r></p></e>
@@ -277,16 +687,23 @@
 <e>       <p><l>texnika<s n="n"/></l>                  <r>texnika<s n="n"/></r></p></e>
 <e>       <p><l>texnologiya<s n="n"/></l>              <r>texnologiya<s n="n"/></r></p></e>
 <e>       <p><l>tezlik<s n="n"/></l>                   <r>tezlik<s n="n"/></r></p></e>
+<e>       <p><l>tez<s n="adj"/></l>                    <r>tez<s n="adj"/></r></p></e>
+<e>       <p><l>tik<s n="adj"/></l>                    <r>tik<s n="adj"/></r></p></e>
 <e>       <p><l>til<s n="n"/></l>                      <r>til<s n="n"/></r></p></e>
+<e>       <p><l>tingla<s n="v"/><s n="tv"/></l>        <r>tıńla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tok<s n="n"/></l>                      <r>tok<s n="n"/></r></p></e>
 <e>       <p><l>ton<s n="n"/></l>                      <r>ton<s n="n"/></r></p></e>
 <e>       <p><l>top<s n="n"/></l>                      <r>tap<s n="n"/></r></p></e>
+<e>       <p><l>top<s n="v"/><s n="tv"/></l>           <r>tap<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tovar<s n="n"/></l>                    <r>tovar<s n="n"/></r></p></e>
 <e>       <p><l>transport<s n="n"/></l>                <r>transport<s n="n"/></r></p></e>
+<e>       <p><l>tur<s n="v"/><s n="iv"/></l>           <r>tur<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>uglevodorod<s n="n"/></l>              <r>uglevodorod<s n="n"/></r></p></e>
 <e>       <p><l>ul<s n="n"/></l>                       <r>ul<s n="n"/></r></p></e>
 <e>       <p><l>universitet<s n="n"/></l>              <r>universitet<s n="n"/></r></p></e>
 <e>       <p><l>uran<s n="n"/></l>                     <r>uran<s n="n"/></r></p></e>
+<e>       <p><l>u<s n="prn"/><s n="pers"/></l>         <r>ol<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>uxla<s n="v"/><s n="iv"/></l>          <r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>uya<s n="n"/></l>                      <r>uya<s n="n"/></r></p></e>
 <e>       <p><l>valyuta<s n="n"/></l>                  <r>valyuta<s n="n"/></r></p></e>
 <e>       <p><l>virus<s n="n"/></l>                    <r>virus<s n="n"/></r></p></e>
@@ -300,11 +717,15 @@
 <e>       <p><l>yadro<s n="n"/></l>                    <r>yadro<s n="n"/></r></p></e>
 <e>       <p><l>yahudiy<s n="n"/></l>                  <r>yahudiy<s n="n"/></r></p></e>
 <e>       <p><l>yanvar<s n="n"/></l>                   <r>yanvar<s n="n"/></r></p></e>
+<e>       <p><l>ye<s n="v"/><s n="tv"/></l>            <r>je<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>yop<s n="v"/><s n="tv"/></l>           <r>jap<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>yot<s n="v"/><s n="iv"/></l>           <r>jat<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>yugur<s n="v"/><s n="iv"/></l>         <r>júgir<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>yur<s n="v"/><s n="iv"/></l>           <r>júr<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>zavod<s n="n"/></l>                    <r>zavod<s n="n"/></r></p></e>
 <e>       <p><l>zona<s n="n"/></l>                     <r>zona<s n="n"/></r></p></e>
 
-
-      <!-- РАЗДЕЛ: -->
+      <!-- SECTION: Proper-->
 
 <e>       <p><l>Afrika<s n="np"/><s n="top"/></l>      <r>Afrika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Amerika<s n="np"/><s n="top"/></l>     <r>Amerika<s n="np"/><s n="top"/></r></p></e>
@@ -378,95 +799,6 @@
 
 <e>       <p><l>Karimov<s n="np"/><s n="cog"/></l>     <r>Karimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yusupov<s n="np"/><s n="cog"/></l>     <r>Yusupov<s n="np"/><s n="cog"/></r></p></e>
-
-
-      <!-- РАЗДЕЛ: -->
-
-<e>       <p><l>bos<s n="adj"/></l>                    <r>bos<s n="adj"/></r></p></e>
-<e>       <p><l>diniy<s n="adj"/></l>                  <r>diniy<s n="adj"/></r></p></e>
-<e>       <p><l>elementar<s n="adj"/></l>              <r>elementar<s n="adj"/></r></p></e>
-<e>       <p><l>epik<s n="adj"/></l>                   <r>epik<s n="adj"/></r></p></e>
-<e>       <p><l>erkin<s n="adj"/></l>                  <r>erkin<s n="adj"/></r></p></e>
-<e>       <p><l>eski<s n="adj"/></l>                   <r>eski<s n="adj"/></r></p></e>
-<e>       <p><l>estetik<s n="adj"/></l>                <r>estetik<s n="adj"/></r></p></e>
-<e>       <p><l>gorizontal<s n="adj"/></l>             <r>gorizontal<s n="adj"/></r></p></e>
-<e>       <p><l>keyingi<s n="adj"/></l>                <r>keyingi<s n="adj"/></r></p></e>
-<e>       <p><l>kir<s n="adj"/></l>                    <r>kir<s n="adj"/></r></p></e>
-<e>       <p><l>kishi<s n="adj"/></l>                  <r>kishi<s n="adj"/></r></p></e>
-<e>       <p><l>klassik<s n="adj"/></l>                <r>klassik<s n="adj"/></r></p></e>
-<e>       <p><l>kontinental<s n="adj"/></l>            <r>kontinental<s n="adj"/></r></p></e>
-<e>       <p><l>ko'p<s n="adj"/></l>                   <r>kóp<s n="adj"/></r></p></e>
-<e>       <p><l>lirik<s n="adj"/></l>                  <r>lirik<s n="adj"/></r></p></e>
-<e>       <p><l>matematik<s n="adj"/></l>              <r>matematik<s n="adj"/></r></p></e>
-<e>       <p><l>mayda<s n="adj"/></l>                  <r>mayda<s n="adj"/></r></p></e>
-<e>       <p><l>mexanik<s n="adj"/></l>                <r>mexanik<s n="adj"/></r></p></e>
-<e>       <p><l>milliy<s n="adj"/></l>                 <r>milliy<s n="adj"/></r></p></e>
-<e>       <p><l>mol<s n="adj"/></l>                    <r>mol<s n="adj"/></r></p></e>
-<e>       <p><l>optik<s n="adj"/></l>                  <r>optik<s n="adj"/></r></p></e>
-<e>       <p><l>organik<s n="adj"/></l>                <r>organik<s n="adj"/></r></p></e>
-<e>       <p><l>o'tkir<s n="adj"/></l>                 <r>ótkir<s n="adj"/></r></p></e>
-<e>       <p><l>o'z<s n="adj"/></l>                    <r>óz<s n="adj"/></r></p></e>
-<e>       <p><l>professional<s n="adj"/></l>           <r>professional<s n="adj"/></r></p></e>
-<e>       <p><l>qara<s n="adj"/></l>                   <r>qara<s n="adj"/></r></p></e>
-<e>       <p><l>qor<s n="adj"/></l>                    <r>qor<s n="adj"/></r></p></e>
-<e>       <p><l>realistik<s n="adj"/></l>              <r>realistik<s n="adj"/></r></p></e>
-<e>       <p><l>real<s n="adj"/></l>                   <r>real<s n="adj"/></r></p></e>
-<e>       <p><l>sol<s n="adj"/></l>                    <r>sol<s n="adj"/></r></p></e>
-<e>       <p><l>sur<s n="adj"/></l>                    <r>sur<s n="adj"/></r></p></e>
-<e>       <p><l>tez<s n="adj"/></l>                    <r>tez<s n="adj"/></r></p></e>
-<e>       <p><l>tik<s n="adj"/></l>                    <r>tik<s n="adj"/></r></p></e>
-
-      <!-- РАЗДЕЛ: -->
-<e>       <p><l>bugun<s n="adv"/></l>                  <r>búgin<s n="adv"/></r></p></e>
-
-      <!-- РАЗДЕЛ: -->
-
-      <!-- РАЗДЕЛ: -->
-
-<e>       <p><l>o'sha<s n="prn"/><s n="dem"/></l>      <r>sol<s n="prn"/><s n="dem"/></r></p></e>
-<e>       <p><l>shu<s n="prn"/><s n="dem"/></l>        <r>usı<s n="prn"/><s n="dem"/></r></p></e>
-<e>       <p><l>mi<s n="qst"/></l>                     <r>ma<s n="qst"/></r></p></e>
-<e>       <p><l>)<s n="rpar"/></l>                     <r>)<s n="rpar"/></r></p></e>
-<e>       <p><l>]<s n="rpar"/></l>                     <r>]<s n="rpar"/></r></p></e>
-<e>       <p><l>”<s n="rquot"/></l>                    <r>”<s n="rquot"/></r></p></e>
-<e>       <p><l>»<s n="rquot"/></l>                    <r>»<s n="rquot"/></r></p></e>
-<e>       <p><l>ayt<s n="v"/><s n="tv"/></l>           <r>ayt<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>bor<s n="v"/><s n="iv"/></l>           <r>bar<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>boshla<s n="v"/><s n="tv"/></l>        <r>basla<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>bos<s n="v"/><s n="tv"/></l>           <r>bas<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>bil<s n="v"/><s n="tv"/></l>           <r>bil<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>bo'l<s n="v"/><s n="iv"/></l>          <r>bol<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>de<s n="v"/><s n="tv"/></l>            <r>de<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>eshit<s n="v"/><s n="tv"/></l>         <r>esit<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>qil<s n="v"/><s n="tv"/></l>           <r>et<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>ich<s n="v"/><s n="tv"/></l>           <r>ish<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>qil<s n="v"/><s n="tv"/></l>           <r>isle<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>izla<s n="v"/><s n="tv"/></l>          <r>izle<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>yop<s n="v"/><s n="tv"/></l>           <r>jap<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>berkin<s n="v"/><s n="iv"/></l>        <r>jasırın<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>yot<s n="v"/><s n="iv"/></l>           <r>jat<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>ye<s n="v"/><s n="tv"/></l>            <r>je<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>yugur<s n="v"/><s n="iv"/></l>         <r>júgir<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>yur<s n="v"/><s n="iv"/></l>           <r>júr<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>kel<s n="v"/><s n="iv"/></l>           <r>kel<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>ket<s n="v"/><s n="iv"/></l>           <r>ket<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>kor<s n="v"/><s n="tv"/></l>           <r>kór<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>kul<s n="v"/><s n="iv"/></l>           <r>kúl<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>o'tir<s n="v"/><s n="iv"/></l>         <r>otır<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>o'yla<s n="v"/><s n="tv"/></l>         <r>oyla<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>o'yna<s n="v"/><s n="iv"/></l>         <r>oyna<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>o'yna<s n="v"/><s n="tv"/></l>         <r>oyna<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>bit<s n="v"/><s n="iv"/></l>           <r>pit<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>qayt<s n="v"/><s n="iv"/></l>          <r>qayt<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>qil<s n="v"/><s n="tv"/></l>           <r>qıl<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>sana<s n="v"/><s n="tv"/></l>          <r>sana<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>chiq<s n="v"/><s n="iv"/></l>          <r>shıq<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>so'ra<s n="v"/><s n="tv"/></l>         <r>sora<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>top<s n="v"/><s n="tv"/></l>           <r>tap<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>eshit<s n="v"/><s n="tv"/></l>         <r>esit<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>tur<s n="v"/><s n="iv"/></l>           <r>tur<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>tingla<s n="v"/><s n="tv"/></l>        <r>tıńla<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>uxla<s n="v"/><s n="iv"/></l>          <r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
 
   </section>
 </dictionary>
