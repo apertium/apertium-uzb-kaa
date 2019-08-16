@@ -4,12 +4,12 @@
 	Sections: 1
 	Entries: 754
 	Sdefs: 24
-
 -->
+
 <dictionary>
   <alphabet></alphabet>
-  <sdefs>
-    <sdef n="n" 	c="Noun"/> 
+   <sdefs>
+   <!-- <sdef n="n" 	c="Noun"/> 
     <sdef n="np" 	c=""/> 
     <sdef n="cnjcoo" 	c=""/> 
     <sdef n="cnjsub" 	c=""/> 
@@ -32,7 +32,81 @@
     <sdef n="rquot" /> 
     <sdef n="tv" /> 
     <sdef n="v" /> 
-    <sdef n="prep" /> 
+    <sdef n="prep" />  -->
+
+    <sdef n="n"     c="Noun                        Зат есім            Atlıq"/> 
+	<sdef n="np"    c="Proper noun                 Жалқы есім          Menshikli atlıq"/> 
+	<sdef n="adj"   c="Adjective                   Сын есім            Kelbetlik"/> 
+	<sdef n="num"   c="Numeral                     Сан есім            Sanlıq"/> 
+	<sdef n="prn"   c="Pronoun                     Есімдік             Almasıq"/> 
+	<sdef n="det"   c="Determiner                  Детерминатив        Determinativ"/> 
+	<sdef n="v"     c="Verb                        Етістік             Feyil"/> 
+	<sdef n="vaux"  c="Auxiliary verb              Көмекші етістік     Ko'mekshi feyil"/> 
+	<sdef n="adv"       c="Adverb                      Үстеу               Ra'wish"/> 
+	<sdef n="post"      c="Postposition                Септеулік шылау     Tirkewish"/> 
+	<sdef n="postadv"   c="Postadverb                  'Артүстеу'          'Артрәвеш'"/> 
+	<sdef n="cnjcoo"    c="Coordinating conjunction    ? жалғаулық шылау   Du'ziwshi da'neker"/> 
+	<sdef n="cnjsub"    c="Subordinating conjunction   ? жалғаулық шылау   Jaratıwshı da'neker"/> 
+	<sdef n="cnjadv"    c="Adverbial conjunction       Үстеу-жалғаулық     Ra'wish da'neker"/> 
+	<sdef n="ij"    c="Interjection                Одағай              Tan'laq'"/> 
+	<sdef n="abbr"  c="Abbreviation                Қысқарған сөз       Qospalı qısqartılg'an so'z"/> 
+	<sdef n="cop"   c="Copula                      Копула              Kopula"/> 
+	<sdef n="ideo"  c="Ideophone                   Еліктеу сөз         Eliklewish"/> 
+	<sdef n="top"   c="Toponym"/> 
+	<sdef n="ant"   c="Anthroponym"/> 
+	<sdef n="cog"   c="Cognomen"/> 
+	<sdef n="pat"   c="Patronym"/> 
+	<sdef n="org"   c="Organization name"/> 
+	<sdef n="al"    c="Other"/> 
+	<sdef n="m"     c="Мужской род"/> 
+	<sdef n="f"     c="Женский род"/> 
+	<sdef n="mf"    c="Мужской или женский род"/> 
+	<sdef n="attr"  c="Attributive"/> 
+	<sdef n="subst"     c="Substantivized"/> 
+	<sdef n="advl"  c="Adverbial"/> 
+	<sdef n="sg"    c=""/> 
+	<sdef n="pl"    c=""/> 
+	<sdef n="sp"    c=""/> 
+	<sdef n="px"    c=""/> 
+	<sdef n="loc"   c=""/> 
+	<sdef n="sim"   c=""/> 
+	<sdef n="pers"  c="Personal - Зат (алмашлыгы) - Личное (местоимение)"/> 
+	<sdef n="recip"     c="Reciprocal"/> 
+	<sdef n="dem"   c="Demonstrative"/> 
+	<sdef n="ind"   c="Indefinite"/> 
+	<sdef n="itg"   c="Interrogative"/> 
+	<sdef n="qnt"   c="Quantifier"/> 
+	<sdef n="neg"   c="Negative"/> 
+	<sdef n="ref"   c="Reflexive"/> 
+	<sdef n="ord"   c=""/> 
+	<sdef n="caus"  c=""/> 
+	<sdef n="pass"  c=""/> 
+	<sdef n="coop"  c=""/> 
+	<sdef n="prc_perf"  c=""/> 
+	<sdef n="ger"   c=""/> 
+	<sdef n="gpr_past"  c=""/> 
+	<sdef n="gpr_pot"   c=""/> 
+	<sdef n="gpr_ppot"  c=""/> 
+	<sdef n="iv"    c="Intransitive"/> 
+	<sdef n="tv"    c="Transitive"/> 
+	<sdef n="TD"    c="Temporary tag"/> 
+	<sdef n="p1"    c=""/> 
+	<sdef n="p2"    c=""/> 
+	<sdef n="p3"    c=""/> 
+	<sdef n="frm"   c=""/> 
+	<sdef n="qst"   c="Question modal (clitic)"/> 
+	<sdef n="emph"  c="Emphasising modal"/> 
+	<sdef n="mod_ass"   c="Assertive modal (clitic)"/> 
+	<sdef n="mod_ind"   c="Indefinite modal (clitic)"/> 
+	<sdef n="mod"   c="Modal verbs"/> 
+	<sdef n="sent"  c=""/> 
+	<sdef n="guio"  c=""/> 
+	<sdef n="cm"    c=""/> 
+	<sdef n="apos"  c=""/> 
+	<sdef n="rquot"     c=""/> 
+	<sdef n="lquot"     c=""/> 
+	<sdef n="rpar"  c=""/> 
+	<sdef n="lpar"  c=""/> 
   </sdefs>
   <section id="main" type="standard">
 
