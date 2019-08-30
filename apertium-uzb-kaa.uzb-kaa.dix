@@ -1178,6 +1178,7 @@
 <e>       <p><l>azamat<s n="n"/></l>                   <r>azamat<s n="n"/></r></p></e>
 <e>       <p><l>azamatlik<s n="n"/></l>                <r>azamatlıq<s n="n"/></r></p></e>
 <e>       <p><l>azbaroyi<s n="prep"/></l>              <r>ushın<s n="prep"/></r></p></e>
+<e>       <p><l>uchun<s n="post"/></l>                 <r>ushın<s n="post"/></r></p></e>
 <e>       <p><l>aziz<s n="adj"/></l>                   <r>áziz<s n="adj"/></r></p></e>
 <e>       <p><l>azim<s n="adj"/></l>                   <r>azim<s n="adj"/></r></p></e>
 <e>       <p><l>aziyat<s n="n"/></l>                   <r>azap<s n="n"/></r></p></e>
@@ -2758,7 +2759,7 @@
 <e>       <p><l>bila<s n="post"/><s n="nom"/><s n="gen"/></l><r>bile<s n="post"/><s n="nom"/><s n="gen"/></r></p></e>
 <e>       <p><l>bilaguzuk<s n="n"/></l>                <r>bilezik<s n="n"/></r></p></e>
 <e>       <p><l>bilak<s n="n"/></l>                    <r>bilek<s n="n"/></r></p></e>
-<e>       <p><l>bilan<s n="post"/><s n="nom"/><s n="gen"/></l><r>menen<s n="post"/><s n="nom"/><s n="gen"/></r></p></e>
+<e>       <p><l>bilan<s n="post"/></l>                 <r>menen<s n="post"/></r></p></e>
 <e>       <p><l>bilanoq<s n="post"/></l>               <r>menenoq<s n="post"/></r></p></e>
 <e>       <p><l>bilarmonlik<s n="n"/></l>              <r>bilgishlik<s n="n"/></r></p></e>
 <e>       <p><l>bildirish<s n="n"/><s n="vn"/></l>     <r>xabar beriw<s n="n"/><s n="vn"/></r></p></e>
@@ -5586,7 +5587,7 @@
 <e>       <p><l>lazaret<s n="n"/></l>                  <r>lazaret<s n="n"/></r></p></e>
 <e>       <p><l>lazzat<s n="n"/></l>                   <r>maza<s n="n"/></r></p></e>
 <e>       <p><l>lazzatli<s n="adj"/></l>               <r>mazalı<s n="adj"/></r></p></e>
-<e>       <p><l>lekin<s n="ca"/></l>                   <r>lekin<s n="ca"/></r></p></e>
+<e>       <p><l>lekin<s n="cnjadv"/></l>               <r>lekin<s n="cnjadv"/></r></p></e>
 <e>       <p><l>leksiya<s n="n"/></l>                  <r>leksiya<s n="n"/></r></p></e>
 <e>       <p><l>lektor<s n="n"/></l>                   <r>lektor<s n="n"/></r></p></e>
 <e>       <p><l>lenta<s n="n"/></l>                    <r>lenta<s n="n"/></r></p></e>
@@ -6435,7 +6436,7 @@
 <e>       <p><l>nikoh<s n="n"/></l>                    <r>neke<s n="n"/></r></p></e>
 <e>       <p><l>nikohsiz<s n="adj"/></l>               <r>nekesiz<s n="adj"/></r></p></e>
 <e>       <p><l>nikotin<s n="n"/></l>                  <r>nikotin<s n="n"/></r></p></e>
-<e>       <p><l>nima<s n="prn"/><s n="itg"/><s n="infl"/></l><r>ne<s n="prn"/><s n="itg"/><s n="infl"/></r></p></e>
+<e>       <p><l>nima<s n="prn"/><s n="itg"/></l>       <r>ne<s n="prn"/><s n="itg"/></r></p></e>
 <e>       <p><l>nimaga<s n="n"/></l>                   <r>nege<s n="n"/></r></p></e>
 <e>       <p><l>nimcha<s n="n"/></l>                   <r>jeńsiz<s n="n"/></r></p></e>
 <e>       <p><l>nimjon<s n="adj"/></l>                 <r>nárenjan<s n="adj"/></r></p></e>
@@ -12132,6 +12133,7 @@
 <e>       <p><l>jigʻildon<s n="n"/></l>                <r>jemsek<s n="n"/></r></p></e>
 <e>       <p><l>jigʻilla<s n="v"/><s n="iv"/></l>      <r>shuwlaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>jillanglash<s n="v"/><s n="iv"/></l>   <r>jıbırlaw<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>jilmay<s n="v"/><s n="iv"/></l>        <r>ırjıy<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>jilmaiish<s n="n"/><s n="vn"/></l>     <r>jılmayıw<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>jimirlash<s n="v"/><s n="iv"/></l>     <r>jıbırlaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>jimjitlash<s n="v"/><s n="iv"/></l>    <r>tınıw<s n="v"/><s n="iv"/></r></p></e>
@@ -14383,7 +14385,8 @@
 <e>       <p><l>qemirmoq<s n="n"/></l>                 <r>qemiriw<s n="n"/></r></p></e>
 <e>       <p><l>qichishtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>qıshıstır<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>qichqirish<s n="v"/><s n="iv"/><s n="coop"/></l><r>baqırıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
-<e>       <p><l>qidirysh<s n="v"/><s n="iv"/><s n="coop"/></l><r>qıdırysh<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>qidir<s n="v"/><s n="iv"/></l>         <r>qıdır<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>qidirish<s n="v"/><s n="iv"/><s n="coop"/></l><r>qıdırısh<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>qiyma-qiyma<s n="n"/></l>              <r>qıyma-qıyma<s n="n"/></r></p></e>
 <e>       <p><l>qiyshay<s n="v"/><s n="iv"/></l>       <r>qıysay<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>qiyshiqlik<s n="n"/></l>               <r>qıysıqlıq<s n="n"/></r></p></e>
@@ -17259,6 +17262,7 @@
 <e>       <p><l>yashnoq<s n="n"/></l>                  <r>jıltıraq<s n="n"/></r></p></e>
 <e>       <p><l>yashshamagur<s n="n"/></l>             <r>jaramas<s n="n"/></r></p></e>
 <e>       <p><l>yassitogʻlik<s n="n"/></l>             <r>tegistog‘lik<s n="n"/></r></p></e>
+<e>       <p><l>yaxshi<s n="adj"/></l>                 <r>jaqsı<s n="adj"/></r></p></e>
 <e>       <p><l>yaxshiki<s n="n"/></l>                 <r>jaqsıki<s n="n"/></r></p></e>
 <e>       <p><l>yaxshilash<s n="n"/></l>               <r>jaqsılaw<s n="n"/></r></p></e>
 <e>       <p><l>yaxshiyam<s n="n"/></l>                <r>jaqsıyam<s n="n"/></r></p></e>
