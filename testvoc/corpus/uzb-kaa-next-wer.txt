@@ -1,0 +1,28 @@
+Test file: 'testvoc/corpus/uzb-kaa-next.txt'
+Reference file 'testvoc/corpus/kaa.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 347
+Number of words in test: 338
+Number of unknown words (marked with a star) in test: 47
+Percentage of unknown words: 13.91 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 212
+Word error rate (WER): 61.10 %
+Number of position-independent correct words: 153
+Position-independent word error rate (PER): 55.91 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 216
+Word Error Rate (WER): 62.25 %
+Number of position-independent correct words: 149
+Position-independent word error rate (PER): 57.06 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 4
+Percentage of unknown words that were free rides: 8.51 %
