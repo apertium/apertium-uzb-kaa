@@ -19482,5 +19482,17 @@
 <e>       <p><l>zigʻirkor<s n="adv"/></l>              <r>zıǵırkar<s n="adv"/></r></p></e>
 <e>       <p><l>zoʻraki<s n="adv"/></l>                <r>jasalma<s n="adv"/></r></p></e>
 
+<!-- GSoC 2020 -->
+<e>       <p><l>yana<s n="adj"/></l>                <r>jáne<s n="adj"/></r></p></e>
+<e>       <p><l>keyin<s n="adv"/></l>                <r>keyin<s n="adv"/></r></p></e>
+<e>       <p><l>iliq<s n="adj"/></l>                <r>jıllı<s n="adj"/></r></p></e>
+<e>       <p><l>ham<s n="cnjcoo"/></l>                <r>hám<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>vaqt<s n="n"/></l>                     <r>waqıt<s n="n"/></r></p></e>
+<e>       <p><l>Asal<s n="np"/><s n="ant"/><s n="f"/></l><r>Asal<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>uy<s n="n"/></l>                     <r>úy<s n="n"/></r></p></e>
+<e>       <p><l>ol<s n="v"/><s n="tv"/></l>      <r>al<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>ular<s n="n"/></l>                     <r>olar<s n="n"/></r></p></e>
+<e>       <p><l>tashqari<s n="n"/></l>                 <r>sırt<s n="n"/></r></p></e>
+
   </section>
 </dictionary>
