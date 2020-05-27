@@ -99,7 +99,7 @@
     <sdef n="prep" /> 
     <sdef n="REmOvE" 	c=""/> 
   </sdefs>
-  <section id="main" type="standard">
+<section id="main" type="standard">
     <!-- ******************************
           group abbr_symbol
       ****************************** -->
