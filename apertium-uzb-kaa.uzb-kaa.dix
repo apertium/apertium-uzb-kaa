@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
+    <!--
 	Dictionary:
 	Sections: 1
 	Entries: 19152
@@ -144,7 +144,6 @@
 <e>       <p><l>abadiya<s n="adj"/></l>                <r>máńgi<s n="adj"/></r></p></e>
 <e>       <p><l>abas<s n="adj"/></l>                   <r>paydasız<s n="adj"/></r></p></e>
 <e>       <p><l>abdol<s n="adj"/></l>                  <r>dinshil<s n="adj"/></r></p></e>
-
 <e>       <p><l>aberratsion<s n="adj"/></l>            <r>aberratsion<s n="adj"/></r></p></e>
 <e>       <p><l>aberratsion<s n="adj"/></l>            <r>aberrachion<s n="adj"/></r></p></e>
 <e>       <p><l>abgor<s n="adj"/></l>                  <r>gedey<s n="adj"/></r></p></e>
@@ -5030,7 +5029,6 @@
 <e>       <p><l>Yevropalik<s n="n"/><s n="nat"/></l>   <r>Yevropalik<s n="n"/><s n="nat"/></r></p></e>
 <e>       <p><l>Yugoslav<s n="n"/><s n="nat"/></l>     <r>Yugoslav<s n="n"/><s n="nat"/></r></p></e>
 <e>       <p><l>Yunon<s n="n"/></l>                    <r>Yunon<s n="n"/></r></p></e>
-
 <e>       <p><l>abad<s n="n"/></l>                     <r>máńgilik<s n="n"/></r></p></e>
 <e>       <p><l>abadiyat<s n="n"/></l>                 <r>máńgilik<s n="n"/></r></p></e>
 <e>       <p><l>abadiylash<s n="n"/></l>               <r>máńgilew<s n="n"/></r></p></e>
@@ -15736,7 +15734,6 @@
 <e>       <p><l>Aargau<s n="np"/><s n="top"/></l>      <r>Aargau<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abbeville<s n="np"/><s n="top"/></l>   <r>Abbeville<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abbos<s n="np"/><s n="ant"/><s n="m"/></l><r>Abbos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-
 <e>       <p><l>Abdulla<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulla<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abdulla<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulla<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abdullayev<s n="np"/><s n="cog"/><s n="mf"/></l><r>Abdullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -15753,9 +15750,7 @@
 <e>       <p><l>Afgʻoniston<s n="np"/><s n="top"/></l> <r>Afgʻoniston<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Afina<s n="np"/><s n="top"/></l>       <r>Afina<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Aflotun<s n="np"/><s n="ant"/><s n="m"/></l><r>Aflotun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-
       <!-- SECTION: Proper-->
-
 <e>       <p><l>Afrika<s n="np"/><s n="top"/></l>      <r>Afrika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Afrika<s n="np"/><s n="top"/></l>      <r>Afrika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Agim<s n="np"/><s n="ant"/><s n="m"/></l><r>Agim<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -15857,10 +15852,8 @@
 <e>       <p><l>Axsi<s n="np"/><s n="top"/></l>        <r>Axsi<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Aydınspor<s n="np"/><s n="org"/></l>   <r>Aydınspor<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Aygul<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygul<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-
 <e>       <p><l>Aygúl<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygúl<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Ayhan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ayhan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-
 <e>       <p><l>Azamat<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Azamat<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Azamat<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -16263,7 +16256,6 @@
 <e>       <p><l>Kansas<s n="np"/><s n="top"/></l>      <r>Kansas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Karabükspor<s n="np"/><s n="org"/></l> <r>Karabükspor<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Karel<s n="np"/><s n="ant"/><s n="m"/></l><r>Karel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-
 <e>       <p><l>Karimov<s n="np"/><s n="cog"/></l>     <r>Karimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Karimov<s n="np"/><s n="cog"/><s n="mf"/></l><r>Karimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Karintiya<s n="np"/><s n="top"/></l>   <r>Karintiya<s n="np"/><s n="top"/></r></p></e>
