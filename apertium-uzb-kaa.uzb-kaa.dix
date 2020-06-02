@@ -19491,10 +19491,9 @@
 <e>       <p><l>Asal<s n="np"/><s n="ant"/><s n="f"/></l><r>Asal<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>uy<s n="n"/></l>                     <r>úy<s n="n"/></r></p></e>
 <e>       <p><l>ol<s n="v"/><s n="tv"/></l>      <r>al<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>ular<s n="n"/></l>                     <r>olar<s n="n"/></r></p></e>
 <e>       <p><l>tashqari<s n="n"/></l>                 <r>sırt<s n="n"/></r></p></e>
 <e>       <p><l>Oygul<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygúl<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Baxtiyor<s n="np"/><s n="ant"/><s n="m"/></l><r>Baxtıyar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-
+<e>       <p><l>ular<s n="prn"/><s n="pers"/></l>         <r>olar<s n="prn"/><s n="pers"/></r></p></e>
   </section>
 </dictionary>
