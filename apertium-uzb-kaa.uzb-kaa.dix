@@ -1562,7 +1562,7 @@
 <e>       <p><l>amma<s n="n"/></l>                     <r>apa<s n="n"/></r></p></e>
 <e>       <p><l>ammiak<s n="n"/></l>                   <r>ammiak<s n="n"/></r></p></e>
 <e>       <p><l>ammiakli<s n="adj"/></l>               <r>ammiakli<s n="adj"/></r></p></e>
-<e>       <p><l>ammo<s n="cc"/></l>                    <r>biraq<s n="cc"/></r></p></e>
+<e>       <p><l>ammo<s n="cnjcoo"/></l>                <r>biraq<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>amnistiya<s n="n"/></l>                <r>amnistiya<s n="n"/></r></p></e>
 <e>       <p><l>amortizator<s n="n"/></l>              <r>amortizator<s n="n"/></r></p></e>
 <e>       <p><l>amortizatsiya<s n="n"/></l>            <r>amortizatsiya<s n="n"/></r></p></e>
@@ -12540,8 +12540,8 @@
 <e>       <p><l>koʻrinish<s n="n"/></l>                <r>kórinis<s n="n"/></r></p></e>
 <e>       <p><l>koʻrinishli<s n="adj"/></l>            <r>kórinisli<s n="adj"/></r></p></e>
 <e>       <p><l>koʻrish<s n="n"/><s n="vn"/></l>       <r>kóriw<s n="n"/><s n="vn"/></r></p></e>
-<e>       <p><l>koʻrishish<s n="v"/><s n="iv"/><s n="coop"/></l><r>kóriwiw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
-<e>       <p><l>koʻrishtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>kóriwtir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
+<e>       <p><l>koʻrishish<s n="v"/><s n="iv"/><s n="coop"/></l><r>kórisiw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>koʻrishtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>kóristir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>koʻrk<s n="n"/></l>                    <r>kórik<s n="n"/></r></p></e>
 <e>       <p><l>koʻrkalamush<s n="n"/></l>             <r>kórikalamush<s n="n"/></r></p></e>
 <e>       <p><l>koʻrkam<s n="adj"/></l>                <r>kórkem<s n="adj"/></r></p></e>
@@ -19483,17 +19483,22 @@
 <e>       <p><l>zoʻraki<s n="adv"/></l>                <r>jasalma<s n="adv"/></r></p></e>
 
 <!-- GSoC 2020 -->
-<e>       <p><l>yana<s n="adj"/></l>                <r>jáne<s n="adj"/></r></p></e>
-<e>       <p><l>keyin<s n="adv"/></l>                <r>keyin<s n="adv"/></r></p></e>
-<e>       <p><l>iliq<s n="adj"/></l>                <r>jıllı<s n="adj"/></r></p></e>
-<e>       <p><l>ham<s n="cnjcoo"/></l>                <r>hám<s n="cnjcoo"/></r></p></e>
-<e>       <p><l>vaqt<s n="n"/></l>                     <r>waqıt<s n="n"/></r></p></e>
-<e>       <p><l>Asal<s n="np"/><s n="ant"/><s n="f"/></l><r>Asal<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e>       <p><l>uy<s n="n"/></l>                     <r>úy<s n="n"/></r></p></e>
-<e>       <p><l>ol<s n="v"/><s n="tv"/></l>      <r>al<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>tashqari<s n="n"/></l>                 <r>sırt<s n="n"/></r></p></e>
-<e>       <p><l>Oygul<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygúl<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e>       <p><l>Baxtiyor<s n="np"/><s n="ant"/><s n="m"/></l><r>Baxtıyar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e>       <p><l>ular<s n="prn"/><s n="pers"/></l>         <r>olar<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>yana<s n="adj"/></l>                    <r>jáne<s n="adj"/></r></p></e>
+<e>       <p><l>keyin<s n="adv"/></l>                   <r>keyin<s n="adv"/></r></p></e>
+<e>       <p><l>iliq<s n="adj"/></l>                    <r>jıllı<s n="adj"/></r></p></e>
+<e>       <p><l>ham<s n="cnjcoo"/></l>                  <r>hám<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>va<s n="cnjcoo"/></l>                   <r>hám<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>vaqt<s n="n"/></l>                      <r>waqıt<s n="n"/></r></p></e>
+<e>       <p><l>Asal<s n="np"/><s n="ant"/><s n="f"/></l>   <r>Asal<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>uy<s n="n"/></l>                        <r>úy<s n="n"/></r></p></e>
+<e>       <p><l>ol<s n="v"/><s n="tv"/></l>             <r>al<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>tashqari<s n="n"/></l>                  <r>sırt<s n="n"/></r></p></e>
+<e>       <p><l>Oygul<s n="np"/><s n="ant"/><s n="f"/></l> <r>Aygúl<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>Baxtiyor<s n="np"/><s n="ant"/><s n="m"/></l> <r>Baxtıyar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>ular<s n="prn"/><s n="pers"/></l>       <r>olar<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>ulkan<s n="adj"/></l>                    <r>úlken<s n="adj"/></r></p></e>
+<e>       <p><l>qachon<s n="adv"/></l>                   <r>qashan<s n="adv"/></r></p></e>
+<e>       <p><l>xursand<s n="adj"/></l>                    <r>quwanıshli<s n="adj"/></r></p></e>
+
   </section>
 </dictionary>
