@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Runs a corpus a test - compares the output of the last revision with
+# the current one.
+
+# See http://wiki.apertium.org/wiki/corpus_test
+
+# uzb-kaa
+
+cat texts/story-uzb.txt | apertium -d . uzb-kaa > texts/story-uzb-kaa.txt &&
+
+diff -U0 texts/story-kaa.txt texts/story-uzb-kaa.txt | dwdiff -c --diff-input | more
+
+# kaa-uzb
+
+cat texts/story-kaa.txt | apertium -d . kaa-uzb > texts/story-kaa-uzb.txt &&
+
+diff -U0 texts/story-uzb.txt texts/story-kaa-uzb.txt | dwdiff -c --diff-input | more
+
+
+
