@@ -91,12 +91,14 @@ $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 ###############################################################################
 ## Tagger models
 ###############################################################################
-
-$(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
-	cp $< $@
-
-$(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
-	cp $< $@
+#
+# Currently disabled !
+#
+#$(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
+#	cp $< $@
+#
+#$(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
+#	cp $< $@
 
 ###############################################################################
 ## Disambiguation rules
