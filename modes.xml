@@ -10,12 +10,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -n -1">
         <file name="uzb-kaa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <!-- program name="apertium-tagger -g $2">
         <file name="uzb-kaa.prob"/>
-      </program>
+      </program -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="uzb-kaa.autobil.bin"/>
@@ -47,12 +47,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -n -1">
         <file name="kaa-uzb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <!-- program name="apertium-tagger -g $2">
         <file name="kaa-uzb.prob"/>
-      </program>
+      </program -->
 
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
