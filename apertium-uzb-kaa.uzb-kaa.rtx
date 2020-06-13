@@ -2,27 +2,126 @@
 !! ATTRIBUTE CATEGORIES
 !!!!!!!!!!!!!!!
 
-number = (ND sg) sg pl sp ND;
+n_number = (ND "") sg pl sp ND;
+v_number = (ND sg) sg pl sp ND;
 gender = (GD m) m f mf GD;
-det_type = def ind dem itg;
-tense = pres past fut ifi pri fti;
+
+det_type = def ind dem itg qnt ref ;
+prn_type = dem ind pers itg neg ;
+
+np_type = ant cog top org ;
+
+v_type = iv tv vaux cop ;
+
+tense = pres past fut ifi fut aor imp unac ;
+vadj = gpr_past gpr_impf gpr_fut gpr_hab gpr_pot gpr_ppot gpr_unac ;
+vadv = gna_perf gna_impf gna_cond ;
+ger = ger_past ger_fut ger ger_unac ;
+inf = prc_perf prc_impf prc_vol prc_cond prc_fplan prc_plan ;
+nonfin = [vadj] [vadv] [ger] [inf] ;
+fin_nonfin = [tense] [vadj] [vadv] [ger] [inf] ;
+comp = comp ;
+
+polarity = neg ;
+
+possession = px1sg px1pl px2sg px2pl px3sp ;
+
+case = nom acc gen dat loc abl ins CD ; ! (CD nom)
+attr = attr ;
+
+n_person = (PD p3) p1 p2 p3 PD ;
+v_person = (PD "") p1 p2 p3 PD ;
+formality = frm ;
+
+transitivity = (TD iv) tv iv ;
+voice = caus pass coop ;
+voice_a = coop ;
+voice_b = caus ;
+voice_c = pass ;
+! caus.pass is loads more common than pass.caus
+! technically caus.caus is also possible
+
+verbs_acc = кара ;
+post_acc = карай ;
+post_dat = карата ;
+
+advl = advl ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
-n: _.number;
-adj: _ ;
-det_default: _.det_type;
-det_def: _.det_type.number;
 
-NP: _.number;
+adj: _.advl.comp ;
+AP: _ ;
+aP: _ ;
+
+adv: _ ;
+postadv: _ ;
+
+post: _ ;
+
+vaux_fin: <vaux>.polarity.fin_nonfin.v_person.formality.v_number ;
+vaux_vadj: <vaux>.polarity.fin_nonfin ;  ! FIXME: allow for subst
+vaux_inf: <vaux>.polarity.fin_nonfin ;
+vaux_inf_vol: <vaux>.polarity.fin_nonfin.v_person.formality.v_number ;
+vaux_vadv: <vaux>.polarity.fin_nonfin ;
+vaux_vadv_cond: <vaux>.polarity.fin_nonfin.v_person.formality.v_number ;
+vaux_ger: <vaux>.polarity.fin_nonfin.n_number.possession.formality.case ;
+
+
+v_fin: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.v_person.formality.v_number ;
+v_vadj: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin ;  ! FIXME: allow for subst
+v_vadv: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin ;
+v_vadv_cond: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.v_person.formality.v_number ;
+v_inf: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin ;
+v_inf_vol: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.v_person.formality.v_number ;
+v_ger: <v>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.n_number.possession.formality.case ;
+
+!vP: _.v_type.voice_a.voice_b.voice_c.fin_nonfin.polarity.v_person.formality.v_number ;
+vP_fin: <vP>.v_type.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.v_person.formality.v_number ;
+vP_vadj: <vP>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin ;  ! FIXME: allow for subst
+vP_vadv: <vP>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin ;
+vP_vadv_cond: <vP>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.v_person.formality.v_number ;
+vP_inf: <vP>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin ;
+vP_inf_vol: <vP>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.v_person.formality.v_number ;
+vP_ger: <vP>.transitivity.voice_a.voice_b.voice_c.polarity.fin_nonfin.n_number.possession.formality.case ;
+
+cop_fin: <cop>.tense.polarity.v_person.formality.v_number ;
+cop_ger: <cop>.ger.n_number.possession.formality.case ;
+
+qst: _ ;
+emph: _ ;
+
+VP: _.transitivity.voice_a.voice_b.voice_c.fin_nonfin.polarity.v_person.formality.v_number ;
+
+n: _.n_number.possession.case.attr ;
+nP: _.n_number.possession.case ;
+NP: _.n_number.possession.case ;
+
+np_ant: _.np_type.gender.case ;
+np_cog: _.np_type.gender.case ;
+np_other: _.np_type.case ;
+
+prn_pers: _.prn_type.v_person.formality.n_number.case ;
+prn_dem: _.prn_type.n_number.case ;  ! also for itg
+
+det_default: _.det_type;
+det_def: _.det_type.n_number;
+
+PP: _ ;
+AdvP: _ ;
+PPorAdvP: _ ;
+
+S: _ ;
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
 !!!!!!!!!!!!!!!
 
-!tense > tense : ifi past, pri pres, fti fut;
+tense > tense : pres aor ;  ! ifi past, pri pres, fti fut;
+fin_nonfin > fin_nonfin : pres aor,
+	gna_impf gna_perf, ger_impf ger_past; ! these two might not be necessary?  copied from t1x
 
 !!!!!!!!!!!!!!!
 !! MACROS
@@ -33,11 +132,161 @@ det: (if (1.det_type = def or 1.det_type = ind)
       else
          1(det_default));
 
+prn: (if (1.prn_type = pers)
+			1(prn_pers)
+		else
+			1(prn_dem) ! also for itg
+		);
+
+np: (if (1.np_type = ant)
+			1(np_ant)
+		elseif (1.np_type = cog)
+			1(np_cog)
+		else
+			1(np_other)
+		);
+
+vaux: (if (1.fin_nonfin in tense)
+			1(vaux_fin)
+		elseif (1.fin_nonfin in vadj)
+			1(vaux_vadj)
+		elseif ((1.fin_nonfin in vadv) and (1.fin_nonfin = gna_cond))
+			1(vaux_vadv_cond)
+		elseif (1.fin_nonfin in vadv)
+			1(vaux_vadv)
+		elseif ((1.fin_nonfin in inf) and (1.fin_nonfin = prc_vol))
+			1(vaux_inf_vol)
+		elseif (1.fin_nonfin in inf)
+			1(vaux_inf)
+		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger) and ((1.possession="") and (1.case=nom)))
+			1(vaux_ger)[fin_nonfin=ger_pres]
+		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger))
+			1(vaux_ger)[fin_nonfin=ger_past]
+		elseif (1.fin_nonfin in ger)
+			1(vaux_ger)
+		);
+
+v: (if (1.fin_nonfin in tense)
+			1(v_fin)
+		elseif (1.fin_nonfin in vadj)
+			1(v_vadj)
+		elseif ((1.fin_nonfin in vadv) and (1.fin_nonfin = gna_cond))
+			1(v_vadv_cond)
+		elseif (1.fin_nonfin in vadv)
+			1(v_vadv)
+		elseif ((1.fin_nonfin in inf) and (1.fin_nonfin = prc_vol))
+			1(v_inf_vol)
+		elseif (1.fin_nonfin in inf)
+			1(v_inf)
+		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger) and ((1.possession="") and (1.case=nom)))
+			1(v_ger)[fin_nonfin=ger_pres]
+		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger))
+			1(v_ger)[fin_nonfin=ger_past]
+		elseif (1.fin_nonfin in ger)
+			1(v_ger)
+		);
+
+vP: (if (1.fin_nonfin in tense)
+			1(vP_fin)
+		elseif (1.fin_nonfin in vadj)
+			1(vP_vadj)
+		elseif ((1.fin_nonfin in vadv) and (1.fin_nonfin = gna_cond))
+			1(vP_vadv_cond)
+		elseif (1.fin_nonfin in vadv)
+			1(vP_vadv)
+		elseif ((1.fin_nonfin in inf) and (1.fin_nonfin = prc_vol))
+			1(vP_inf_vol)
+		elseif (1.fin_nonfin in inf)
+			1(vP_inf)
+		elseif (1.fin_nonfin in ger)
+			1(vP_ger)
+		);
+
+cop: (if (1.fin_nonfin in tense)
+			1(cop_fin)
+		elseif (1.fin_nonfin in ger)
+			1(cop_ger)
+		);
+
+
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-NP -> adj n { 1 _1 2 } ;
+PP ->
+		20: NP %post [$lemh=bilan] { 1[case=nom]+menen@post } |
+		NP %post {
+			1[case=(
+				if (2.lemh in post_acc)
+					acc
+				elseif (2.lemh in post_dat)
+					dat
+				else
+					1.case
+			)]
+			_1 2 } ;
+
+AdvP ->
+		%adj ?(1.advl=advl) { 1 } |
+		%adv { 1 } |
+		%AdvP postadv { 1 _1 2 }
+		;
+
+PPorAdvP ->
+		%PP { 1 } |
+		%AdvP { 1 } ;
+
+NP -> ! n.$number adj { 2[gender=1.gender, number=1.number] _1 1 } ;
+		20: %nP { %1 } |
+		AP %nP { 1 _1 %2 } |
+		det %nP { 1 _1 %2 } |
+		det AP %nP { 1 _1 2 _2 %3 } |
+		%prn { %1 } |
+		NP.gen %NP.px3sp { 1 %2 } ;
+
+nP ->
+		%n { %1 } |
+		n %n ?((1.possession = "") and (2.possession = px3sp)) { 1 _1 2 } |
+		%np { %1 } ;
+
+aP ->
+		%adj { 1 } |
+		adv %adj { 1 _1 2 } |
+		%aP qst { 1 + 2 } |
+		%aP emph { 1 + 2 } |
+		%aP postadv { 1 _1 2 } ;
+
+AP ->
+		%aP { 1 } ;
+
+vP ->
+		! all [$fin_nonfin=1.fin_nonfin] can be removed when apertium-recursive supports % checking for macros
+		%vaux [$fin_nonfin=1.fin_nonfin] { 1 } |
+		1: %v [$fin_nonfin=1.fin_nonfin] { %1[fin_nonfin=$fin_nonfin,polarity=$polarity] } |
+		2: %v ?(1.vadj/sl=gpr_impf) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=prc_impf] _ тур@vaux.gpr_past } |
+		%cop [$fin_nonfin=1.fin_nonfin] { 1 } |
+		vP %vP ?((1.fin_nonfin in inf) and (2.v_type=vaux)) [$lemh=1.lemh,$fin_nonfin=2.fin_nonfin] { 1 _1 2 } |
+		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
+
+VP ->
+		NP %э@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		AP %э@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		NP %vP ?(1.case = acc) { 1 _1 2 } |
+		NP %vP ?(1.case = dat) { 1[case=(if (2.lemh in verbs_acc) acc else 1.case)] _1 2 } |
+		PPorAdvP %vP { (
+				if ((1.lemh="али") and (2.polarity=neg))
+					[ %2[fin_nonfin=unac,polarity=_] ]
+				else
+					[ 1 _1 %2 ]
+			) } |
+		PPorAdvP NP %vP { 1 _1 2 _2 3 } !|
+		!1: AP %vP ?(2.v_type=cop) { 1 _1 2 } |
+		!2: AP %vP ?(2.v_type=cop & 2.tense=aor) { 1 + 2 } ;
+		;
+
+S ->
+		NP VP { 1 _1 2 } ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Apertium-recursive
