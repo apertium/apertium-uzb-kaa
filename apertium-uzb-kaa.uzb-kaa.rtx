@@ -214,7 +214,7 @@ cop: (if (1.fin_nonfin in tense)
 !!!!!!!!!!!!!!!
 
 PP ->
-		20: NP %post [$lemh=bilan] { 1[case=nom]+menen@post } |
+		20: NP %bilan@post { 1[case=ins] } |
 		NP %post {
 			1[case=(
 				if (2.lemh in post_acc)
