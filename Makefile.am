@@ -12,12 +12,13 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1).automorf.bin	\
+	$(PREFIX1).rlx		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
-	$(PREFIX1).rtx.bin	\	
+	$(PREFIX1).rtx.bin	\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
@@ -103,6 +104,9 @@ $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 ###############################################################################
 ## Disambiguation rules
 ###############################################################################
+
+$(PREFIX1).rlx: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
+	cp $< $@
 
 $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
 	cg-comp $< $@
