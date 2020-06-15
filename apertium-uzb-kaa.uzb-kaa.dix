@@ -5455,7 +5455,7 @@
 <e>       <p><l>kuchli<s n="adj"/></l>                 <r>kúshli<s n="adj"/></r></p></e>
 <e>       <p><l>kuchsiz<s n="adj"/></l>                <r>kúshsiz<s n="adj"/></r></p></e>
 <e>       <p><l>kuchsizlik<s n="n"/></l>               <r>kúshsizlik<s n="n"/></r></p></e>
-<e>       <p><l>kuchuk<s n="n"/></l>                   <r>kushık<s n="n"/></r></p></e>
+<e>       <p><l>kuchuk<s n="n"/></l>                   <r>kúshik<s n="n"/></r></p></e>
 <e>       <p><l>kudurat<s n="n"/></l>                  <r>qayǵı<s n="n"/></r></p></e>
 <e>       <p><l>kufron<s n="n"/></l>                   <r>kufron<s n="n"/></r></p></e>
 <e>       <p><l>kuf-suf<s n="ideo"/></l>               <r>kuf-suf<s n="ideo"/></r></p></e>
@@ -19492,7 +19492,7 @@
 <e>       <p><l>tashqari<s n="n"/></l>                  <r>sırt<s n="n"/></r></p></e>
 <e>       <p><l>Oygul<s n="np"/><s n="ant"/><s n="f"/></l> <r>Aygúl<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Baxtiyor<s n="np"/><s n="ant"/><s n="m"/></l> <r>Baxtıyar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e>       <p><l>ular<s n="p3"/><s n="pl"/></l>       <r>olar<s n="p3"/><s n="pl"/></r></p></e>
+<e>       <p><l>ular<s n="prn"/><s n="p3"/><s n="pl"/></l>       <r>olar<s n="p3"/><s n="pl"/></r></p></e>
 <e>       <p><l>ulkan<s n="adj"/></l>                    <r>úlken<s n="adj"/></r></p></e>
 <e>       <p><l>qachon<s n="adv"/><s n="itg"/></l>                   <r>qashan<s n="adv"/><s n="itg"/></r></p></e>
 <e>       <p><l>xursand<s n="adj"/></l>                    <r>quwanıshli<s n="adj"/></r></p></e>
@@ -19502,7 +19502,7 @@
 <e>       <p><l>ber<s n="v"/><s n="tv"/></l>             <r>ber<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>yoki<s n="cnjcoo"/></l>                  <r>yamasa<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>yosh<s n="n"/></l>                  <r>jas<s n="n"/></r></p></e>
-<e>       <p><l>sen<s n="p2"/><s n="sg"/></l>       <r>sen<s n="p2"/><s n="sg"/></r></p></e>
+<e>       <p><l>sen<s n="prn"/><s n="p2"/><s n="sg"/></l>       <r>sen<s n="p2"/><s n="sg"/></r></p></e>
 <e>       <p><l>yer<s n="n"/></l>                  <r>jer<s n="n"/></r></p></e>
 <e>       <p><l>kir<s n="v"/><s n="iv"/></l>             <r>kir<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>bolakay<s n="n"/></l>                     <r>bala<s n="n"/></r></p></e>
@@ -19517,6 +19517,8 @@
 <e>       <p><l>yeyish<s n="v"/><s n="iv"/><s n="coop"/></l><r>jew<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>bekinish<s n="v"/><s n="iv"/><s n="coop"/></l><r>jasırınıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>bekin<s n="v"/><s n="iv"/></l><r>jasırın<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>koʼr<s n="v"/><s n="tv"/><s n="coop"/></l><r>kór<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
+<e>       <p><l>narsa<s n="n"/></l>                     <r>nárse<s n="n"/></r></p></e>
 
   </section>
 </dictionary>
