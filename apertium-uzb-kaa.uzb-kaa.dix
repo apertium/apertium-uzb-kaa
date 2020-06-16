@@ -19481,6 +19481,31 @@
 <e>       <p><l>zarafshon<s n="adv"/></l>              <r>zarafshan<s n="adv"/></r></p></e>
 <e>       <p><l>zigʻirkor<s n="adv"/></l>              <r>zıǵırkar<s n="adv"/></r></p></e>
 <e>       <p><l>zoʻraki<s n="adv"/></l>                <r>jasalma<s n="adv"/></r></p></e>
+		  
+
+<!-- SECTION: Punctuation -->
+
+
+<e>       <p><l>,<s n="cm"/></l>                  <r>,<s n="cm"/></r></p></e>
+<e>       <p><l>(<s n="lpar"/></l>                <r>(<s n="lpar"/></r></p></e>
+<e>       <p><l>)<s n="rpar"/></l>                <r>)<s n="rpar"/></r></p></e>
+<e>       <p><l>[<s n="lpar"/></l>                <r>[<s n="lpar"/></r></p></e>
+<e>       <p><l>]<s n="rpar"/></l>                <r>]<s n="rpar"/></r></p></e>
+<e>       <p><l>«<s n="lquot"/></l>               <r>«<s n="lquot"/></r></p></e>
+<e>       <p><l>»<s n="rquot"/></l>               <r>»<s n="rquot"/></r></p></e>
+<e>       <p><l>“<s n="lquot"/></l>               <r>“<s n="lquot"/></r></p></e>
+<e>       <p><l>”<s n="rquot"/></l>               <r>”<s n="rquot"/></r></p></e>
+<e>       <p><l>-<s n="guio"/></l>                <r>-<s n="guio"/></r></p></e>
+<e>       <p><l>—<s n="guio"/></l>                <r>—<s n="guio"/></r></p></e>
+<e>       <p><l>'<s n="apos"/></l>                <r>'<s n="apos"/></r></p></e>
+<e>       <p><l>"<s n="sent"/></l>                <r>"<s n="sent"/></r></p></e>
+<e>       <re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+
+    <!--e><re>[№%]?[0-9]+([.,][0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e-->
+    <!-- This is a hack. At the moment the numeral lexicon will not generate zeros after commas -->
+<e>      <re>[0-9]+([.,][1-9]+|[,.][0-9]+[1-9])*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<!-- e>      <re>[A-Za-z]+</re><p><l><s n="np"/><s n="unk"/></l><r><s n="np"/><s n="unk"/></r></p></e -->
+
 
   </section>
 </dictionary>
