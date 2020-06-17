@@ -12537,8 +12537,6 @@
 <e>       <p><l>koʻrinish<s n="n"/></l>                <r>kórinis<s n="n"/></r></p></e>
 <e>       <p><l>koʻrinishli<s n="adj"/></l>            <r>kórinisli<s n="adj"/></r></p></e>
 <e>       <p><l>koʻrish<s n="n"/><s n="vn"/></l>       <r>kóriw<s n="n"/><s n="vn"/></r></p></e>
-<e>       <p><l>koʻrishish<s n="v"/><s n="iv"/><s n="coop"/></l><r>kórisiw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
-<e>       <p><l>koʻrishtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>kóristir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>koʻrk<s n="n"/></l>                    <r>kórik<s n="n"/></r></p></e>
 <e>       <p><l>koʻrkalamush<s n="n"/></l>             <r>kórikalamush<s n="n"/></r></p></e>
 <e>       <p><l>koʻrkam<s n="adj"/></l>                <r>kórkem<s n="adj"/></r></p></e>
@@ -19481,6 +19479,7 @@
 
 <!-- GSoC 2020 -->
 <e>       <p><l>yana<s n="cnjcoo"/></l>                    <r>jáne<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>yana<s n="adv"/></l>                    <r>jáne<s n="adv"/></r></p></e>
 <e>       <p><l>keyin<s n="adv"/></l>                   <r>keyin<s n="adv"/></r></p></e>
 <e>       <p><l>iliq<s n="adj"/></l>                    <r>jıllı<s n="adj"/></r></p></e>
 <e>       <p><l>ham<s n="cnjcoo"/></l>                  <r>hám<s n="cnjcoo"/></r></p></e>
@@ -19508,7 +19507,7 @@
 <e>       <p><l>bolakay<s n="n"/></l>                     <r>bala<s n="n"/></r></p></e>
 <e>       <p><l>haliyam<s n="adv"/></l>                   <r>ele<s n="adv"/></r></p></e>
 <e>       <p><l>qanday<s n="adv"/><s n="itg"/></l>                   <r>qanday<s n="adv"/><s n="itg"/></r></p></e>
-<e>       <p><l>singli<s n="n"/></l>                     <r>qarındas<s n="n"/></r></p></e>
+<e>       <p><l>singli<s n="n"/></l>                     <r>sińli<s n="n"/></r></p></e>
 <e>       <p><l>gapir<s n="v"/><s n="iv"/></l>             <r>sóyle<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>boshqa<s n="adj"/></l>                   <r>basqa<s n="adj"/></r></p></e>
 <e>       <p><l>tag<s n="n"/></l>                     <r>ast<s n="n"/></r></p></e>
