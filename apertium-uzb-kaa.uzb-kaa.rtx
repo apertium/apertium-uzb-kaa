@@ -13,7 +13,7 @@ np_type = ant cog top org ;
 
 v_type = iv tv vaux cop ;
 
-tense = pres past fut ifi fut aor imp unac ;
+tense = pres past fut ifi fut aor imp unac prog ;
 vadj = gpr_past gpr_impf gpr_fut gpr_hab gpr_pot gpr_ppot gpr_unac ;
 vadv = gna_perf gna_impf gna_cond ;
 ger = ger ger_past ger_fut ger ger_unac ger_abst ;
