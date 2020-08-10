@@ -301,7 +301,7 @@
 <e>       <p><l>ajralish<s n="n"/></l>                 <r>ajralish<s n="n"/></r></p></e>
 <e>       <p><l>ajralmas<s n="adj"/></l>               <r>ajralmas<s n="adj"/></r></p></e>
 <e>       <p><l>ajral<s n="v"/><s n="iv"/></l>         <r>ajral<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>ajrash<s n="v"/><s n="iv"/></l>        <r>ajrash<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>ajrash<s n="v"/><s n="iv"/></l>        <r>ajras<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>ajra<s n="v"/><s n="iv"/></l>          <r>ajra<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>ajratish<s n="n"/></l>                 <r>ajratish<s n="n"/></r></p></e>
 <e>       <p><l>ajratma<s n="n"/></l>                  <r>ajratma<s n="n"/></r></p></e>
@@ -4205,7 +4205,6 @@
 <e>       <p><l>haqqoniyat<s n="n"/></l>               <r>ádillik<s n="n"/></r></p></e>
 <e>       <p><l>haqqoniylik<s n="n"/></l>              <r>ádillik<s n="n"/></r></p></e>
 <e>       <p><l>haqsiz<s n="adj"/></l>                 <r>ádilsiz<s n="adj"/></r></p></e>
-<e>       <p><l>har<s n="n"/></l>                      <r>hár<s n="n"/></r></p></e>
 <e>       <p><l>harakat<s n="n"/></l>                  <r>háreket<s n="n"/></r></p></e>
 <e>       <p><l>harakatchan<s n="adj"/></l>            <r>jıldam<s n="adj"/></r></p></e>
 <e>       <p><l>harakatdagi<s n="adj"/></l>            <r>háreketdegi<s n="adj"/></r></p></e>
@@ -8158,7 +8157,6 @@
 <e>       <p><l>semitik<s n="adj"/></l>                <r>semitik<s n="adj"/></r></p></e>
 <e>       <p><l>semiz<s n="n"/></l>                    <r>tompaq<s n="n"/></r></p></e>
 <e>       <p><l>semizlik<s n="n"/></l>                 <r>tompaqlıq<s n="n"/></r></p></e>
-<e>       <p><l>sen<s n="ij"/></l>                     <r>sen<s n="ij"/></r></p></e>
 <e>       <p><l>senat<s n="n"/></l>                    <r>senat<s n="n"/></r></p></e>
 <e>       <p><l>senator<s n="n"/></l>                  <r>senator<s n="n"/></r></p></e>
 <e>       <p><l>seniki<s n="adj"/></l>                 <r>seniki<s n="adj"/></r></p></e>
@@ -10556,7 +10554,6 @@
 <e>       <p><l>boʻkir<s n="v"/><s n="iv"/></l>        <r>baqırıw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>boʻkirtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>baqırtırıw<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>boʻksa<s n="n"/></l>                   <r>bókse<s n="n"/></r></p></e>
-<e>       <p><l>boʻl<s n="n"/></l>                     <r>bol<s n="n"/></r></p></e>
 <e>       <p><l>boʻlajak<s n="n"/></l>                 <r>bolajaq<s n="n"/></r></p></e>
 <e>       <p><l>boʻlak<s n="n"/></l>                   <r>bólek<s n="n"/></r></p></e>
 <e>       <p><l>boʻlak-boʻlak<s n="adj"/></l>          <r>bólek-bólek<s n="adj"/></r></p></e>
@@ -10576,7 +10573,6 @@
 <e>       <p><l>boʻlinma<s n="n"/></l>                 <r>bólindi<s n="n"/></r></p></e>
 <e>       <p><l>boʻlinmas<s n="adj"/></l>              <r>bólindis<s n="adj"/></r></p></e>
 <e>       <p><l>boʻlinuvchi<s n="n"/></l>              <r>bóliniwshi<s n="n"/></r></p></e>
-<e>       <p><l>boʻlish<s n="n"/></l>                  <r>bolıw<s n="n"/></r></p></e>
 <e>       <p><l>boʻlishli<s n="adj"/></l>              <r>bolıwlı<s n="adj"/></r></p></e>
 <e>       <p><l>boʻlsada<s n="adv"/></l>               <r>bolsadalıq<s n="adv"/></r></p></e>
 <e>       <p><l>boʻluvchi<s n="n"/></l>                <r>bóliwshi<s n="n"/></r></p></e>
@@ -19548,11 +19544,13 @@
 <e>       <p><l>hovli<s n="n"/></l>                     <r>dala<s n="n"/></r></p></e>
 <e>       <p><l>stul<s n="n"/></l>                     <r>orındıq<s n="n"/></r></p></e>
 <e>       <p><l>ort<s n="n"/></l>                     <r>art<s n="n"/></r></p></e>
+<e>       <p><l>old<s n="n"/></l>                     <r>ald<s n="n"/></r></p></e>
 <e>       <p><l>doim<s n="adv"/></l>                     <r>bárqulla<s n="adv"/></r></p></e>
 <e>       <p><l>yoq<s n="ij"/></l>                     <r>yaq<s n="ij"/></r></p></e>
 <e>       <p><l>kamroq<s n="adj"/></l>                   <r>azıraq<s n="adj"/></r></p></e>
 <e>       <p><l>yaqin<s n="adj"/></l>                   <r>jaqın<s n="adj"/></r></p></e>
 <e>       <p><l>biron<s n="det"/><s n="dem"/></l>                   <r>qandayda<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>har<s n="det"/><s n="qnt"/></l>                   <r>hár<s n="det"/><s n="qnt"/></r></p></e>
 
   </section>
 </dictionary>
