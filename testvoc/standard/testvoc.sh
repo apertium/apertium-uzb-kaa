@@ -23,7 +23,7 @@ make
 cd testvoc/standard/
 
 function expand_monodix {
-    hfst-fst2strings $MONODIX | sort -u | cut -d':' -f2 | \
+    hfst-fst2strings -c1 $MONODIX | sort -u | cut -d':' -f2 | \
     sed 's/^/^/g' | sed 's/$/$ ^.<sent>$/g'
 }
 
