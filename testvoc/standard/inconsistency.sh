@@ -23,7 +23,7 @@ if [[ $DIR = "uzb-kaa" ]]; then
 
     PRETRANSFER="apertium-pretransfer"
     LEXTRANSFER="lt-proc -b ../../uzb-kaa.autobil.bin"
-    LEXSELECTION="lrx-proc -m ../../uzb-kaa.lrx.bin"
+    LEXSELECTION="lrx-proc -m ../../uzb-kaa.autolex.bin"
     TRANSFER="rtx-proc ../../uzb-kaa.rtx.bin"
     #TRANSFER_1="apertium-transfer -b ../../apertium-uzb-kaa.uzb-kaa.t1x ../../uzb-kaa.rtx.bin"
     #TRANSFER_2="apertium-transfer -n ../../apertium-uzb-kaa.uzb-kaa.t2x ../../uzb-kaa.rlx.bin"
