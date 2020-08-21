@@ -38,7 +38,7 @@
     </pipeline>
   </mode>
 
-  <mode name="uzb-kaa-disam-debug" install="yes" gendebug="no">
+  <mode name="uzb-kaa-disam-debug" install="no" gendebug="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name="uzb-kaa.automorf.bin"/>
@@ -50,7 +50,7 @@
     </pipeline>
   </mode>
 
-  <mode name="uzb-kaa-tagger" install="yes">
+  <mode name="uzb-kaa-tagger" install="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name="uzb-kaa.automorf.bin"/>
@@ -60,7 +60,7 @@
       </program>
     </pipeline>
   </mode>
-  
+
 
 
   <!-- kaa → uzb -->
