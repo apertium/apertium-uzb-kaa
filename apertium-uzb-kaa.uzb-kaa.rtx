@@ -274,8 +274,8 @@ vP ->
 		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
 
 VP ->
-		NP %э@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
-		AP %э@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		NP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		AP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
 		NP %vP ?(1.case = acc) { 1 _1 2 } |
 		NP %vP ?(1.case = dat) { 1[case=(if (2.lemh in verbs_acc) acc else 1.case)] _1 2 } |
 		PPorAdvP %vP { (
