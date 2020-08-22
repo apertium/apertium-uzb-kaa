@@ -95,6 +95,7 @@ cop_ger: <cop>.ger.n_number.possession.formality.case ;
 
 qst: _ ;
 emph: _ ;
+mod: _ ;
 
 VP: _.transitivity.voice_a.voice_b.voice_c.fin_nonfin.polarity.v_person.formality.v_number ;
 
@@ -238,6 +239,7 @@ AdvP ->
 		%adv { 1 } |
 		%AdvP qst { 1 + 2 } |
 		%AdvP emph { 1 + 2 } |
+		%AdvP mod { 1 + 2 } |
 		%AdvP cnjcoo { 1 + 2 } |
 		%AdvP postadv { 1 + 2 }
 		;
@@ -268,6 +270,7 @@ aP ->
 		adv %adj { 1 _1 2 } |
 		%aP qst { 1 + 2 } |
 		%aP emph { 1 + 2 } |
+		%aP mod { 1 + 2 } |
 		%aP cnjcoo { 1 + 2 } |
 		%aP postadv { 1 + 2 } ;
 
@@ -288,6 +291,7 @@ vP ->
 		vP %vP ?((1.fin_nonfin in inf) and (2.v_type=vaux)) [$lemh=1.lemh,$fin_nonfin=2.fin_nonfin] { 1 _1 2 } |
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP mod [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP cnjcoo [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 + 2 }
 		!PPorAdvP %vP { 1 _1 2 }
