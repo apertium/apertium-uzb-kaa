@@ -76,9 +76,7 @@
     <sdef n="frm" 	c=""/> 
     <sdef n="qst" 	c="Question modal (clitic)"/> 
     <sdef n="emph" 	c="Emphasising modal"/> 
-    <sdef n="mod_ass" 	c="Assertive modal (clitic)"/> 
-    <sdef n="mod_ind" 	c="Indefinite modal (clitic)"/> 
-    <sdef n="mod" 	c="Modal verbs"/> 
+    <sdef n="mod" 	c="Other modal 'particles'"/> 
     <sdef n="sent" 	c=""/> 
     <sdef n="guio" 	c=""/> 
     <sdef n="cm" 	c=""/> 
@@ -533,6 +531,7 @@
 <e>       <p><l>geograf<s n="n"/></l>                  <r>geograf<s n="n"/></r></p></e>
 <e>       <p><l>geolog<s n="n"/></l>                   <r>geolog<s n="n"/></r></p></e>
 <e>       <p><l>gips<s n="n"/></l>                     <r>gips<s n="n"/></r></p></e>
+<e>       <p><l>go<s n="mod"/></l>                     <r>ǵo<s n="mod"/></r></p></e>
 <e>       <p><l>gorizontal<s n="adj"/></l>             <r>gorizontal<s n="adj"/></r></p></e>
 <e>       <p><l>gormon<s n="n"/></l>                   <r>gormon<s n="n"/></r></p></e>
 <e>       <p><l>granit<s n="n"/></l>                   <r>granit<s n="n"/></r></p></e>
@@ -3955,6 +3954,7 @@
 <e>       <p><l>galstuk<s n="n"/></l>                  <r>galstuk<s n="n"/></r></p></e>
 <e>       <p><l>galvars<s n="n"/></l>                  <r>ańqaw<s n="n"/></r></p></e>
 <e>       <p><l>gamma<s n="n"/></l>                    <r>gamma<s n="n"/></r></p></e>
+<e>       <p><l>gana<s n="postadv"/></l>               <r>ǵana<s n="postadv"/></r></p></e>
 <e>       <p><l>ganch<s n="n"/></l>                    <r>hájje<s n="n"/></r></p></e>
 <e>       <p><l>ganchkor<s n="n"/></l>                 <r>ganch ustası<s n="n"/></r></p></e>
 <e>       <p><l>ganchkorlik<s n="n"/></l>              <r>ganch ustasılıq<s n="n"/></r></p></e>
