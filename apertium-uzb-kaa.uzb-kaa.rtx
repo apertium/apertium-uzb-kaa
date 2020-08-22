@@ -46,13 +46,15 @@ post_acc = карай ;
 post_dat = карата ;
 
 advl = advl ;
+subst = subst ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
 
-adj: _.advl.comp ;
+adj_attr: _.advl.comp ;
+adj_subst: _.subst.n_number.possession.case ;
 AP: _ ;
 aP: _ ;
 
@@ -207,6 +209,11 @@ cop: (if (1.fin_nonfin in tense)
 			1(cop_ger)
 		);
 
+adj: (if (1.subst in subst)
+			1(adj_subst)
+		else
+			1(adj_attr)
+		);
 
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
@@ -246,7 +253,8 @@ NP -> ! n.$number adj { 2[gender=1.gender, number=1.number] _1 1 } ;
 nP ->
 		%n { %1 } |
 		n %n ?((1.possession = "") and (2.possession = px3sp)) { 1 _1 2 } |
-		%np { %1 } ;
+		%np { %1 } |
+		2: %adj.subst { %1 } ;
 
 aP ->
 		%adj { 1 } |
@@ -271,19 +279,14 @@ vP ->
 		%cop [$fin_nonfin=1.fin_nonfin] { 1[formality=(if (1.v_person=p3) "" else 1.formality)] } |
 		vP %vP ?((1.fin_nonfin in inf) and (2.v_type=vaux)) [$lemh=1.lemh,$fin_nonfin=2.fin_nonfin] { 1 _1 2 } |
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
-		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
+		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 _1 2 } ;
 
 VP ->
 		NP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
 		AP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
 		NP %vP ?(1.case = acc) { 1 _1 2 } |
 		NP %vP ?(1.case = dat) { 1[case=(if (2.lemh in verbs_acc) acc else 1.case)] _1 2 } |
-		PPorAdvP %vP { (
-				if ((1.lemh="али") and (2.polarity=neg))
-					[ %2[fin_nonfin=unac,polarity=_] ]
-				else
-					[ 1 _1 %2 ]
-			) } |
 		PPorAdvP NP %vP { 1 _1 2 _2 3 } !|
 		!1: AP %vP ?(2.v_type=cop) { 1 _1 2 } |
 		!2: AP %vP ?(2.v_type=cop & 2.tense=aor) { 1 + 2 } ;
