@@ -236,7 +236,10 @@ PP ->
 AdvP ->
 		%adj ?(1.advl=advl) { 1 } |
 		%adv { 1 } |
-		%AdvP postadv { 1 _1 2 }
+		%AdvP qst { 1 + 2 } |
+		%AdvP emph { 1 + 2 } |
+		%AdvP cnjcoo { 1 + 2 } |
+		%AdvP postadv { 1 + 2 }
 		;
 
 PPorAdvP ->
@@ -286,17 +289,21 @@ vP ->
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP cnjcoo [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
-		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
+		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 + 2 }
+		!PPorAdvP %vP { 1 _1 2 }
+	;
 
 VP ->
 		NP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
 		AP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		PPorAdvP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
 		NP %vP ?(1.case = acc) { 1 _1 2 } |
 		NP %vP ?(1.case = dat) { 1[case=(if (2.lemh in verbs_acc) acc else 1.case)] _1 2 } |
-		PPorAdvP NP %vP { 1 _1 2 _2 3 } !|
+		!PPorAdvP NP %vP { 1 _1 2 _2 3 } !|
 		!1: AP %vP ?(2.v_type=cop) { 1 _1 2 } |
 		!2: AP %vP ?(2.v_type=cop & 2.tense=aor) { 1 + 2 } ;
-		;
+		PPorAdvP %VP { 1 _1 2 }
+	;
 
 S ->
 		NP VP { 1 _1 2 } ;
