@@ -60,6 +60,7 @@ aP: _ ;
 
 adv: _ ;
 postadv: _ ;
+cnjcoo: _ ;
 
 post: _ ;
 
@@ -254,14 +255,18 @@ nP ->
 		%n { %1 } |
 		n %n ?((1.possession = "") and (2.possession = px3sp)) { 1 _1 2 } |
 		%np { %1 } |
-		2: %adj.subst { %1 } ;
+		2: %adj.subst { %1 } |
+		%nP cnjcoo { 1 + 2 } |
+		%nP postadv { 1 + 2 }
+		;
 
 aP ->
 		%adj { 1 } |
 		adv %adj { 1 _1 2 } |
 		%aP qst { 1 + 2 } |
 		%aP emph { 1 + 2 } |
-		%aP postadv { 1 _1 2 } ;
+		%aP cnjcoo { 1 + 2 } |
+		%aP postadv { 1 + 2 } ;
 
 AP ->
 		%aP { 1 } ;
@@ -280,7 +285,8 @@ vP ->
 		vP %vP ?((1.fin_nonfin in inf) and (2.v_type=vaux)) [$lemh=1.lemh,$fin_nonfin=2.fin_nonfin] { 1 _1 2 } |
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
-		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 _1 2 } ;
+		%vP cnjcoo [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
 
 VP ->
 		NP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
