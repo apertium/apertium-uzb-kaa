@@ -268,7 +268,7 @@ vP ->
 		5: %v ?(1.vadj/sl=gpr_fut_plan) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=prc_fplan] } |
 		6: %v ?(1.vadv/sl=gna_neg) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=ger_fut, possession=px3sp, case=abl]} |
 
-		%cop [$fin_nonfin=1.fin_nonfin] { 1 } |
+		%cop [$fin_nonfin=1.fin_nonfin] { 1[formality=(if (1.v_person=p3) "" else 1.formality)] } |
 		vP %vP ?((1.fin_nonfin in inf) and (2.v_type=vaux)) [$lemh=1.lemh,$fin_nonfin=2.fin_nonfin] { 1 _1 2 } |
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
