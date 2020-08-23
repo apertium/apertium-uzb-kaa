@@ -1,0 +1,30 @@
+PROBLEM STATEMENT
+=================
+
+A problem with testvoc is that it takes long time to run.
+
+We can come up with a simpler and faster testvoc which is a close approximation
+of the full testvoc if we make following simplifying assumptions:
+   * monodixes are trimmed;
+   * there aren't any transfer rules which work selectively on lemmas;
+   * SL words of particular POS correspond to words of one particular POS in TL.
+
+The first assumption holds true, the second and the third are not always the
+case, and we will make corresponding tweaks to our 'simple testvoc' process
+later.
+
+If we assume three things above, then testvocing one word per each paradigm
+definition becomes a reasonable substition for the full testvoc.
+
+DESCRIPTION OF THE PROCESS
+==========================
+
+Note that in context of a lexc file, paradigm definition is a lexicon which is
+a direct continuation of stems. For each such lexicon, there is compressed text file
+in apertium-uzb/tests/morphotactics, which contains the full paradigm of a word
+linked to that lexicon. The name of a file indicates which lexicon it represents,
+e.g. A1.txt.gz.
+
+The job of the testvoc.sh script in this directory is to extract lexical forms
+from that text files, and run them through the translator pipeline, as the usual
+testvoc script would.

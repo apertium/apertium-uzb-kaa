@@ -13,10 +13,10 @@ np_type = ant cog top org ;
 
 v_type = iv tv vaux cop ;
 
-tense = pres past fut ifi fut aor imp unac prog ;
-vadj = gpr_past gpr_impf gpr_fut gpr_hab gpr_pot gpr_ppot gpr_unac ;
-vadv = gna_perf gna_impf gna_cond ;
-ger = ger ger_past ger_fut ger ger_unac ger_abst ;
+tense = pres past fut ifi fut aor imp unac prog opt perm fut2 prog_inf prog_fut fut_plan;
+vadj = gpr_past gpr_impf gpr_fut gpr_hab gpr_pot gpr_ppot gpr_unac gpr_rsub gpr_pres gpr_fut_plan;
+vadv = gna_perf gna_impf gna_cond gna_when gna_neg;
+ger = ger ger_past ger_fut ger ger_unac ger_abst ger_pres ger_impf ger_inf;
 inf = prc_perf prc_impf prc_vol prc_cond prc_fplan prc_plan ;
 nonfin = [vadj] [vadv] [ger] [inf] ;
 fin_nonfin = [tense] [vadj] [vadv] [ger] [inf] ;
@@ -46,18 +46,21 @@ post_acc = карай ;
 post_dat = карата ;
 
 advl = advl ;
+subst = subst ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
 
-adj: _.advl.comp ;
+adj_attr: _.advl.comp ;
+adj_subst: _.subst.n_number.possession.case ;
 AP: _ ;
 aP: _ ;
 
 adv: _ ;
 postadv: _ ;
+cnjcoo: _ ;
 
 post: _ ;
 
@@ -92,6 +95,7 @@ cop_ger: <cop>.ger.n_number.possession.formality.case ;
 
 qst: _ ;
 emph: _ ;
+mod: _ ;
 
 VP: _.transitivity.voice_a.voice_b.voice_c.fin_nonfin.polarity.v_person.formality.v_number ;
 
@@ -120,8 +124,7 @@ S: _ ;
 !!!!!!!!!!!!!!!
 
 tense > tense : pres aor ;  ! ifi past, pri pres, fti fut;
-fin_nonfin > fin_nonfin : pres aor,
-	gna_impf gna_perf, ger_impf ger_past, ger_abst ger; ! these two might not be necessary?  copied from t1x
+fin_nonfin > fin_nonfin : pres aor, fut2 ifi, prog_inf prog, gna_impf gna_perf, ger_impf ger_past, ger_abst ger_impf, gpr_rsub gpr_past; ! these two might not be necessary?  copied from t1x
 
 !!!!!!!!!!!!!!!
 !! MACROS
@@ -208,6 +211,11 @@ cop: (if (1.fin_nonfin in tense)
 			1(cop_ger)
 		);
 
+adj: (if (1.subst in subst)
+			1(adj_subst)
+		else
+			1(adj_attr)
+		);
 
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
@@ -229,7 +237,11 @@ PP ->
 AdvP ->
 		%adj ?(1.advl=advl) { 1 } |
 		%adv { 1 } |
-		%AdvP postadv { 1 _1 2 }
+		%AdvP qst { 1 + 2 } |
+		%AdvP emph { 1 + 2 } |
+		%AdvP mod { 1 + 2 } |
+		%AdvP cnjcoo { 1 + 2 } |
+		%AdvP postadv { 1 + 2 }
 		;
 
 PPorAdvP ->
@@ -247,14 +259,20 @@ NP -> ! n.$number adj { 2[gender=1.gender, number=1.number] _1 1 } ;
 nP ->
 		%n { %1 } |
 		n %n ?((1.possession = "") and (2.possession = px3sp)) { 1 _1 2 } |
-		%np { %1 } ;
+		%np { %1 } |
+		2: %adj.subst { %1 } |
+		%nP cnjcoo { 1 + 2 } |
+		%nP postadv { 1 + 2 }
+		;
 
 aP ->
 		%adj { 1 } |
 		adv %adj { 1 _1 2 } |
 		%aP qst { 1 + 2 } |
 		%aP emph { 1 + 2 } |
-		%aP postadv { 1 _1 2 } ;
+		%aP mod { 1 + 2 } |
+		%aP cnjcoo { 1 + 2 } |
+		%aP postadv { 1 + 2 } ;
 
 AP ->
 		%aP { 1 } ;
@@ -263,27 +281,33 @@ vP ->
 		! all [$fin_nonfin=1.fin_nonfin] can be removed when apertium-recursive supports % checking for macros
 		%vaux [$fin_nonfin=1.fin_nonfin] { 1 } |
 		1: %v [$fin_nonfin=1.fin_nonfin] { %1[fin_nonfin=$fin_nonfin,polarity=$polarity] } |
-		2: %v ?(1.vadj/sl=gpr_impf) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=prc_impf] _ тур@vaux.gpr_past } |
-		%cop [$fin_nonfin=1.fin_nonfin] { 1 } |
+		2: %v ?(1.ger/sl=ger_pres) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=prc_perf] _ %jat(vaux)[fin_nonfin=ger_past,possession=1.possession,case=1.case,n_number=1.n_number,formality=1.formality,polarity=1.polarity]} |
+		3: %v ?(1.vadv/sl=gna_when) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=ger_past, case=abl] _ %keyin(post)} |
+		4: %v ?(1.vadj/sl=gpr_pres) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=prc_impf] _ %jat(vaux)[fin_nonfin=gpr_past,possession=1.possession,case=1.case,n_number=1.n_number,formality=1.formality,polarity=1.polarity]} |
+		5: %v ?(1.vadj/sl=gpr_fut_plan) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=prc_fplan] } |
+		6: %v ?(1.vadv/sl=gna_neg) [$fin_nonfin=1.fin_nonfin] { 1[fin_nonfin=ger_fut, possession=px3sp, case=abl]} |
+
+		%cop [$fin_nonfin=1.fin_nonfin] { 1[formality=(if (1.v_person=p3) "" else 1.formality)] } |
 		vP %vP ?((1.fin_nonfin in inf) and (2.v_type=vaux)) [$lemh=1.lemh,$fin_nonfin=2.fin_nonfin] { 1 _1 2 } |
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
-		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } ;
+		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP mod [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP cnjcoo [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 + 2 }
+		!PPorAdvP %vP { 1 _1 2 }
+	;
 
 VP ->
-		NP %э@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
-		AP %э@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		NP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		AP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
+		PPorAdvP %e@vP (if (2.tense = ifi) { 1 _1 2 } else { 1 + 2 } ) |
 		NP %vP ?(1.case = acc) { 1 _1 2 } |
 		NP %vP ?(1.case = dat) { 1[case=(if (2.lemh in verbs_acc) acc else 1.case)] _1 2 } |
-		PPorAdvP %vP { (
-				if ((1.lemh="али") and (2.polarity=neg))
-					[ %2[fin_nonfin=unac,polarity=_] ]
-				else
-					[ 1 _1 %2 ]
-			) } |
-		PPorAdvP NP %vP { 1 _1 2 _2 3 } !|
+		!PPorAdvP NP %vP { 1 _1 2 _2 3 } !|
 		!1: AP %vP ?(2.v_type=cop) { 1 _1 2 } |
 		!2: AP %vP ?(2.v_type=cop & 2.tense=aor) { 1 + 2 } ;
-		;
+		PPorAdvP %VP { 1 _1 2 }
+	;
 
 S ->
 		NP VP { 1 _1 2 } ;
