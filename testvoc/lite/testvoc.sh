@@ -30,7 +30,7 @@ function extract_lexical_units {
 # Uzbek->Karakalpak testvoc
 #-------------------------------------------------------------------------------
 
-PARDEF_FILES=../../../../languages/apertium-uzb/tests/morphotactics/*.txt.gz
+PARDEF_FILES=../../../apertium-uzb/tests/morphotactics/*.txt.gz
 
 echo "==Uzbek->Karakalpak==========================="
 
