@@ -9017,7 +9017,7 @@
 <e>       <p><l>Abbeville<s n="np"/><s n="top"/></l>   <r>Abbeville<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abbos<s n="np"/><s n="ant"/><s n="m"/></l><r>Abbos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abdulla<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulla<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>Abdullayev<s n="np"/><s n="cog"/><s n="mf"/></l><r>Abdullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdullayev<s n="np"/><s n="cog"/></l><r>Abdullayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abdüllah<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdüllah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abruzzo<s n="np"/><s n="top"/></l>     <r>Abruzzo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abu<s n="np"/><s n="ant"/><s n="m"/></l><r>Abu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -10199,7 +10199,7 @@
 <e>       <p><l>Xorazm<s n="np"/><s n="top"/></l>      <r>Xarezm<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Xorazmiy<s n="np"/><s n="top"/></l>    <r>Xarezmiy<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Xorvat<s n="n"/><s n="nat"/></l>       <r>Xarvat<s n="n"/><s n="nat"/></r></p></e>
-<e>       <p><l>Xoʻjayev<s n="np"/><s n="cog"/><s n="mf"/></l><r>Xoʻjayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Xoʻjayev<s n="np"/><s n="cog"/></l><r>Xoʻjayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Xristian<s n="n"/></l>                 <r>Xristian<s n="n"/></r></p></e>
 <e>       <p><l>Xuroson<s n="np"/><s n="top"/></l>     <r>Xuroson<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>YtD<s n="np"/><s n="org"/></l>         <r>YtD<s n="np"/><s n="org"/></r></p></e>
@@ -20470,7 +20470,7 @@
 <e>       <p><l>Toʻxtamish<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Toqtamıs<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Uzeyir<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Uzeyir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Yunus<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Yunus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>Oruzbayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Oruzbayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Oruzbayeva<s n="np"/><s n="cog"/></l>    <r>Oruzbayeva<s n="np"/><s n="cog"/></r></p></e>
 
 <e>       <p><l>Aleksandra<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Aleksandra<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Alis<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Alis<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -20621,26 +20621,26 @@
 <e>       <p><l>Aartsen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aartsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Abazovich<s n="np"/><s n="pat"/></l>    <r>Abazovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Abbos<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abbos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abdulayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abdulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abdulganiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdulganiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abdulgʻaniyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdulǵaniyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abdulganiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdulganiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abdulgʻaniyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdulǵaniyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulayev<s n="np"/><s n="cog"/></l>    <r>Abdulayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abdulayeva<s n="np"/><s n="cog"/></l>    <r>Abdulayeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abdulganiyev<s n="np"/><s n="cog"/></l>    <r>Abdulganiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abdulgʻaniyev<s n="np"/><s n="cog"/></l>    <r>Abdulǵaniyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abdulganiyeva<s n="np"/><s n="cog"/></l>    <r>Abdulganiyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abdulgʻaniyeva<s n="np"/><s n="cog"/></l>    <r>Abdulǵaniyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abdurahmanov<s n="np"/><s n="cog"/></l>    <r>Abdurahmanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abdurahmanova<s n="np"/><s n="cog"/></l>    <r>Abdurahmanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abduraimov<s n="np"/><s n="cog"/></l>    <r>Abduraimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abduraimova<s n="np"/><s n="cog"/></l>    <r>Abduraimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abe<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abe<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abibullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abibullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abibullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abibullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abibullayev<s n="np"/><s n="cog"/></l>    <r>Abibullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abibullayeva<s n="np"/><s n="cog"/></l>    <r>Abibullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abilov<s n="np"/><s n="cog"/></l>    <r>Abilov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abilova<s n="np"/><s n="cog"/></l>    <r>Abilova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abisov<s n="np"/><s n="cog"/></l>    <r>Abisov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abisova<s n="np"/><s n="cog"/></l>    <r>Abisova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abisovich<s n="np"/><s n="pat"/></l>    <r>Abisovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Abiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Abiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abiyev<s n="np"/><s n="cog"/></l>    <r>Abiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Abiyeva<s n="np"/><s n="cog"/></l>    <r>Abiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abizov<s n="np"/><s n="cog"/></l>    <r>Abizov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abizova<s n="np"/><s n="cog"/></l>    <r>Abizova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abkadirov<s n="np"/><s n="cog"/></l>    <r>Abkadirov<s n="np"/><s n="cog"/></r></p></e>
@@ -20651,7 +20651,7 @@
 <e>       <p><l>Ablamitova<s n="np"/><s n="cog"/></l>    <r>Ablamitova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ablatipov<s n="np"/><s n="cog"/></l>    <r>Ablatipov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ablatipova<s n="np"/><s n="cog"/></l>    <r>Ablatipova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Ablayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ablayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablayev<s n="np"/><s n="cog"/></l>    <r>Ablayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ablazov<s n="np"/><s n="cog"/></l>    <r>Ablazov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ablazova<s n="np"/><s n="cog"/></l>    <r>Ablazova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ablet<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ablet<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -20675,19 +20675,19 @@
 <e>       <p><l>Adilova<s n="np"/><s n="cog"/></l>    <r>Adilova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Adlesich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Adlesich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Adzich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Adzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Afanasyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Afanasyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Afanasyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Afanasyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Afanasyev<s n="np"/><s n="cog"/></l>    <r>Afanasyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Afanasyeva<s n="np"/><s n="cog"/></l>    <r>Afanasyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Agapov<s n="np"/><s n="cog"/></l>    <r>Agapov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Agapova<s n="np"/><s n="cog"/></l>    <r>Agapova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Ageyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ageyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ageyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ageyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ageyev<s n="np"/><s n="cog"/></l>    <r>Ageyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ageyeva<s n="np"/><s n="cog"/></l>    <r>Ageyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Aggelopolos<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aggelopolos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Agotich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Agotich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ahmetagich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ahmetagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ahmetgaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ahmetgaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ahmetgaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ahmetgaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ahmetshayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ahmetshayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ahmetshayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ahmetshayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahmetgaliyev<s n="np"/><s n="cog"/></l>    <r>Ahmetgaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ahmetgaliyeva<s n="np"/><s n="cog"/></l>    <r>Ahmetgaliyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ahmetshayev<s n="np"/><s n="cog"/></l>    <r>Ahmetshayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ahmetshayeva<s n="np"/><s n="cog"/></l>    <r>Ahmetshayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ahtemov<s n="np"/><s n="cog"/></l>    <r>Ahtemov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ahtemova<s n="np"/><s n="cog"/></l>    <r>Ahtemova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ahtisaari<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ahtisaari<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -20695,12 +20695,12 @@
 <e>       <p><l>Ajanovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ajanovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ajdukovich<s n="np"/><s n="pat"/></l>    <r>Ajdukovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Akar<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Akar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Akayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Akayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Akayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Akayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akayev<s n="np"/><s n="cog"/></l>    <r>Akayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Akayeva<s n="np"/><s n="cog"/></l>    <r>Akayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Akimovich<s n="np"/><s n="pat"/></l>    <r>Akimovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Akiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Akiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Akiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Akiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Akmataliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Akmataliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akiyev<s n="np"/><s n="cog"/></l>    <r>Akiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Akiyeva<s n="np"/><s n="cog"/></l>    <r>Akiyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Akmataliyev<s n="np"/><s n="cog"/></l>    <r>Akmataliyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Akoʻnov<s n="np"/><s n="cog"/></l>    <r>Akónov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Akoʻnova<s n="np"/><s n="cog"/></l>    <r>Akónova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Aksakov<s n="np"/><s n="cog"/></l>    <r>Aksakov<s n="np"/><s n="cog"/></r></p></e>
@@ -20728,7 +20728,7 @@
 <e>       <p><l>Aligrudich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aligrudich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Alimpich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Alimpich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Alispahich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Alispahich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Aliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aliyev<s n="np"/><s n="cog"/></l>    <r>Aliyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Allahyar<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Allahyar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Alminskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Alminskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Alminski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Alminski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -20773,15 +20773,15 @@
 <e>       <p><l>Antsiferov<s n="np"/><s n="cog"/></l>    <r>Antsiferov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Antsiferova<s n="np"/><s n="cog"/></l>    <r>Antsiferova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Antunovich<s n="np"/><s n="pat"/></l>    <r>Antunovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Anufriyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Anufriyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Anufriyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Anufriyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anufriyev<s n="np"/><s n="cog"/></l>    <r>Anufriyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Anufriyeva<s n="np"/><s n="cog"/></l>    <r>Anufriyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Anusich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Anusich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Apanasenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Apanasenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Apkerimov<s n="np"/><s n="cog"/></l>    <r>Apkerimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Apkerimova<s n="np"/><s n="cog"/></l>    <r>Apkerimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Apselamov<s n="np"/><s n="cog"/></l>    <r>Apselamov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Apselamova<s n="np"/><s n="cog"/></l>    <r>Apselamova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Arabaev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Arabaev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arabaev<s n="np"/><s n="cog"/></l>    <r>Arabaev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Arambasich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Arambasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Arapovich<s n="np"/><s n="pat"/></l>    <r>Arapovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Arbuzov<s n="np"/><s n="cog"/></l>    <r>Arbuzov<s n="np"/><s n="cog"/></r></p></e>
@@ -20811,11 +20811,11 @@
 <e>       <p><l>Artmambetov<s n="np"/><s n="cog"/></l>    <r>Artmambetov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Artmambetova<s n="np"/><s n="cog"/></l>    <r>Artmambetova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Artopolesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Artopolesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Aryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Aryeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aryeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aryev<s n="np"/><s n="cog"/></l>    <r>Aryev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Aryeva<s n="np"/><s n="cog"/></l>    <r>Aryeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Asad<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Asad<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Aseyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aseyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Aseyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aseyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aseyev<s n="np"/><s n="cog"/></l>    <r>Aseyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Aseyeva<s n="np"/><s n="cog"/></l>    <r>Aseyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ashdovn<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ashdovn<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ashimov<s n="np"/><s n="cog"/></l>    <r>Ashimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ashimova<s n="np"/><s n="cog"/></l>    <r>Ashimova<s n="np"/><s n="cog"/></r></p></e>
@@ -20825,14 +20825,14 @@
 <e>       <p><l>Ashumov<s n="np"/><s n="cog"/></l>    <r>Ashumov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ashumova<s n="np"/><s n="cog"/></l>    <r>Ashumova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Assen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Assen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Astafyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Astafyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Astafyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Astafyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Astafyev<s n="np"/><s n="cog"/></l>    <r>Astafyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Astafyeva<s n="np"/><s n="cog"/></l>    <r>Astafyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Astahov<s n="np"/><s n="cog"/></l>    <r>Astahov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Astahova<s n="np"/><s n="cog"/></l>    <r>Astahova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Atanackovich<s n="np"/><s n="pat"/></l>    <r>Atanackovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Atanasiyevich<s n="np"/><s n="pat"/></l>    <r>Atanasiyevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Atoyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Atoyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Atoyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Atoyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atoyev<s n="np"/><s n="cog"/></l>    <r>Atoyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Atoyeva<s n="np"/><s n="cog"/></l>    <r>Atoyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Atroshenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Atroshenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Auresku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Auresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Avakov<s n="np"/><s n="cog"/></l>    <r>Avakov<s n="np"/><s n="cog"/></r></p></e>
@@ -20844,8 +20844,8 @@
 <e>       <p><l>Avramenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Avramenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Avramovich<s n="np"/><s n="pat"/></l>    <r>Avramovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Avramovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Avramovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Avtayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Avtayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Avtayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Avtayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avtayev<s n="np"/><s n="cog"/></l>    <r>Avtayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Avtayeva<s n="np"/><s n="cog"/></l>    <r>Avtayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ayanovich<s n="np"/><s n="pat"/></l>    <r>Ayanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Aydin<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aydin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Aynachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Aynachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -20866,20 +20866,20 @@
 <e>       <p><l>Babich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Babich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Badaninskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bedeninskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Badaninski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bedeninski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Badayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Badayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Badayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Badayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Badayev<s n="np"/><s n="cog"/></l>    <r>Badayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Badayeva<s n="np"/><s n="cog"/></l>    <r>Badayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Badesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Badesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Bagarich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bagarich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bagayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bagayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bagayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bagayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Bagayev<s n="np"/><s n="cog"/></l>    <r>Bagayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bagayeva<s n="np"/><s n="cog"/></l>    <r>Bagayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bagich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bagrayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bagrayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bagrayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bagrayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Bagrayev<s n="np"/><s n="cog"/></l>    <r>Bagrayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bagrayeva<s n="np"/><s n="cog"/></l>    <r>Bagrayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bagrov<s n="np"/><s n="cog"/></l>    <r>Bagrov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bagrova<s n="np"/><s n="cog"/></l>    <r>Bagrova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bahar<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bahar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Baharev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Baharev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bahareva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bahareva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Baharev<s n="np"/><s n="cog"/></l>    <r>Baharev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bahareva<s n="np"/><s n="cog"/></l>    <r>Bahareva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bahchisarayskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bahchisarayskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Bahchisarayski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bahchisarayski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Bahich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bahich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -20909,8 +20909,8 @@
 <e>       <p><l>Barchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Barchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Barich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Barich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Barisich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Barisich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bariyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bariyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bariyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bariyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Bariyev<s n="np"/><s n="cog"/></l>    <r>Bariyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bariyeva<s n="np"/><s n="cog"/></l>    <r>Bariyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Barotov<s n="np"/><s n="cog"/></l>    <r>Barotov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Barotova<s n="np"/><s n="cog"/></l>    <r>Barotova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Barovich<s n="np"/><s n="pat"/></l>    <r>Barovich<s n="np"/><s n="pat"/></r></p></e>
@@ -20918,8 +20918,8 @@
 <e>       <p><l>Bartenstein<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bartenstein<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Barvinenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Barvinenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Basalich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Basalich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Basayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Basayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Basayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Basayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Basayev<s n="np"/><s n="cog"/></l>    <r>Basayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Basayeva<s n="np"/><s n="cog"/></l>    <r>Basayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Basesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Basesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Basevich<s n="np"/><s n="pat"/></l>    <r>Basevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Bashkirov<s n="np"/><s n="cog"/></l>    <r>Bashkirov<s n="np"/><s n="cog"/></r></p></e>
@@ -20962,8 +20962,8 @@
 <e>       <p><l>Bektashevich<s n="np"/><s n="pat"/></l>    <r>Bektashevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Belalov<s n="np"/><s n="cog"/></l>    <r>Belalov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Belalova<s n="np"/><s n="cog"/></l>    <r>Belalova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Belaventsev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Belaventsev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Belaventseva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Belaventseva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Belaventsev<s n="np"/><s n="cog"/></l>    <r>Belaventsev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Belaventseva<s n="np"/><s n="cog"/></l>    <r>Belaventseva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Belich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Belich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Belkich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Belkich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Belousov<s n="np"/><s n="cog"/></l>    <r>Belousov<s n="np"/><s n="cog"/></r></p></e>
@@ -20972,8 +20972,8 @@
 <e>       <p><l>Belova<s n="np"/><s n="cog"/></l>    <r>Belova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>beni<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>beni<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Berbich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Berbich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Berdiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Berdiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Berdiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Berdiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Berdiyev<s n="np"/><s n="cog"/></l>    <r>Berdiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Berdiyeva<s n="np"/><s n="cog"/></l>    <r>Berdiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Berezenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Berezenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Berezovets<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Berezovets<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Berisavlyevich<s n="np"/><s n="pat"/></l>    <r>Berisavlyevich<s n="np"/><s n="pat"/></r></p></e>
@@ -20986,13 +20986,13 @@
 <e>       <p><l>Bespalova<s n="np"/><s n="cog"/></l>    <r>Bespalova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Beyheki<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beyheki<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Beytich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beytich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Beytulayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beytulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Beytulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beytulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Beytullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beytullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Beytullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beytullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Beytulayev<s n="np"/><s n="cog"/></l>    <r>Beytulayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Beytulayeva<s n="np"/><s n="cog"/></l>    <r>Beytulayeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Beytullayev<s n="np"/><s n="cog"/></l>    <r>Beytullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Beytullayeva<s n="np"/><s n="cog"/></l>    <r>Beytullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bezarevich<s n="np"/><s n="pat"/></l>    <r>Bezarevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Bezaziyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bezaziyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bezaziyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bezaziyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Bezaziyev<s n="np"/><s n="cog"/></l>    <r>Bezaziyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bezaziyeva<s n="np"/><s n="cog"/></l>    <r>Bezaziyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Beznishchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Beznishchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Bezsalov<s n="np"/><s n="cog"/></l>    <r>Bezsalov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bezsalova<s n="np"/><s n="cog"/></l>    <r>Bezsalova<s n="np"/><s n="cog"/></r></p></e>
@@ -21124,8 +21124,8 @@
 <e>       <p><l>Bulatov<s n="np"/><s n="cog"/></l>    <r>Bulatov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bulatova<s n="np"/><s n="cog"/></l>    <r>Bulatova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bulatovich<s n="np"/><s n="pat"/></l>    <r>Bulatovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Bulayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Bulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Bulayev<s n="np"/><s n="cog"/></l>    <r>Bulayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Bulayeva<s n="np"/><s n="cog"/></l>    <r>Bulayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bulent<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Bulent<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Bulgakov<s n="np"/><s n="cog"/></l>    <r>Bulgakov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Bulgakova<s n="np"/><s n="cog"/></l>    <r>Bulgakova<s n="np"/><s n="cog"/></r></p></e>
@@ -21169,8 +21169,8 @@
 <e>       <p><l>Chakovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chakovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chalenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chalenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chalinesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chalinesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Chapayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chapayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Chapayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chapayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Chapayev<s n="np"/><s n="cog"/></l>    <r>Chapayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Chapayeva<s n="np"/><s n="cog"/></l>    <r>Chapayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Charuhov<s n="np"/><s n="cog"/></l>    <r>Charuhov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Charuhova<s n="np"/><s n="cog"/></l>    <r>Charuhova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chavich<s n="np"/><s n="pat"/></l>    <r>Chavich<s n="np"/><s n="pat"/></r></p></e>
@@ -21180,16 +21180,16 @@
 <e>       <p><l>Chaykovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chaykovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chebanov<s n="np"/><s n="cog"/></l>    <r>Chebanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chebanova<s n="np"/><s n="cog"/></l>    <r>Chebanova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Chebiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chebiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Chebiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chebiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Chebiyev<s n="np"/><s n="cog"/></l>    <r>Chebiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Chebiyeva<s n="np"/><s n="cog"/></l>    <r>Chebiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chechetov<s n="np"/><s n="cog"/></l>    <r>Chechetov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chechetova<s n="np"/><s n="cog"/></l>    <r>Chechetova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chekanov<s n="np"/><s n="cog"/></l>    <r>Chekanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chekanova<s n="np"/><s n="cog"/></l>    <r>Chekanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chelebi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chelebi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chelebicihan<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chelebicihan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Chelebiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chelebiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Chelebiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chelebiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Chelebiyev<s n="np"/><s n="cog"/></l>    <r>Chelebiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Chelebiyeva<s n="np"/><s n="cog"/></l>    <r>Chelebiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Cheleketich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cheleketich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chelik<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chelik<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chemezov<s n="np"/><s n="cog"/></l>    <r>Chemezov<s n="np"/><s n="cog"/></r></p></e>
@@ -21197,7 +21197,7 @@
 <e>       <p><l>Cheney<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cheney<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chentsov<s n="np"/><s n="cog"/></l>    <r>Chentsov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chentsova<s n="np"/><s n="cog"/></l>    <r>Chentsova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Chergeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chergeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Chergeyev<s n="np"/><s n="cog"/></l>    <r>Chergeyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Cherich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cherich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chernakov<s n="np"/><s n="cog"/></l>    <r>Chernakov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chernakova<s n="np"/><s n="cog"/></l>    <r>Chernakova<s n="np"/><s n="cog"/></r></p></e>
@@ -21208,7 +21208,7 @@
 <e>       <p><l>Chernishova<s n="np"/><s n="cog"/></l>    <r>Chernishova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chernoivanenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chernoivanenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chernovolenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chernovolenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Chernyaev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chernyaev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Chernyaev<s n="np"/><s n="cog"/></l>    <r>Chernyaev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Cherovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cherovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chesich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chesich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chijov<s n="np"/><s n="cog"/></l>    <r>Chijov<s n="np"/><s n="cog"/></r></p></e>
@@ -21225,8 +21225,8 @@
 <e>       <p><l>Cholakovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cholakovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Cholhanov<s n="np"/><s n="cog"/></l>    <r>Cholhanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Cholhanova<s n="np"/><s n="cog"/></l>    <r>Cholhanova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Cholohayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cholohayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Cholohayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Cholohayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Cholohayev<s n="np"/><s n="cog"/></l>    <r>Cholohayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Cholohayeva<s n="np"/><s n="cog"/></l>    <r>Cholohayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Chovich<s n="np"/><s n="pat"/></l>    <r>Chovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Christian<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Christian<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Chu<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Chu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21268,8 +21268,8 @@
 <e>       <p><l>Dabich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dabich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dachenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dachenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dadayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dadayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dadayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dadayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Dadayev<s n="np"/><s n="cog"/></l>    <r>Dadayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Dadayeva<s n="np"/><s n="cog"/></l>    <r>Dadayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Dadich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dadich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dagʻchi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Daǵchi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Daianu<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Daianu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21326,8 +21326,8 @@
 <e>       <p><l>Demartinov<s n="np"/><s n="cog"/></l>    <r>Demartinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Demartinova<s n="np"/><s n="cog"/></l>    <r>Demartinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Demchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Demchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dementyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dementyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dementyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dementyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Dementyev<s n="np"/><s n="cog"/></l>    <r>Dementyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Dementyeva<s n="np"/><s n="cog"/></l>    <r>Dementyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Demidov<s n="np"/><s n="cog"/></l>    <r>Demidov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Demidova<s n="np"/><s n="cog"/></l>    <r>Demidova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Demirchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Demirchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21380,13 +21380,13 @@
 <e>       <p><l>Djurkovich<s n="np"/><s n="pat"/></l>    <r>Djurkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Djurovich<s n="np"/><s n="pat"/></l>    <r>Djurovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Dobrichich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dobrichich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dobrodeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dobrodeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dobrodeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dobrodeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Dobrodeyev<s n="np"/><s n="cog"/></l>    <r>Dobrodeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Dobrodeyeva<s n="np"/><s n="cog"/></l>    <r>Dobrodeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Dodik<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dodik<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dodovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dodovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dogʻach<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Doǵach<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dogujiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dogujiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dogujiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dogujiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Dogujiyev<s n="np"/><s n="cog"/></l>    <r>Dogujiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Dogujiyeva<s n="np"/><s n="cog"/></l>    <r>Dogujiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Dokich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dokich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dokmanovich<s n="np"/><s n="pat"/></l>    <r>Dokmanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Dokovich<s n="np"/><s n="pat"/></l>    <r>Dokovich<s n="np"/><s n="pat"/></r></p></e>
@@ -21429,8 +21429,8 @@
 <e>       <p><l>Dudakov<s n="np"/><s n="cog"/></l>    <r>Dudakov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Dudakova<s n="np"/><s n="cog"/></l>    <r>Dudakova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Dudakovich<s n="np"/><s n="pat"/></l>    <r>Dudakovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Dudayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dudayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dudayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dudayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Dudayev<s n="np"/><s n="cog"/></l>    <r>Dudayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Dudayeva<s n="np"/><s n="cog"/></l>    <r>Dudayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Dudesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dudesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dudich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dudich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Dugalich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dugalich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21466,15 +21466,15 @@
 <e>       <p><l>Ecevit<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ecevit<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Edib<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Edib<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Edison<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Edison<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ediyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ediyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ediyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ediyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ediyev<s n="np"/><s n="cog"/></l>    <r>Ediyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ediyeva<s n="np"/><s n="cog"/></l>    <r>Ediyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Efendich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Efendich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Elbai<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Elbai<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Elbani<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Elbani<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Eldarov<s n="np"/><s n="cog"/></l>    <r>Eldarov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Eldarova<s n="np"/><s n="cog"/></l>    <r>Eldarova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Elgakayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Elgakayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Elgakayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Elgakayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Elgakayev<s n="np"/><s n="cog"/></l>    <r>Elgakayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Elgakayeva<s n="np"/><s n="cog"/></l>    <r>Elgakayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Eliasson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Eliasson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Elsen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Elsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Elturk<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Elturk<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21484,16 +21484,16 @@
 <e>       <p><l>Eminesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Eminesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Eminov<s n="np"/><s n="cog"/></l>    <r>Eminov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Eminova<s n="np"/><s n="cog"/></l>    <r>Eminova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Emirajiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirajiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Emirajiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirajiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Emiraliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emiraliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Emiraliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emiraliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Emirajiyev<s n="np"/><s n="cog"/></l>    <r>Emirajiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Emirajiyeva<s n="np"/><s n="cog"/></l>    <r>Emirajiyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Emiraliyev<s n="np"/><s n="cog"/></l>    <r>Emiraliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Emiraliyeva<s n="np"/><s n="cog"/></l>    <r>Emiraliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Emirov<s n="np"/><s n="cog"/></l>    <r>Emirov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Emirova<s n="np"/><s n="cog"/></l>    <r>Emirova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Emirsaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirsaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Emirsaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirsaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Emirvaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirvaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Emirvaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirvaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Emirsaliyev<s n="np"/><s n="cog"/></l>    <r>Emirsaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Emirsaliyeva<s n="np"/><s n="cog"/></l>    <r>Emirsaliyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Emirvaliyev<s n="np"/><s n="cog"/></l>    <r>Emirvaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Emirvaliyeva<s n="np"/><s n="cog"/></l>    <r>Emirvaliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Emirzoda<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Emirzoda<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Enannov<s n="np"/><s n="cog"/></l>    <r>Enannov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Enannova<s n="np"/><s n="cog"/></l>    <r>Enannova<s n="np"/><s n="cog"/></r></p></e>
@@ -21512,8 +21512,8 @@
 <e>       <p><l>Esheri<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Esheri<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ezher<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ezher<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Fadich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Fadich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Fahriyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Fahriyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Fahriyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Fahriyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Fahriyev<s n="np"/><s n="cog"/></l>    <r>Fahriyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Fahriyeva<s n="np"/><s n="cog"/></l>    <r>Fahriyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Faizov<s n="np"/><s n="cog"/></l>    <r>Faizov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Faizova<s n="np"/><s n="cog"/></l>    <r>Faizova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Farahani<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Quwanıshani<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21531,8 +21531,8 @@
 <e>       <p><l>Fetich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Fetich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Fetislamov<s n="np"/><s n="cog"/></l>    <r>Fetislamov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Fetislamova<s n="np"/><s n="cog"/></l>    <r>Fetislamova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Fetiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Fetiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Fetiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Fetiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Fetiyev<s n="np"/><s n="cog"/></l>    <r>Fetiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Fetiyeva<s n="np"/><s n="cog"/></l>    <r>Fetiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Feyzich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Feyzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Filipov<s n="np"/><s n="cog"/></l>    <r>Filipov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Filipova<s n="np"/><s n="cog"/></l>    <r>Filipova<s n="np"/><s n="cog"/></r></p></e>
@@ -21574,8 +21574,8 @@
 <e>       <p><l>Gafarova<s n="np"/><s n="cog"/></l>    <r>Gafarova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gagarin<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gagarin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gagich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gagloyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gagloyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gagloyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gagloyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gagloyev<s n="np"/><s n="cog"/></l>    <r>Gagloyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gagloyeva<s n="np"/><s n="cog"/></l>    <r>Gagloyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gagovich<s n="np"/><s n="pat"/></l>    <r>Gagovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Gagovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gagovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gahramanov<s n="np"/><s n="cog"/></l>    <r>Gahramanov<s n="np"/><s n="cog"/></r></p></e>
@@ -21590,11 +21590,11 @@
 <e>       <p><l>Galovich<s n="np"/><s n="pat"/></l>    <r>Galovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Gamzatov<s n="np"/><s n="cog"/></l>    <r>Gamzatov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gamzatova<s n="np"/><s n="cog"/></l>    <r>Gamzatova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Gamzayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gamzayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gamzayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gamzayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gamzayev<s n="np"/><s n="cog"/></l>    <r>Gamzayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gamzayeva<s n="np"/><s n="cog"/></l>    <r>Gamzayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ganetsovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ganetsovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ganich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ganich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ganiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ganiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ganiyev<s n="np"/><s n="cog"/></l>    <r>Ganiyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Garelyich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Garelyich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Garich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Garich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Garkavenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Garkavenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21610,23 +21610,23 @@
 <e>       <p><l>Gavrilovich<s n="np"/><s n="pat"/></l>    <r>Gavrilovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Gaydarbekov<s n="np"/><s n="cog"/></l>    <r>Gaydarbekov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gaydarbekova<s n="np"/><s n="cog"/></l>    <r>Gaydarbekova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Gayiukayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gayiukayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gayiukayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gayiukayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gayiukayev<s n="np"/><s n="cog"/></l>    <r>Gayiukayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gayiukayeva<s n="np"/><s n="cog"/></l>    <r>Gayiukayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gaynutdinov<s n="np"/><s n="cog"/></l>    <r>Gaynutdinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gaynutdinova<s n="np"/><s n="cog"/></l>    <r>Gaynutdinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gayovich<s n="np"/><s n="pat"/></l>    <r>Gayovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Gaytayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gaytayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gaytayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gaytayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gaytayev<s n="np"/><s n="cog"/></l>    <r>Gaytayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gaytayeva<s n="np"/><s n="cog"/></l>    <r>Gaytayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gazali<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gazali<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gazdich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gazdich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gaziyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gaziyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gaziyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gaziyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gaziyev<s n="np"/><s n="cog"/></l>    <r>Gaziyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gaziyeva<s n="np"/><s n="cog"/></l>    <r>Gaziyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gazmanov<s n="np"/><s n="cog"/></l>    <r>Gazmanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gazmanova<s n="np"/><s n="cog"/></l>    <r>Gazmanova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Gazoyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gazoyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gazoyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gazoyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gecelev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gecelev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Geceleva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geceleva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gazoyev<s n="np"/><s n="cog"/></l>    <r>Gazoyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gazoyeva<s n="np"/><s n="cog"/></l>    <r>Gazoyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gecelev<s n="np"/><s n="cog"/></l>    <r>Gecelev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Geceleva<s n="np"/><s n="cog"/></l>    <r>Geceleva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gegich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gegich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Geiger<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geiger<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gelazitdinov<s n="np"/><s n="cog"/></l>    <r>Gelazitdinov<s n="np"/><s n="cog"/></r></p></e>
@@ -21634,19 +21634,19 @@
 <e>       <p><l>Geoana<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geoana<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Georgakopolos<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Georgakopolos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Georgesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Georgesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Georgiev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Georgiev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Georgiev<s n="np"/><s n="cog"/></l>    <r>Georgiev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Georgievskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Georgievskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gerashchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gerashchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gerashenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gerashenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gerasimov<s n="np"/><s n="cog"/></l>    <r>Gerasimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gerasimova<s n="np"/><s n="cog"/></l>    <r>Gerasimova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Geremeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geremeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Geremeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geremeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Geremeyev<s n="np"/><s n="cog"/></l>    <r>Geremeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Geremeyeva<s n="np"/><s n="cog"/></l>    <r>Geremeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gerjov<s n="np"/><s n="cog"/></l>    <r>Gerjov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gerjova<s n="np"/><s n="cog"/></l>    <r>Gerjova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Germanovna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Germanovna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Geroyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geroyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Geroyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geroyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Geroyev<s n="np"/><s n="cog"/></l>    <r>Geroyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Geroyeva<s n="np"/><s n="cog"/></l>    <r>Geroyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gerritsen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gerritsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Geshtakovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Geshtakovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gestakovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gestakovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21663,8 +21663,8 @@
 <e>       <p><l>Glazkova<s n="np"/><s n="cog"/></l>    <r>Glazkova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Glazunov<s n="np"/><s n="cog"/></l>    <r>Glazunov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Glazunova<s n="np"/><s n="cog"/></l>    <r>Glazunova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Glazyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Glazyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Glazyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Glazyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Glazyev<s n="np"/><s n="cog"/></l>    <r>Glazyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Glazyeva<s n="np"/><s n="cog"/></l>    <r>Glazyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Glebnikov<s n="np"/><s n="cog"/></l>    <r>Glebnikov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Glebnikova<s n="np"/><s n="cog"/></l>    <r>Glebnikova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gligorich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gligorich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21679,8 +21679,8 @@
 <e>       <p><l>Goʻkcheoʻgʻli<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gókcheóǵli<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Goʻkirmak<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gókirmak<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Goldstein<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Goldstein<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Goloseyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Goloseyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Goloseyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Goloseyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Goloseyev<s n="np"/><s n="cog"/></l>    <r>Goloseyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Goloseyeva<s n="np"/><s n="cog"/></l>    <r>Goloseyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Golovashenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Golovashenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Golubovich<s n="np"/><s n="pat"/></l>    <r>Golubovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Goncharenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Goncharenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21706,7 +21706,7 @@
 <e>       <p><l>Gotova<s n="np"/><s n="cog"/></l>    <r>Gotova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gotovina<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gotovina<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Goykovich<s n="np"/><s n="pat"/></l>    <r>Goykovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Goʻzlev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gózlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Goʻzlev<s n="np"/><s n="cog"/></l>    <r>Gózlev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Grandich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grandich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Granich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Granich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Grastich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grastich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21720,8 +21720,8 @@
 <e>       <p><l>Grigorenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grigorenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Grigoresku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grigoresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Grigoropolos<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grigoropolos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Grigoryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grigoryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Grigoryeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grigoryeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Grigoryev<s n="np"/><s n="cog"/></l>    <r>Grigoryev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Grigoryeva<s n="np"/><s n="cog"/></l>    <r>Grigoryeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Grikorenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grikorenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Grimason<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grimason<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Grinenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Grinenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21750,16 +21750,16 @@
 <e>       <p><l>Gudkov<s n="np"/><s n="cog"/></l>    <r>Gudkov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gudkova<s n="np"/><s n="cog"/></l>    <r>Gudkova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gudurich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gudurich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gulayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gulayev<s n="np"/><s n="cog"/></l>    <r>Gulayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gulayeva<s n="np"/><s n="cog"/></l>    <r>Gulayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gulen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gulen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gulumoʻgʻli<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gulumóǵli<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gumbatov<s n="np"/><s n="cog"/></l>    <r>Gumbatov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gumbatova<s n="np"/><s n="cog"/></l>    <r>Gumbatova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gurchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gurchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gurovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gurovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Guryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Guryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Guryeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Guryeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Guryev<s n="np"/><s n="cog"/></l>    <r>Guryev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Guryeva<s n="np"/><s n="cog"/></l>    <r>Guryeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gusenov<s n="np"/><s n="cog"/></l>    <r>Gusenov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gusenova<s n="np"/><s n="cog"/></l>    <r>Gusenova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gustavsen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gustavsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21773,8 +21773,8 @@
 <e>       <p><l>Gyote<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gyote<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Gyurovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gyurovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ha<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Awa<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Habibulayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dosulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Habibulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dosulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Habibulayev<s n="np"/><s n="cog"/></l>    <r>Dosulayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Habibulayeva<s n="np"/><s n="cog"/></l>    <r>Dosulayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hablemitoʻgʻli<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hablemitóǵli<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hadich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hadich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21798,8 +21798,8 @@
 <e>       <p><l>Hajip<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hajip<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hajipasich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hajipasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hajirusidovich<s n="np"/><s n="pat"/></l>    <r>Hajirusidovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Hajiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hajiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Hajiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hajiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Hajiyev<s n="np"/><s n="cog"/></l>    <r>Hajiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Hajiyeva<s n="np"/><s n="cog"/></l>    <r>Hajiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hakimov<s n="np"/><s n="cog"/></l>    <r>Hakimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hakimova<s n="np"/><s n="cog"/></l>    <r>Hakimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Halich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Halich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21812,8 +21812,8 @@
 <e>       <p><l>Hamitov<s n="np"/><s n="cog"/></l>    <r>Hamitov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hamitova<s n="np"/><s n="cog"/></l>    <r>Hamitova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hamovich<s n="np"/><s n="pat"/></l>    <r>Hamovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Hamzayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hamzayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Hamzayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hamzayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Hamzayev<s n="np"/><s n="cog"/></l>    <r>Hamzayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Hamzayeva<s n="np"/><s n="cog"/></l>    <r>Hamzayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hanchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hanchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hanenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hanenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hanesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hanesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21830,18 +21830,18 @@
 <e>       <p><l>Hasanovich<s n="np"/><s n="pat"/></l>    <r>Hasanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Hattatov<s n="np"/><s n="cog"/></l>    <r>Hattatov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hattatova<s n="np"/><s n="cog"/></l>    <r>Hattatova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Hayaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hayaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Hayaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hayaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Hayaliyev<s n="np"/><s n="cog"/></l>    <r>Hayaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Hayaliyeva<s n="np"/><s n="cog"/></l>    <r>Hayaliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Haydukovich<s n="np"/><s n="pat"/></l>    <r>Haydukovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Hayit<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hayt<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hayrich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hayrich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hayrovich<s n="np"/><s n="pat"/></l>    <r>Hayrovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Hayrulayevich<s n="np"/><s n="pat"/></l>    <r>Hayrulayevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Hayrullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hayrullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Hayrullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hayrullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Hayrullayev<s n="np"/><s n="cog"/></l>    <r>Hayrullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Hayrullayeva<s n="np"/><s n="cog"/></l>    <r>Hayrullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hazdich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hazdich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hegel<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hegel<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Hemroyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hemroyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Hemroyev<s n="np"/><s n="cog"/></l>    <r>Hemroyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Hen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Herschbach<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Herschbach<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Hey<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Hey<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -21887,16 +21887,16 @@
 <e>       <p><l>Huzeyme<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Huzeyme<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Iankulesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Iankulesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ibbotson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ibbotson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ibodullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ibodullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ibodullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ibodullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ibodullayev<s n="np"/><s n="cog"/></l>    <r>Ibodullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ibodullayeva<s n="np"/><s n="cog"/></l>    <r>Ibodullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ibragimov<s n="np"/><s n="cog"/></l>    <r>Ibragimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ibragimova<s n="np"/><s n="cog"/></l>    <r>Ibragimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ibrahimovich<s n="np"/><s n="pat"/></l>    <r>Ibrahimovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Ibrahimpasich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ibrahimpasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ibraimov<s n="np"/><s n="cog"/></l>    <r>Ibraimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ibraimova<s n="np"/><s n="cog"/></l>    <r>Ibraimova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Ibrayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ibrayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ibrayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ibrayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ibrayev<s n="np"/><s n="cog"/></l>    <r>Ibrayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ibrayeva<s n="np"/><s n="cog"/></l>    <r>Ibrayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Idikut<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Idikut<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Idrisov<s n="np"/><s n="cog"/></l>    <r>Idrisov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Idrisova<s n="np"/><s n="cog"/></l>    <r>Idrisova<s n="np"/><s n="cog"/></r></p></e>
@@ -21944,8 +21944,8 @@
 <e>       <p><l>Isalmova<s n="np"/><s n="cog"/></l>    <r>Isalmova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Isanchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Isanchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Isaresku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Isaresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Isayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Isayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Isayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Isayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Isayev<s n="np"/><s n="cog"/></l>    <r>Isayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Isayeva<s n="np"/><s n="cog"/></l>    <r>Isayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ishchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ishchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ishik<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ishik<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Islamov<s n="np"/><s n="cog"/></l>    <r>Islamov<s n="np"/><s n="cog"/></r></p></e>
@@ -22023,8 +22023,8 @@
 <e>       <p><l>Jelusich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jelusich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Jemaledinov<s n="np"/><s n="cog"/></l>    <r>Jemaledinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jemaledinova<s n="np"/><s n="cog"/></l>    <r>Jemaledinova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Jemilev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jemilev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Jemileva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jemileva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Jemilev<s n="np"/><s n="cog"/></l>    <r>Jemilev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Jemileva<s n="np"/><s n="cog"/></l>    <r>Jemileva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jemilov<s n="np"/><s n="cog"/></l>    <r>Jemilov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jemilova<s n="np"/><s n="cog"/></l>    <r>Jemilova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jenkich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jenkich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22071,7 +22071,7 @@
 <e>       <p><l>Jukova<s n="np"/><s n="cog"/></l>    <r>Jukova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jumadilov<s n="np"/><s n="cog"/></l>    <r>Jumadilov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jumadilova<s n="np"/><s n="cog"/></l>    <r>Jumadilova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Jumaliev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jumaliev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Jumaliev<s n="np"/><s n="cog"/></l>    <r>Jumaliev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Jurchevich<s n="np"/><s n="pat"/></l>    <r>Jurchevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Jurchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jurchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Jurich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jurich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22082,8 +22082,8 @@
 <e>       <p><l>Kabanenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kabanenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kaddafi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kaddafi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kadich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kadich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kadiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kadiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kadiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kadiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kadiyev<s n="np"/><s n="cog"/></l>    <r>Kadiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kadiyeva<s n="np"/><s n="cog"/></l>    <r>Kadiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kadiyevich<s n="np"/><s n="pat"/></l>    <r>Kadiyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kadribasich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kadribasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kadrich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kadrich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22107,8 +22107,8 @@
 <e>       <p><l>Kanatlarovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kanatlarovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kanchesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kanchesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kandich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kandich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kangiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kangiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kangiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kangiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kangiyev<s n="np"/><s n="cog"/></l>    <r>Kangiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kangiyeva<s n="np"/><s n="cog"/></l>    <r>Kangiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kanishkizi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kanishkizi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kankovich<s n="np"/><s n="pat"/></l>    <r>Kankovich<s n="np"/><s n="pat"/></r></p></e>
@@ -22170,8 +22170,8 @@
 <e>       <p><l>Katunarich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Katunarich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kausevich<s n="np"/><s n="pat"/></l>    <r>Kausevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kavich<s n="np"/><s n="pat"/></l>    <r>Kavich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Kaybullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kaybullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kaybullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kaybullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kaybullayev<s n="np"/><s n="cog"/></l>    <r>Kaybullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kaybullayeva<s n="np"/><s n="cog"/></l>    <r>Kaybullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kayirbekova<s n="np"/><s n="cog"/></l>    <r>Kayirbekova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kebedov<s n="np"/><s n="cog"/></l>    <r>Kebedov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kebedova<s n="np"/><s n="cog"/></l>    <r>Kebedova<s n="np"/><s n="cog"/></r></p></e>
@@ -22186,9 +22186,9 @@
 <e>       <p><l>Kerman<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kerman<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kerry<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kerry<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kerstich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kerstich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kesayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kesayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kesayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kesayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kesayev<s n="np"/><s n="cog"/></l>    <r>Kesayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kesayeva<s n="np"/><s n="cog"/></l>    <r>Kesayeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kezlev<s n="np"/><s n="cog"/></l>    <r>Kezlev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ki<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ki<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kicanovich<s n="np"/><s n="pat"/></l>    <r>Kicanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kidich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kidich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22200,10 +22200,10 @@
 <e>       <p><l>Kipchakskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kipchakskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kipchakski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kipchakski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kircha<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kircha<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kireyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kireyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kireyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kireyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kishveyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kishveyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kishveyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kishveyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kireyev<s n="np"/><s n="cog"/></l>    <r>Kireyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kireyeva<s n="np"/><s n="cog"/></l>    <r>Kireyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kishveyev<s n="np"/><s n="cog"/></l>    <r>Kishveyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kishveyeva<s n="np"/><s n="cog"/></l>    <r>Kishveyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kisich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kisich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kitanovich<s n="np"/><s n="pat"/></l>    <r>Kitanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kitanovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kitanovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22230,8 +22230,8 @@
 <e>       <p><l>Klinton<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Klinton<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kljajevich<s n="np"/><s n="pat"/></l>    <r>Kljajevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Klosson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Klosson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kluyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kluyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kluyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kluyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kluyev<s n="np"/><s n="cog"/></l>    <r>Kluyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kluyeva<s n="np"/><s n="cog"/></l>    <r>Kluyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Klyayevich<s n="np"/><s n="pat"/></l>    <r>Klyayevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Knezevich<s n="np"/><s n="pat"/></l>    <r>Knezevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kobilich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kobilich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22245,8 +22245,8 @@
 <e>       <p><l>Kojich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kojich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kojurov<s n="np"/><s n="cog"/></l>    <r>Kojurov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kojurova<s n="np"/><s n="cog"/></l>    <r>Kojurova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Koʻkanayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kókanayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Koʻkanayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kókanayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Koʻkanayev<s n="np"/><s n="cog"/></l>    <r>Kókanayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Koʻkanayeva<s n="np"/><s n="cog"/></l>    <r>Kókanayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kokanovich<s n="np"/><s n="pat"/></l>    <r>Kokanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kokich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kokich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kokorovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kokorovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22273,8 +22273,8 @@
 <e>       <p><l>Kondich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kondich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kondopolos<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kondopolos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kondovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kondovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kondratyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kondratyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kondratyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kondratyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kondratyev<s n="np"/><s n="cog"/></l>    <r>Kondratyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kondratyeva<s n="np"/><s n="cog"/></l>    <r>Kondratyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Konikushich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Konikushich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Konjanovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Konjanovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Konjich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Konjich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22302,8 +22302,8 @@
 <e>       <p><l>Koppen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Koppen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Koprulu<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Koprulu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Koragan<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Koragan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Korchev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Korchev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Korcheva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Korcheva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Korchev<s n="np"/><s n="cog"/></l>    <r>Korchev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Korcheva<s n="np"/><s n="cog"/></l>    <r>Korcheva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Korchevich<s n="np"/><s n="pat"/></l>    <r>Korchevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Korchiyevich<s n="np"/><s n="pat"/></l>    <r>Korchiyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kordich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kordich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22313,8 +22313,8 @@
 <e>       <p><l>Kornilova<s n="np"/><s n="cog"/></l>    <r>Kornilova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Korniyenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Korniyenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Korolenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Korolenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Korotayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Korotayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Korotayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Korotayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Korotayev<s n="np"/><s n="cog"/></l>    <r>Korotayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Korotayeva<s n="np"/><s n="cog"/></l>    <r>Korotayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Korvchevich<s n="np"/><s n="pat"/></l>    <r>Korvchevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kosanovich<s n="np"/><s n="pat"/></l>    <r>Kosanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kosen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kosen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22388,8 +22388,8 @@
 <e>       <p><l>Kristovich<s n="np"/><s n="pat"/></l>    <r>Kristovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Krivdich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krivdich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Krivokapich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krivokapich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Krivosheyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krivosheyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Krivosheyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krivosheyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Krivosheyev<s n="np"/><s n="cog"/></l>    <r>Krivosheyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Krivosheyeva<s n="np"/><s n="cog"/></l>    <r>Krivosheyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Krizanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krizanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Krizich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krizich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Krkobabich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Krkobabich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22458,20 +22458,20 @@
 <e>       <p><l>Kurseitova<s n="np"/><s n="cog"/></l>    <r>Kurseitova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kurtbedinov<s n="np"/><s n="cog"/></l>    <r>Kurtbedinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kurtbedinova<s n="np"/><s n="cog"/></l>    <r>Kurtbedinova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Kurtiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kurtiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kurtiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kurtiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kurtiyev<s n="np"/><s n="cog"/></l>    <r>Kurtiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kurtiyeva<s n="np"/><s n="cog"/></l>    <r>Kurtiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kurtovich<s n="np"/><s n="pat"/></l>    <r>Kurtovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kurtseitov<s n="np"/><s n="cog"/></l>    <r>Kurtseitov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kurtseitova<s n="np"/><s n="cog"/></l>    <r>Kurtseitova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kurz<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kurz<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kuseni<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kuseni<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kushan<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kushan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kutayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kutayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Kutayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kutayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kutayev<s n="np"/><s n="cog"/></l>    <r>Kutayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Kutayeva<s n="np"/><s n="cog"/></l>    <r>Kutayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kutsenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kutsenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kutuzov<s n="np"/><s n="cog"/></l>    <r>Kutuzov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kutuzova<s n="np"/><s n="cog"/></l>    <r>Kutuzova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Kuybishev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kuybishev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Kuybishev<s n="np"/><s n="cog"/></l>    <r>Kuybishev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Kuyovich<s n="np"/><s n="pat"/></l>    <r>Kúyewich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Kuyunchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kuyunchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kuzmanovich<s n="np"/><s n="pat"/></l>    <r>Kuzmanovich<s n="np"/><s n="pat"/></r></p></e>
@@ -22527,8 +22527,8 @@
 <e>       <p><l>Lenin<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Lenin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Lenina<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Lenina<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Leonidovna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Leonidovna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Leontyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Leontyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Leontyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Leontyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Leontyev<s n="np"/><s n="cog"/></l>    <r>Leontyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Leontyeva<s n="np"/><s n="cog"/></l>    <r>Leontyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Leontyevna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Leontyevna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Lepopsavich<s n="np"/><s n="pat"/></l>    <r>Lepopsavich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Leposavich<s n="np"/><s n="pat"/></l>    <r>Leposavich<s n="np"/><s n="pat"/></r></p></e>
@@ -22561,8 +22561,8 @@
 <e>       <p><l>Livanov<s n="np"/><s n="cog"/></l>    <r>Livanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Livanova<s n="np"/><s n="cog"/></l>    <r>Livanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Liyanovich<s n="np"/><s n="pat"/></l>    <r>Liyanovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Liyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Liyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Liyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Liyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Liyev<s n="np"/><s n="cog"/></l>    <r>Liyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Liyeva<s n="np"/><s n="cog"/></l>    <r>Liyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ljaich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ljaich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ljajich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ljajich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ljubich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ljubich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22623,13 +22623,13 @@
 <e>       <p><l>Makarenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makarenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Makarov<s n="np"/><s n="cog"/></l>    <r>Makarov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Makarova<s n="np"/><s n="cog"/></l>    <r>Makarova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Makaryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makaryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Makaryeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makaryeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Makaryev<s n="np"/><s n="cog"/></l>    <r>Makaryev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Makaryeva<s n="np"/><s n="cog"/></l>    <r>Makaryeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Make<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Make<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Makedonya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makedonya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Makeyenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makeyenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Makeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Makeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Makeyev<s n="np"/><s n="cog"/></l>    <r>Makeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Makeyeva<s n="np"/><s n="cog"/></l>    <r>Makeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Makkich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makkich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Makovich<s n="np"/><s n="pat"/></l>    <r>Makovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Makron<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Makron<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22648,8 +22648,8 @@
 <e>       <p><l>Maljkovich<s n="np"/><s n="pat"/></l>    <r>Maljkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Malkich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Malkich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Malkochoʻgʻli<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Malkochóǵli<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Malofeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Malofeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Malofeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Malofeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Malofeyev<s n="np"/><s n="cog"/></l>    <r>Malofeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Malofeyeva<s n="np"/><s n="cog"/></l>    <r>Malofeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Malovich<s n="np"/><s n="pat"/></l>    <r>Malovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Mambetov<s n="np"/><s n="cog"/></l>    <r>Mambetov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mambetova<s n="np"/><s n="cog"/></l>    <r>Mambetova<s n="np"/><s n="cog"/></r></p></e>
@@ -22705,8 +22705,8 @@
 <e>       <p><l>Matkovich<s n="np"/><s n="pat"/></l>    <r>Matkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Matovinovich<s n="np"/><s n="pat"/></l>    <r>Matovinovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Matulovich<s n="np"/><s n="pat"/></l>    <r>Matulovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Matveyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Matveyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Matveyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Matveyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Matveyev<s n="np"/><s n="cog"/></l>    <r>Matveyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Matveyeva<s n="np"/><s n="cog"/></l>    <r>Matveyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Matviyenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Matviyenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mavzemin<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Jermin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>May<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>May<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22720,11 +22720,11 @@
 <e>       <p><l>Mechnikova<s n="np"/><s n="cog"/></l>    <r>Mechnikova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Medenich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Medenich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Medich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Medich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mediyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mediyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mediyev<s n="np"/><s n="cog"/></l>    <r>Mediyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Medojevich<s n="np"/><s n="pat"/></l>    <r>Medojevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Medvedev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Medvedev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mefayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mefayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mefayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mefayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Medvedev<s n="np"/><s n="cog"/></l>    <r>Medvedev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Mefayev<s n="np"/><s n="cog"/></l>    <r>Mefayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Mefayeva<s n="np"/><s n="cog"/></l>    <r>Mefayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mehich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mehich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mehmedagich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mehmedagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mehmedovich<s n="np"/><s n="pat"/></l>    <r>Mehmedovich<s n="np"/><s n="pat"/></r></p></e>
@@ -22744,8 +22744,8 @@
 <e>       <p><l>Memedeminova<s n="np"/><s n="cog"/></l>    <r>Memedeminova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Memich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Memich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Memishevich<s n="np"/><s n="pat"/></l>    <r>Memishevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Menachiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Menachiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Menachiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Menachiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Menachiyev<s n="np"/><s n="cog"/></l>    <r>Menachiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Menachiyeva<s n="np"/><s n="cog"/></l>    <r>Menachiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mendelson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mendelson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Menkinovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Menkinovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Menliazizov<s n="np"/><s n="cog"/></l>    <r>Menliazizov<s n="np"/><s n="cog"/></r></p></e>
@@ -22777,8 +22777,8 @@
 <e>       <p><l>Mihaylovich<s n="np"/><s n="pat"/></l>    <r>Mihaylovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Mihaylovna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mihaylovna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mihaylovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mihaylovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Miheyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Miheyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Miheyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Miheyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Miheyev<s n="np"/><s n="cog"/></l>    <r>Miheyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Miheyeva<s n="np"/><s n="cog"/></l>    <r>Miheyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mijanovich<s n="np"/><s n="pat"/></l>    <r>Mijanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Mijich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mijich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mijovich<s n="np"/><s n="pat"/></l>    <r>Mijovich<s n="np"/><s n="pat"/></r></p></e>
@@ -22839,8 +22839,8 @@
 <e>       <p><l>Milyevich<s n="np"/><s n="pat"/></l>    <r>Milyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Minakov<s n="np"/><s n="cog"/></l>    <r>Minakov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Minakova<s n="np"/><s n="cog"/></l>    <r>Minakova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Mineyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mineyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mineyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mineyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mineyev<s n="np"/><s n="cog"/></l>    <r>Mineyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Mineyeva<s n="np"/><s n="cog"/></l>    <r>Mineyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Minich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Minich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Minih<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Minih<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Minihanov<s n="np"/><s n="cog"/></l>    <r>Minihanov<s n="np"/><s n="cog"/></r></p></e>
@@ -22850,8 +22850,8 @@
 <e>       <p><l>Mionich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mionich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Miosevich<s n="np"/><s n="pat"/></l>    <r>Miosevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Mirchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mirchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mireyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mireyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mireyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mireyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mireyev<s n="np"/><s n="cog"/></l>    <r>Mireyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Mireyeva<s n="np"/><s n="cog"/></l>    <r>Mireyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mirkovich<s n="np"/><s n="pat"/></l>    <r>Mirkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Mirnov<s n="np"/><s n="cog"/></l>    <r>Mirnov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mirnova<s n="np"/><s n="cog"/></l>    <r>Mirnova<s n="np"/><s n="cog"/></r></p></e>
@@ -22866,7 +22866,7 @@
 <e>       <p><l>Mirzajanova<s n="np"/><s n="cog"/></l>    <r>Xatkerjanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mirzaxmatov<s n="np"/><s n="cog"/></l>    <r>Xatkerxmatov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mirzaxmatova<s n="np"/><s n="cog"/></l>    <r>Xatkerxmatova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Mirziyayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mirziyayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mirziyayev<s n="np"/><s n="cog"/></l>    <r>Mirziyayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Misakovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Misakovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mischevich<s n="np"/><s n="pat"/></l>    <r>Mischevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Misetich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Misetich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22893,7 +22893,7 @@
 <e>       <p><l>Mochkov<s n="np"/><s n="cog"/></l>    <r>Mochkov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mochkova<s n="np"/><s n="cog"/></l>    <r>Mochkova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Modrich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Modrich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mogilev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mogilev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mogilev<s n="np"/><s n="cog"/></l>    <r>Mogilev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mohseniy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mohseniy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Moisiu<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Moisiu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mojegov<s n="np"/><s n="cog"/></l>    <r>Mojegov<s n="np"/><s n="cog"/></r></p></e>
@@ -22924,8 +22924,8 @@
 <e>       <p><l>Muhammiddinov<s n="np"/><s n="cog"/></l>    <r>Muhammiddinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Muhammiddinova<s n="np"/><s n="cog"/></l>    <r>Muhammiddinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Muhich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Muhich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mujdabayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Quwanıshlı<b/>xabarbayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mujdabayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Quwanıshlı<b/>xabarbayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mujdabayev<s n="np"/><s n="cog"/></l>    <r>Quwanıshlı<b/>xabarbayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Mujdabayeva<s n="np"/><s n="cog"/></l>    <r>Quwanıshlı<b/>xabarbayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mujenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mujenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mujich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mujich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mulahalilovich<s n="np"/><s n="pat"/></l>    <r>Mulahalilovich<s n="np"/><s n="pat"/></r></p></e>
@@ -22942,11 +22942,11 @@
 <e>       <p><l>Muratovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Muratovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Muravyov<s n="np"/><s n="cog"/></l>    <r>Muravyov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Muravyova<s n="np"/><s n="cog"/></l>    <r>Muravyova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Murayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Murayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Murayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Murayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Murayev<s n="np"/><s n="cog"/></l>    <r>Murayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Murayeva<s n="np"/><s n="cog"/></l>    <r>Murayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Murtich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Murtich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Musayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Musayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Musayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Musayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Musayev<s n="np"/><s n="cog"/></l>    <r>Musayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Musayeva<s n="np"/><s n="cog"/></l>    <r>Musayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Muselimovich<s n="np"/><s n="pat"/></l>    <r>Muselimovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Musetesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Musetesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Musich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Musich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22954,7 +22954,7 @@
 <e>       <p><l>Muslimova<s n="np"/><s n="cog"/></l>    <r>Muslimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Musovich<s n="np"/><s n="pat"/></l>    <r>Musovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Mussolini<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mussolini<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mustafayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mustafayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mustafayev<s n="np"/><s n="cog"/></l>    <r>Mustafayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Mustafayevna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mustafayevna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mustafich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mustafich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mutellip<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mutellip<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22966,10 +22966,10 @@
 <e>       <p><l>Muykanovich<s n="np"/><s n="pat"/></l>    <r>Muykanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Muzurovich<s n="np"/><s n="pat"/></l>    <r>Muzurovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Nadarevich<s n="np"/><s n="pat"/></l>    <r>Nadarevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Nagayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nagayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nagayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nagayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nagiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nagiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nagiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nagiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Nagayev<s n="np"/><s n="cog"/></l>    <r>Nagayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nagayeva<s n="np"/><s n="cog"/></l>    <r>Nagayeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nagiyev<s n="np"/><s n="cog"/></l>    <r>Nagiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nagiyeva<s n="np"/><s n="cog"/></l>    <r>Nagiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nagradzich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nagradzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nahimov<s n="np"/><s n="cog"/></l>    <r>Nahimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nahimova<s n="np"/><s n="cog"/></l>    <r>Nahimova<s n="np"/><s n="cog"/></r></p></e>
@@ -22981,12 +22981,12 @@
 <e>       <p><l>Nalbantova<s n="np"/><s n="cog"/></l>    <r>Nalbantova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Naletilich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Naletilich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nalivaychenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nalivaychenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Namatullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kiyizullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Namatullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Kiyizullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Namatullayev<s n="np"/><s n="cog"/></l>    <r>Kiyizullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Namatullayeva<s n="np"/><s n="cog"/></l>    <r>Kiyizullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nano<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nano<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nansen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nansen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Narayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Narayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Narayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Narayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Narayev<s n="np"/><s n="cog"/></l>    <r>Narayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Narayeva<s n="np"/><s n="cog"/></l>    <r>Narayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Narodov<s n="np"/><s n="cog"/></l>    <r>Narodov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Narodova<s n="np"/><s n="cog"/></l>    <r>Narodova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nasiriddin<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nasiriddin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -22995,20 +22995,20 @@
 <e>       <p><l>Naumenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Naumenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Naumovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Naumovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nayetovich<s n="np"/><s n="pat"/></l>    <r>Nayetovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Nazarbayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Názerbayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Nazarbayev<s n="np"/><s n="cog"/></l>    <r>Názerbayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nazarenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Názerenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nazarov<s n="np"/><s n="cog"/></l>    <r>Názerov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nazarova<s n="np"/><s n="cog"/></l>    <r>Názerova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Nazaryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Názeryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nebiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nebiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nebiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nebiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Nazaryev<s n="np"/><s n="cog"/></l>    <r>Názeryev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nebiyev<s n="np"/><s n="cog"/></l>    <r>Nebiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nebiyeva<s n="np"/><s n="cog"/></l>    <r>Nebiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nechiporenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nechiporenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nedeljkovich<s n="np"/><s n="pat"/></l>    <r>Nedeljkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Nedich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nedich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Neganov<s n="np"/><s n="cog"/></l>    <r>Neganov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Neganova<s n="np"/><s n="cog"/></l>    <r>Neganova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Neklayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Neklayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Neklayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Neklayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Neklayev<s n="np"/><s n="cog"/></l>    <r>Neklayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Neklayeva<s n="np"/><s n="cog"/></l>    <r>Neklayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Neklinov<s n="np"/><s n="cog"/></l>    <r>Neklinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Neklinova<s n="np"/><s n="cog"/></l>    <r>Neklinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nekludov<s n="np"/><s n="cog"/></l>    <r>Nekludov<s n="np"/><s n="cog"/></r></p></e>
@@ -23017,8 +23017,8 @@
 <e>       <p><l>Nelson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nelson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nemanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nemanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nemesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nemesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nemetullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nemetullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nemetullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nemetullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Nemetullayev<s n="np"/><s n="cog"/></l>    <r>Nemetullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nemetullayeva<s n="np"/><s n="cog"/></l>    <r>Nemetullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nemsich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nemsich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nemtsov<s n="np"/><s n="cog"/></l>    <r>Nemtsov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nemtsova<s n="np"/><s n="cog"/></l>    <r>Nemtsova<s n="np"/><s n="cog"/></r></p></e>
@@ -23135,8 +23135,8 @@
 <e>       <p><l>Ostrovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ostrovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Otis<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Otis<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Oʻtkir<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ótkir<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Otorbayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Otorbayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Otorbayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Otorbayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Otorbayev<s n="np"/><s n="cog"/></l>    <r>Otorbayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Otorbayeva<s n="np"/><s n="cog"/></l>    <r>Otorbayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Oydanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Oydanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ozegovich<s n="np"/><s n="pat"/></l>    <r>Ozegovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Oʻzenbashli<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>ózenbashli<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23188,8 +23188,8 @@
 <e>       <p><l>Parshchikova<s n="np"/><s n="cog"/></l>    <r>Parshchikova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Parvulesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Parvulesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pasalich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pasalich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pashayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pashayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pashayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pashayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Pashayev<s n="np"/><s n="cog"/></l>    <r>Pashayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Pashayeva<s n="np"/><s n="cog"/></l>    <r>Pashayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Pasich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Paskalyevich<s n="np"/><s n="pat"/></l>    <r>Paskalyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Pasovich<s n="np"/><s n="pat"/></l>    <r>Pasovich<s n="np"/><s n="pat"/></r></p></e>
@@ -23243,8 +23243,8 @@
 <e>       <p><l>Persson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Persson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pertasevich<s n="np"/><s n="pat"/></l>    <r>Pertasevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Pertenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pertenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pertev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pertev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Perteva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Perteva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Pertev<s n="np"/><s n="cog"/></l>    <r>Pertev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Perteva<s n="np"/><s n="cog"/></l>    <r>Perteva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Perusich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Perusich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pesalich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pesalich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pesich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pesich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23280,8 +23280,8 @@
 <e>       <p><l>Pirogov<s n="np"/><s n="cog"/></l>    <r>Bórekov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Pirogova<s n="np"/><s n="cog"/></l>    <r>Bórekova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Pisarenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pisarenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pisarev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pisarev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pisareva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pisareva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Pisarev<s n="np"/><s n="cog"/></l>    <r>Pisarev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Pisareva<s n="np"/><s n="cog"/></l>    <r>Pisareva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Pishik<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pishik<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pitich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pitich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pivovarov<s n="np"/><s n="cog"/></l>    <r>Pivovarov<s n="np"/><s n="cog"/></r></p></e>
@@ -23293,8 +23293,8 @@
 <e>       <p><l>Plavsich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Plavsich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pleskonich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pleskonich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pletikosich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pletikosich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pochayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pochayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Pochayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pochayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Pochayev<s n="np"/><s n="cog"/></l>    <r>Pochayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Pochayeva<s n="np"/><s n="cog"/></l>    <r>Pochayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Pochich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pochich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Podzich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Podzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Poe<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Poe<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23361,8 +23361,8 @@
 <e>       <p><l>Prodi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Prodi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Projkovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Projkovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Prokopiyevich<s n="np"/><s n="pat"/></l>    <r>Prokopiyevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Prokopyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Prokopyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Prokopyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Prokopyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Prokopyev<s n="np"/><s n="cog"/></l>    <r>Prokopyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Prokopyeva<s n="np"/><s n="cog"/></l>    <r>Prokopyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Prokpiyevich<s n="np"/><s n="pat"/></l>    <r>Prokpiyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Prorokovich<s n="np"/><s n="pat"/></l>    <r>Prorokovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Prostakov<s n="np"/><s n="cog"/></l>    <r>Prostakov<s n="np"/><s n="cog"/></r></p></e>
@@ -23373,7 +23373,7 @@
 <e>       <p><l>Pskova<s n="np"/><s n="cog"/></l>    <r>Pskova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Puchkov<s n="np"/><s n="cog"/></l>    <r>Puchkov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Puchkova<s n="np"/><s n="cog"/></l>    <r>Puchkova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Pugachev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pugachev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Pugachev<s n="np"/><s n="cog"/></l>    <r>Pugachev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Puhovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Puhovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pukanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pukanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pulatov<s n="np"/><s n="cog"/></l>    <r>Pulatov<s n="np"/><s n="cog"/></r></p></e>
@@ -23395,14 +23395,14 @@
 <e>       <p><l>Pyers<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pyers<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pyerson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Pyerson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Pyevchevich<s n="np"/><s n="pat"/></l>    <r>Pyevchevich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Qadiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qadiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qadiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qadiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Qadiyev<s n="np"/><s n="cog"/></l>    <r>Qadiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qadiyeva<s n="np"/><s n="cog"/></l>    <r>Qadiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qadrizoda<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qadrizoda<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Qayum<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qayum<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Qodir<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ílayıq<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qodiraliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ílayıqaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qodiraliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ílayıqaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qoralayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qoralayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Qodiraliyev<s n="np"/><s n="cog"/></l>    <r>Ílayıqaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qodiraliyeva<s n="np"/><s n="cog"/></l>    <r>Ílayıqaliyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qoralayev<s n="np"/><s n="cog"/></l>    <r>Qoralayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qoramanlis<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qoramanlis<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Qoramarkovich<s n="np"/><s n="pat"/></l>    <r>Qoramarkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Qoraqosh<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qaraqas<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23412,16 +23412,16 @@
 <e>       <p><l>Qosimi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qosimi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Qosimov<s n="np"/><s n="cog"/></l>    <r>Qosimov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qosimova<s n="np"/><s n="cog"/></l>    <r>Qosimova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Qurtmollayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qurtmollayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qurtmollayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qurtmollayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Qurtmollayev<s n="np"/><s n="cog"/></l>    <r>Qurtmollayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qurtmollayeva<s n="np"/><s n="cog"/></l>    <r>Qurtmollayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qurtseitov<s n="np"/><s n="cog"/></l>    <r>Qurtseitov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qurtseitova<s n="np"/><s n="cog"/></l>    <r>Qurtseitova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qurtumerov<s n="np"/><s n="cog"/></l>    <r>Qurtumerov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Qurtumerova<s n="np"/><s n="cog"/></l>    <r>Qurtumerova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Qutiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qutiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qutiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qutiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qutliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qutliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Qutliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Qutliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Qutiyev<s n="np"/><s n="cog"/></l>    <r>Qutiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qutiyeva<s n="np"/><s n="cog"/></l>    <r>Qutiyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qutliyev<s n="np"/><s n="cog"/></l>    <r>Qutliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Qutliyeva<s n="np"/><s n="cog"/></l>    <r>Qutliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Quvvatov<s n="np"/><s n="cog"/></l>    <r>Quwatov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Quvvatova<s n="np"/><s n="cog"/></l>    <r>Quwatova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Rabkov<s n="np"/><s n="cog"/></l>    <r>Rabkov<s n="np"/><s n="cog"/></r></p></e>
@@ -23460,8 +23460,8 @@
 <e>       <p><l>Rafya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Rafya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Rahmonov<s n="np"/><s n="cog"/></l>    <r>Rahmonov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Rahmonova<s n="np"/><s n="cog"/></l>    <r>Rahmonova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Rahmonxoʻjayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Rahmonxójayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Rahmonxoʻjayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Rahmonxójayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Rahmonxoʻjayev<s n="np"/><s n="cog"/></l>    <r>Rahmonxójayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Rahmonxoʻjayeva<s n="np"/><s n="cog"/></l>    <r>Rahmonxójayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Raichevich<s n="np"/><s n="pat"/></l>    <r>Raichevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Raiffeisen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Raiffeisen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Rajachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Rajachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23582,15 +23582,15 @@
 <e>       <p><l>Saidahmedova<s n="np"/><s n="cog"/></l>    <r>Saidahmedova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saidahmetov<s n="np"/><s n="cog"/></l>    <r>Saidahmetov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saidahmetova<s n="np"/><s n="cog"/></l>    <r>Saidahmetova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Saidaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saidaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Saidaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saidaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Saidaliyev<s n="np"/><s n="cog"/></l>    <r>Saidaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Saidaliyeva<s n="np"/><s n="cog"/></l>    <r>Saidaliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saidamet<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saidamet<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Saidametov<s n="np"/><s n="cog"/></l>    <r>Saidametov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saidametova<s n="np"/><s n="cog"/></l>    <r>Saidametova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saidiu<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saidiu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sainovich<s n="np"/><s n="pat"/></l>    <r>Sainovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Saitvaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saitvaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Saitvaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saitvaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Saitvaliyev<s n="np"/><s n="cog"/></l>    <r>Saitvaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Saitvaliyeva<s n="np"/><s n="cog"/></l>    <r>Saitvaliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saizesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saizesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sakich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sakich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Saksenov<s n="np"/><s n="cog"/></l>    <r>Saksenov<s n="np"/><s n="cog"/></r></p></e>
@@ -23598,8 +23598,8 @@
 <e>       <p><l>Sakson<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seksen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Saletovich<s n="np"/><s n="pat"/></l>    <r>Saletovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Salihovich<s n="np"/><s n="pat"/></l>    <r>Salihovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Saliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Saliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Saliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Saliyev<s n="np"/><s n="cog"/></l>    <r>Saliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Saliyeva<s n="np"/><s n="cog"/></l>    <r>Saliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Salkich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Salkich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Saltikov<s n="np"/><s n="cog"/></l>    <r>Saltikov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Saltikova<s n="np"/><s n="cog"/></l>    <r>Saltikova<s n="np"/><s n="cog"/></r></p></e>
@@ -23639,13 +23639,13 @@
 <e>       <p><l>Sartre<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sartre<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sasoyevich<s n="np"/><s n="pat"/></l>    <r>Sasoyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Satarenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Satarenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Satpayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Satpayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Satpayev<s n="np"/><s n="cog"/></l>    <r>Satpayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sattarov<s n="np"/><s n="cog"/></l>    <r>Sattarov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sattarova<s n="np"/><s n="cog"/></l>    <r>Sattarova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Savchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Savchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Savchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Savchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Savelyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Savelyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Savelyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Savelyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Savelyev<s n="np"/><s n="cog"/></l>    <r>Savelyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Savelyeva<s n="np"/><s n="cog"/></l>    <r>Savelyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Savenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Savenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Savich<s n="np"/><s n="pat"/></l>    <r>Savich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Savichevich<s n="np"/><s n="pat"/></l>    <r>Savichevich<s n="np"/><s n="pat"/></r></p></e>
@@ -23657,14 +23657,14 @@
 <e>       <p><l>Sebanesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sebanesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Seftich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seftich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sehich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sehich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Seitablayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seitablayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Seitablayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seitablayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Seitablayev<s n="np"/><s n="cog"/></l>    <r>Seitablayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Seitablayeva<s n="np"/><s n="cog"/></l>    <r>Seitablayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Seitbekirov<s n="np"/><s n="cog"/></l>    <r>Seitbekirov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Seitbekirova<s n="np"/><s n="cog"/></l>    <r>Seitbekirova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Seitmuratov<s n="np"/><s n="cog"/></l>    <r>Seitmuratov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Seitmuratova<s n="np"/><s n="cog"/></l>    <r>Seitmuratova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Seitnabiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seitnabiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Seitnabiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seitnabiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Seitnabiyev<s n="np"/><s n="cog"/></l>    <r>Seitnabiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Seitnabiyeva<s n="np"/><s n="cog"/></l>    <r>Seitnabiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sekarich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sekarich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sekerinska<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sekerinska<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sekich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sekich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23678,10 +23678,10 @@
 <e>       <p><l>Selimovich<s n="np"/><s n="pat"/></l>    <r>Selimovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Selipetov<s n="np"/><s n="cog"/></l>    <r>Selipetov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Selipetova<s n="np"/><s n="cog"/></l>    <r>Selipetova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Semdlayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semdlayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Semdlayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semdlayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Semedlayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semedlayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Semedlayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semedlayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Semdlayev<s n="np"/><s n="cog"/></l>    <r>Semdlayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Semdlayeva<s n="np"/><s n="cog"/></l>    <r>Semdlayeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Semedlayev<s n="np"/><s n="cog"/></l>    <r>Semedlayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Semedlayeva<s n="np"/><s n="cog"/></l>    <r>Semedlayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Semenchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semenchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Semenenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semenenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Semoʻnchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Semónchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23697,11 +23697,11 @@
 <e>       <p><l>Serdarevich<s n="np"/><s n="pat"/></l>    <r>Serdarevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Serdukov<s n="np"/><s n="cog"/></l>    <r>Serdukov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Serdukova<s n="np"/><s n="cog"/></l>    <r>Serdukova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Sergeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sergeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Sergeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sergeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Sergeyev<s n="np"/><s n="cog"/></l>    <r>Sergeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Sergeyeva<s n="np"/><s n="cog"/></l>    <r>Sergeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sergiyenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sergiyenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Sergiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sergiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Sergiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sergiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Sergiyev<s n="np"/><s n="cog"/></l>    <r>Sergiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Sergiyeva<s n="np"/><s n="cog"/></l>    <r>Sergiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Serich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Serich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Serifovich<s n="np"/><s n="pat"/></l>    <r>Serifovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Serikov<s n="np"/><s n="cog"/></l>    <r>Serikov<s n="np"/><s n="cog"/></r></p></e>
@@ -23714,11 +23714,11 @@
 <e>       <p><l>Sevich<s n="np"/><s n="pat"/></l>    <r>Sevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Sevrukov<s n="np"/><s n="cog"/></l>    <r>Sevrukov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sevrukova<s n="np"/><s n="cog"/></l>    <r>Sevrukova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Seyitveliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seyitveliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Seytablayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seytablayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Seyitveliyev<s n="np"/><s n="cog"/></l>    <r>Seyitveliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Seytablayev<s n="np"/><s n="cog"/></l>    <r>Seytablayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Seytanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seytanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Seytveliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seytveliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Seytveliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Seytveliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Seytveliyev<s n="np"/><s n="cog"/></l>    <r>Seytveliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Seytveliyeva<s n="np"/><s n="cog"/></l>    <r>Seytveliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sezar<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sezar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Shabliyenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shabliyenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Shabutov<s n="np"/><s n="cog"/></l>    <r>Shabutov<s n="np"/><s n="cog"/></r></p></e>
@@ -23769,8 +23769,8 @@
 <e>       <p><l>Sherfedinova<s n="np"/><s n="cog"/></l>    <r>Sherfedinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sherifovich<s n="np"/><s n="pat"/></l>    <r>Sherifovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Shevchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shevchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Shevkiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shevkiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Shevkiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shevkiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Shevkiyev<s n="np"/><s n="cog"/></l>    <r>Shevkiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Shevkiyeva<s n="np"/><s n="cog"/></l>    <r>Shevkiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Shiavgang<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shiavgang<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Shilling<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shilling<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Shimanov<s n="np"/><s n="cog"/></l>    <r>Shimanov<s n="np"/><s n="cog"/></r></p></e>
@@ -23785,8 +23785,8 @@
 <e>       <p><l>Shoximardanova<s n="np"/><s n="cog"/></l>    <r>Shoximardanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Shoximardinov<s n="np"/><s n="cog"/></l>    <r>Shoximardinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Shoximardinova<s n="np"/><s n="cog"/></l>    <r>Shoximardinova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Shukurciyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shukurciyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Shukurciyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shukurciyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Shukurciyev<s n="np"/><s n="cog"/></l>    <r>Shukurciyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Shukurciyeva<s n="np"/><s n="cog"/></l>    <r>Shukurciyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Shumacher<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shumacher<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Shuvalov<s n="np"/><s n="cog"/></l>    <r>Shuvalov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Shuvalova<s n="np"/><s n="cog"/></l>    <r>Shuvalova<s n="np"/><s n="cog"/></r></p></e>
@@ -23803,8 +23803,8 @@
 <e>       <p><l>Sijachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sijachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sikirbich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sikirbich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Silachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Silachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Silantyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Silantyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Silantyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Silantyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Silantyev<s n="np"/><s n="cog"/></l>    <r>Silantyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Silantyeva<s n="np"/><s n="cog"/></l>    <r>Silantyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Silaychich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Silaychich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Silaydich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Silaydich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Siljegovich<s n="np"/><s n="pat"/></l>    <r>Siljegovich<s n="np"/><s n="pat"/></r></p></e>
@@ -23833,8 +23833,8 @@
 <e>       <p><l>Sirin<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sirin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sishchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sishchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sitkich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sitkich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Sitvaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sitvaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Sitvaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sitvaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Sitvaliyev<s n="np"/><s n="cog"/></l>    <r>Sitvaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Sitvaliyeva<s n="np"/><s n="cog"/></l>    <r>Sitvaliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sivushov<s n="np"/><s n="cog"/></l>    <r>Sivushov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sivushova<s n="np"/><s n="cog"/></l>    <r>Sivushova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sizdikov<s n="np"/><s n="cog"/></l>    <r>Sizdikov<s n="np"/><s n="cog"/></r></p></e>
@@ -23862,8 +23862,8 @@
 <e>       <p><l>Slokovich<s n="np"/><s n="pat"/></l>    <r>Slokovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Smajich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Smajich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Smayich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Smayich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Smedlayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Smedlayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Smedlayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Smedlayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Smedlayev<s n="np"/><s n="cog"/></l>    <r>Smedlayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Smedlayeva<s n="np"/><s n="cog"/></l>    <r>Smedlayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Smilyanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Smilyanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Snorrason<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Snorrason<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sobajich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sobajich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23883,8 +23883,8 @@
 <e>       <p><l>Solodkova<s n="np"/><s n="cog"/></l>    <r>Solodkova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Solodovnikov<s n="np"/><s n="cog"/></l>    <r>Solodovnikov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Solodovnikova<s n="np"/><s n="cog"/></l>    <r>Solodovnikova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Solovyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Solovyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Solovyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Solovyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Solovyev<s n="np"/><s n="cog"/></l>    <r>Solovyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Solovyeva<s n="np"/><s n="cog"/></l>    <r>Solovyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Solyachich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Solyachich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Sorensen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sorensen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Soresku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Soresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -23925,7 +23925,7 @@
 <e>       <p><l>Stanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Stanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Stanichich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Stanichich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Stanimirovich<s n="np"/><s n="pat"/></l>    <r>Stanimirovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Stanishev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Stanishev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Stanishev<s n="np"/><s n="cog"/></l>    <r>Stanishev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Stanisich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Stanisich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Stankovich<s n="np"/><s n="pat"/></l>    <r>Stankovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Stankovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Stankovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24022,8 +24022,8 @@
 <e>       <p><l>Sushenkova<s n="np"/><s n="cog"/></l>    <r>Sushenkova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Suslov<s n="np"/><s n="cog"/></l>    <r>Suslov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Suslova<s n="np"/><s n="cog"/></l>    <r>Suslova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Susulayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Susulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Susulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Susulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Susulayev<s n="np"/><s n="cog"/></l>    <r>Susulayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Susulayeva<s n="np"/><s n="cog"/></l>    <r>Susulayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sutanovich<s n="np"/><s n="pat"/></l>    <r>Sutanovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Suvorov<s n="np"/><s n="cog"/></l>    <r>Suvorov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Suvorova<s n="np"/><s n="cog"/></l>    <r>Suvorova<s n="np"/><s n="cog"/></r></p></e>
@@ -24057,20 +24057,20 @@
 <e>       <p><l>Taskovich<s n="np"/><s n="pat"/></l>    <r>Taskovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Tattaresku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Tattaresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Taxiarchopolos<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Taxiarchopolos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Tedeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Tedeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Tedeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Tedeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Tedeyev<s n="np"/><s n="cog"/></l>    <r>Tedeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Tedeyeva<s n="np"/><s n="cog"/></l>    <r>Tedeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Telalovich<s n="np"/><s n="pat"/></l>    <r>Telalovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Temirgaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Temirgaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Temirgaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Temirgaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Temirgaliyev<s n="np"/><s n="cog"/></l>    <r>Temirgaliyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Temirgaliyeva<s n="np"/><s n="cog"/></l>    <r>Temirgaliyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Teodoresku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Teodoresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Teodorovich<s n="np"/><s n="pat"/></l>    <r>Teodorovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Tepsich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Tepsich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Terehov<s n="np"/><s n="cog"/></l>    <r>Terehov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Terehova<s n="np"/><s n="cog"/></l>    <r>Terehova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Terentyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Terentyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Terentyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Terentyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Terenyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Terenyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Terenyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Terenyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Terentyev<s n="np"/><s n="cog"/></l>    <r>Terentyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Terentyeva<s n="np"/><s n="cog"/></l>    <r>Terentyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Terenyev<s n="np"/><s n="cog"/></l>    <r>Terenyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Terenyeva<s n="np"/><s n="cog"/></l>    <r>Terenyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Tereshchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Tereshchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Terselich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Terselich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Terzich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Terzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24190,8 +24190,8 @@
 <e>       <p><l>Ugrinovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ugrinovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ulkusal<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ulkusal<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Ultrason<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ultrason<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ulukayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ulukayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ulukayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ulukayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ulukayev<s n="np"/><s n="cog"/></l>    <r>Ulukayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ulukayeva<s n="np"/><s n="cog"/></l>    <r>Ulukayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Umahanov<s n="np"/><s n="cog"/></l>    <r>Umahanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Umahanova<s n="np"/><s n="cog"/></l>    <r>Umahanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Umarov<s n="np"/><s n="cog"/></l>    <r>Umarov<s n="np"/><s n="cog"/></r></p></e>
@@ -24214,8 +24214,8 @@
 <e>       <p><l>Usmonagich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Usmonagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Usmonchevich<s n="np"/><s n="pat"/></l>    <r>Usmonchevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Usmonovich<s n="np"/><s n="pat"/></l>    <r>Usmonovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Ustayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ustayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ustayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ustayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ustayev<s n="np"/><s n="cog"/></l>    <r>Ustayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ustayeva<s n="np"/><s n="cog"/></l>    <r>Ustayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Usubov<s n="np"/><s n="cog"/></l>    <r>Usubov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Usubova<s n="np"/><s n="cog"/></l>    <r>Usubova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Uzich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Uzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24225,8 +24225,8 @@
 <e>       <p><l>Vaitova<s n="np"/><s n="cog"/></l>    <r>Vaitova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Valentich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Valentich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Valentinovna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Valentinovna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Valeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Valeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Valeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Valeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Valeyev<s n="np"/><s n="cog"/></l>    <r>Valeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Valeyeva<s n="np"/><s n="cog"/></l>    <r>Valeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Vamasesku<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vamasesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Varagich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Varagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Varner<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Varner<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24240,8 +24240,8 @@
 <e>       <p><l>Vasilevich<s n="np"/><s n="pat"/></l>    <r>Vasilevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Vasiljevich<s n="np"/><s n="pat"/></l>    <r>Vasiljevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Vasiljkovich<s n="np"/><s n="pat"/></l>    <r>Vasiljkovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Vasilyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vasilyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Vasilyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vasilyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Vasilyev<s n="np"/><s n="cog"/></l>    <r>Vasilyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Vasilyeva<s n="np"/><s n="cog"/></l>    <r>Vasilyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Vasilyevich<s n="np"/><s n="pat"/></l>    <r>Vasilyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Vasilyevna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vasilyevna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Vasilykovich<s n="np"/><s n="pat"/></l>    <r>Vasilykovich<s n="np"/><s n="pat"/></r></p></e>
@@ -24253,16 +24253,16 @@
 <e>       <p><l>Velehov<s n="np"/><s n="cog"/></l>    <r>Velehov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Velehova<s n="np"/><s n="cog"/></l>    <r>Velehova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Velich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Velich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Velilayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Velilayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Velilayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Velilayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Velilayev<s n="np"/><s n="cog"/></l>    <r>Velilayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Velilayeva<s n="np"/><s n="cog"/></l>    <r>Velilayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Velimirovich<s n="np"/><s n="pat"/></l>    <r>Velimirovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Velinovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Velinovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Veliyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Veliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Veliyev<s n="np"/><s n="cog"/></l>    <r>Veliyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Veljanovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Veljanovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Veljovich<s n="np"/><s n="pat"/></l>    <r>Veljovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Velyanovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Velyanovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Velyovich<s n="np"/><s n="pat"/></l>    <r>Velyovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Veresayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Veresayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Veresayev<s n="np"/><s n="cog"/></l>    <r>Veresayev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Verheugen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Verheugen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Vernadskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vernadskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Vernadski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vernadski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24318,8 +24318,8 @@
 <e>       <p><l>Volohov<s n="np"/><s n="cog"/></l>    <r>Volohov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Volohova<s n="np"/><s n="cog"/></l>    <r>Volohova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>von<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>von<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Vorobyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vorobyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Vorobyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vorobyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Vorobyev<s n="np"/><s n="cog"/></l>    <r>Vorobyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Vorobyeva<s n="np"/><s n="cog"/></l>    <r>Vorobyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Voronchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Voronchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Voronov<s n="np"/><s n="cog"/></l>    <r>Voronov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Voronova<s n="np"/><s n="cog"/></l>    <r>Voronova<s n="np"/><s n="cog"/></r></p></e>
@@ -24389,8 +24389,8 @@
 <e>       <p><l>Xakimovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xakimovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Xayriddinov<s n="np"/><s n="cog"/></l>    <r>Xayriddinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Xayriddinova<s n="np"/><s n="cog"/></l>    <r>Xayriddinova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Xizriyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xizriyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Xizriyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xizriyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Xizriyev<s n="np"/><s n="cog"/></l>    <r>Xizriyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Xizriyeva<s n="np"/><s n="cog"/></l>    <r>Xizriyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Xmelnitskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xmelnitskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Xmelnitski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xmelnitski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Xoshim<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xoshim<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24399,10 +24399,10 @@
 <e>       <p><l>Xristofiyas<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xristofiyas<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Xristofyas<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xristofyas<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Xrnchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Xrnchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yagyayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yagyayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yagʻyayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yaǵyayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yagyayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yagyayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yagʻyayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yaǵyayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yagyayev<s n="np"/><s n="cog"/></l>    <r>Yagyayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yagʻyayev<s n="np"/><s n="cog"/></l>    <r>Yaǵyayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yagyayeva<s n="np"/><s n="cog"/></l>    <r>Yagyayeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yagʻyayeva<s n="np"/><s n="cog"/></l>    <r>Yaǵyayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yahich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yahich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yaitskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yaitskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yaitski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yaitski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24423,8 +24423,8 @@
 <e>       <p><l>Yasinski<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yasinski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yasinskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yasinskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yatsenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yatsenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yazichiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yazichiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yazichiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yazichiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yazichiyev<s n="np"/><s n="cog"/></l>    <r>Yazichiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yazichiyeva<s n="np"/><s n="cog"/></l>    <r>Yazichiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yazov<s n="np"/><s n="cog"/></l>    <r>Yazov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yazova<s n="np"/><s n="cog"/></l>    <r>Yazova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yefremov<s n="np"/><s n="cog"/></l>    <r>Yefremov<s n="np"/><s n="cog"/></r></p></e>
@@ -24434,24 +24434,24 @@
 <e>       <p><l>Yelavich<s n="np"/><s n="pat"/></l>    <r>Yelavich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Yelenkovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yelenkovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yelenovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yelenovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yeliseyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yeliseyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yeliseyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yeliseyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yeliseyev<s n="np"/><s n="cog"/></l>    <r>Yeliseyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yeliseyeva<s n="np"/><s n="cog"/></l>    <r>Yeliseyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yemchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yemchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yemelyanov<s n="np"/><s n="cog"/></l>    <r>Yemelyanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yemelyanova<s n="np"/><s n="cog"/></l>    <r>Yemelyanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yenhey<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yenhey<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yensen<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yensen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yeremenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yeremenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yeremeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yeremeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yeremeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yeremeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yeremeyev<s n="np"/><s n="cog"/></l>    <r>Yeremeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yeremeyeva<s n="np"/><s n="cog"/></l>    <r>Yeremeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yereshchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yereshchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yermakov<s n="np"/><s n="cog"/></l>    <r>Yermakov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yermakova<s n="np"/><s n="cog"/></l>    <r>Yermakova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Yermolayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yermolayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yermolayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yermolayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yermolayev<s n="np"/><s n="cog"/></l>    <r>Yermolayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yermolayeva<s n="np"/><s n="cog"/></l>    <r>Yermolayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yermolenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yermolenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yerofeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yerofeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yerofeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yerofeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yerofeyev<s n="np"/><s n="cog"/></l>    <r>Yerofeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yerofeyeva<s n="np"/><s n="cog"/></l>    <r>Yerofeyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yeroʻmenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yerómenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yesevi<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yesevi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yevtushenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yevtushenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24473,8 +24473,8 @@
 <e>       <p><l>Yurchich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yurchich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yurov<s n="np"/><s n="cog"/></l>    <r>Yurov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yurova<s n="np"/><s n="cog"/></l>    <r>Yurova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Yuryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yuryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yuryeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yuryeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Yuryev<s n="np"/><s n="cog"/></l>    <r>Yuryev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yuryeva<s n="np"/><s n="cog"/></l>    <r>Yuryeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yuryevna<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yuryevna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yushchenko<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yushchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Yusufbasich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yusufbasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -24504,8 +24504,8 @@
 <e>       <p><l>Zaynidinova<s n="np"/><s n="cog"/></l>    <r>Zaynidinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Zayonchkovskaya<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zayonchkovskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Zayonchkovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zayonchkovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Zaytullayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zaytullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Zaytullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zaytullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Zaytullayev<s n="np"/><s n="cog"/></l>    <r>Zaytullayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Zaytullayeva<s n="np"/><s n="cog"/></l>    <r>Zaytullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Zbanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zbanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Zderich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zderich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Zdravkovich<s n="np"/><s n="pat"/></l>    <r>Zdravkovich<s n="np"/><s n="pat"/></r></p></e>
@@ -24569,8 +24569,8 @@
 <e>       <p><l>Zurabov<s n="np"/><s n="cog"/></l>    <r>Zurabov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Zurabova<s n="np"/><s n="cog"/></l>    <r>Zurabova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Zuvanich<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zuvanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Zuyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zuyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Zuyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zuyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Zuyev<s n="np"/><s n="cog"/></l>    <r>Zuyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Zuyeva<s n="np"/><s n="cog"/></l>    <r>Zuyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Zvenkovskiy<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Zvenkovskiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Zvetkovich<s n="np"/><s n="pat"/></l>    <r>Zvetkovich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Zviyanovich<s n="np"/><s n="pat"/></l>    <r>Zviyanovich<s n="np"/><s n="pat"/></r></p></e>
@@ -24658,7 +24658,7 @@
 
 <e>       <p><l>Abdennanov<s n="np"/><s n="cog"/></l>    <r>Abdennanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abdennanova<s n="np"/><s n="cog"/></l>    <r>Abdennanova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Abdullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Abdullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdullayeva<s n="np"/><s n="cog"/></l>    <r>Abdullayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abdurrahmanov<s n="np"/><s n="cog"/></l>    <r>Abdurrahmanov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Abdurrahmanova<s n="np"/><s n="cog"/></l>    <r>Abdurrahmanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ahmetov<s n="np"/><s n="cog"/></l>    <r>Ahmetov<s n="np"/><s n="cog"/></r></p></e>
@@ -24677,8 +24677,8 @@
 <e>       <p><l>Alimova<s n="np"/><s n="cog"/></l>    <r>Alimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ametov<s n="np"/><s n="cog"/></l>    <r>Ametov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ametova<s n="np"/><s n="cog"/></l>    <r>Ametova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Andreyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Andreyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Andreyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Andreyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andreyev<s n="np"/><s n="cog"/></l>    <r>Andreyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Andreyeva<s n="np"/><s n="cog"/></l>    <r>Andreyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Antonov<s n="np"/><s n="cog"/></l>    <r>Antonov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Antonova<s n="np"/><s n="cog"/></l>    <r>Antonova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Appazov<s n="np"/><s n="cog"/></l>    <r>Appazov<s n="np"/><s n="cog"/></r></p></e>
@@ -24689,8 +24689,8 @@
 <e>       <p><l>Asanova<s n="np"/><s n="cog"/></l>    <r>Asanova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Asparuhov<s n="np"/><s n="cog"/></l>    <r>Asparuhov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Asparuhova<s n="np"/><s n="cog"/></l>    <r>Asparuhova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Atambayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Atambayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Atambayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Atambayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atambayev<s n="np"/><s n="cog"/></l>    <r>Atambayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Atambayeva<s n="np"/><s n="cog"/></l>    <r>Atambayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Atanasov<s n="np"/><s n="cog"/></l>    <r>Atanasov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Atanasova<s n="np"/><s n="cog"/></l>    <r>Atanasova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Ayvazov<s n="np"/><s n="cog"/></l>    <r>Ayvazov<s n="np"/><s n="cog"/></r></p></e>
@@ -24737,10 +24737,10 @@
 <e>       <p><l>Gerdzhikova<s n="np"/><s n="cog"/></l>    <r>Gerdzhikova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gerjikov<s n="np"/><s n="cog"/></l>    <r>Gerjikov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gerjikova<s n="np"/><s n="cog"/></l>    <r>Gerjikova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Gordeyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gordeyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Gordeyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Gordeyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Goʻrev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Górev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Goʻreva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Góreva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Gordeyev<s n="np"/><s n="cog"/></l>    <r>Gordeyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Gordeyeva<s n="np"/><s n="cog"/></l>    <r>Gordeyeva<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Goʻrev<s n="np"/><s n="cog"/></l>    <r>Górev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Goʻreva<s n="np"/><s n="cog"/></l>    <r>Góreva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Grigorov<s n="np"/><s n="cog"/></l>    <r>Grigorov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Grigorova<s n="np"/><s n="cog"/></l>    <r>Grigorova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Gulmemmedov<s n="np"/><s n="cog"/></l>    <r>Gulmemmedov<s n="np"/><s n="cog"/></r></p></e>
@@ -24809,8 +24809,8 @@
 <e>       <p><l>Nalbandova<s n="np"/><s n="cog"/></l>    <r>Nalbandova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nikiforov<s n="np"/><s n="cog"/></l>    <r>Nikiforov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nikiforova<s n="np"/><s n="cog"/></l>    <r>Nikiforova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Nikolayev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nikolayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Nikolayeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Nikolayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Nikolayev<s n="np"/><s n="cog"/></l>    <r>Nikolayev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Nikolayeva<s n="np"/><s n="cog"/></l>    <r>Nikolayeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nikolov<s n="np"/><s n="cog"/></l>    <r>Nikolov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Nikolova<s n="np"/><s n="cog"/></l>    <r>Nikolova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Novikov<s n="np"/><s n="cog"/></l>    <r>Novikov<s n="np"/><s n="cog"/></r></p></e>
@@ -24857,8 +24857,8 @@
 <e>       <p><l>Selimova<s n="np"/><s n="cog"/></l>    <r>Selimova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sentsov<s n="np"/><s n="cog"/></l>    <r>Sentsov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sentsova<s n="np"/><s n="cog"/></l>    <r>Sentsova<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Shaymiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shaymiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Shaymiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shaymiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Shaymiyev<s n="np"/><s n="cog"/></l>    <r>Shaymiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Shaymiyeva<s n="np"/><s n="cog"/></l>    <r>Shaymiyeva<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sherfetdinov<s n="np"/><s n="cog"/></l>    <r>Sherfetdinov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Sherfetdinova<s n="np"/><s n="cog"/></l>    <r>Sherfetdinova<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Shurov<s n="np"/><s n="cog"/></l>    <r>Shurov<s n="np"/><s n="cog"/></r></p></e>
@@ -24930,34 +24930,34 @@
 <e>       <p><l>Yunusov<s n="np"/><s n="cog"/></l>    <r>Yunusov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yunusova<s n="np"/><s n="cog"/></l>    <r>Yunusova<s n="np"/><s n="cog"/></r></p></e>
 
-<e>       <p><l>Alekseyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Alekseyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Anatolyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Anatolyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alekseyev<s n="np"/><s n="cog"/></l>    <r>Alekseyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Anatolyev<s n="np"/><s n="cog"/></l>    <r>Anatolyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Anatolyevich<s n="np"/><s n="pat"/></l>    <r>Anatolyevich<s n="np"/><s n="pat"/></r></p></e>
 <e>       <p><l>Bogdanov<s n="np"/><s n="cog"/></l>    <r>Bogdanov<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Buharev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Buharev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Dmitriyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Dmitriyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Buharev<s n="np"/><s n="cog"/></l>    <r>Buharev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Dmitriyev<s n="np"/><s n="cog"/></l>    <r>Dmitriyev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Firkov<s n="np"/><s n="cog"/></l>    <r>Firkov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Fyodrovich<s n="np"/><s n="pat"/></l>    <r>Fyodrovich<s n="np"/><s n="pat"/></r></p></e>
-<e>       <p><l>Georgiyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Georgiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Igorev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Igorev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Georgiyev<s n="np"/><s n="cog"/></l>    <r>Georgiyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Igorev<s n="np"/><s n="cog"/></l>    <r>Igorev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Iyosifov<s n="np"/><s n="cog"/></l>    <r>Iyosifov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Leonidov<s n="np"/><s n="cog"/></l>    <r>Leonidov<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Markev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Markev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mitskev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Mitskev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Muzdev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Muzdev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Ognev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Ognev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Markev<s n="np"/><s n="cog"/></l>    <r>Markev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Mitskev<s n="np"/><s n="cog"/></l>    <r>Mitskev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Muzdev<s n="np"/><s n="cog"/></l>    <r>Muzdev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Ognev<s n="np"/><s n="cog"/></l>    <r>Ognev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Samoylov<s n="np"/><s n="cog"/></l>    <r>Samoylov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Semenov<s n="np"/><s n="cog"/></l>    <r>Semenov<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Senkev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Senkev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Shinkev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shinkev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Shinkiev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Shinkiev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Sulkev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Sulkev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Tsentkyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Tsentkyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Turev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Turev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Valeryev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Valeryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Senkev<s n="np"/><s n="cog"/></l>    <r>Senkev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Shinkev<s n="np"/><s n="cog"/></l>    <r>Shinkev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Shinkiev<s n="np"/><s n="cog"/></l>    <r>Shinkiev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Sulkev<s n="np"/><s n="cog"/></l>    <r>Sulkev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Tsentkyev<s n="np"/><s n="cog"/></l>    <r>Tsentkyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Turev<s n="np"/><s n="cog"/></l>    <r>Turev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Valeryev<s n="np"/><s n="cog"/></l>    <r>Valeryev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Viktorov<s n="np"/><s n="cog"/></l>    <r>Viktorov<s n="np"/><s n="cog"/></r></p></e>
-<e>       <p><l>Vitalyev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Vitalyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Yakovlev<s n="np"/><s n="cog"/><s n="mf"/></l>    <r>Yakovlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Vitalyev<s n="np"/><s n="cog"/></l>    <r>Vitalyev<s n="np"/><s n="cog"/></r></p></e>
+<e>       <p><l>Yakovlev<s n="np"/><s n="cog"/></l>    <r>Yakovlev<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yanukov<s n="np"/><s n="cog"/></l>    <r>Yanukov<s n="np"/><s n="cog"/></r></p></e>
 <e>       <p><l>Yaroslavov<s n="np"/><s n="cog"/></l>    <r>Yaroslavov<s n="np"/><s n="cog"/></r></p></e>
 
