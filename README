@@ -1,14 +1,14 @@
-Uzbek and Kara-Kalpak
+Uzbek and Qaraqalpaq
 
                             apertium-uzb-kaa
 ===============================================================================
 
 This is an Apertium language pair for translating between Uzbek and
-Kara-Kalpak. What you can use this language package for:
+Qaraqalpaq. What you can use this language package for:
 
-* Translating between Uzbek and Kara-Kalpak
-* Morphological analysis of Uzbek and Kara-Kalpak
-* Part-of-speech tagging of Uzbek and Kara-Kalpak
+* Translating between Uzbek and Qaraqalpaq
+* Morphological analysis of Uzbek and Qaraqalpaq
+* Part-of-speech tagging of Uzbek and Qaraqalpaq
 
 For information on the latter two points, see subheading "For more
 information" below
@@ -62,13 +62,13 @@ Files and data
 
 * apertium-uzb-kaa.uzb-kaa.dix  - Bilingual dictionary
 * apertium-uzb-kaa.uzb-kaa.t1x  - Chunking rules for translating into Uzbek
-* apertium-uzb-kaa.kaa-uzb.t1x  - Chunking rules for translating into Kara-Kalpak
+* apertium-uzb-kaa.kaa-uzb.t1x  - Chunking rules for translating into Qaraqalpaq
 * apertium-uzb-kaa.uzb-kaa.t2x  - Interchunk rules for translating into Uzbek
-* apertium-uzb-kaa.kaa-uzb.t2x  - Interchunk rules for translating into Kara-Kalpak
+* apertium-uzb-kaa.kaa-uzb.t2x  - Interchunk rules for translating into Qaraqalpaq
 * apertium-uzb-kaa.uzb-kaa.t3x  - Postchunk rules for translating into Uzbek
-* apertium-uzb-kaa.kaa-uzb.t3x  - Postchunk rules for translating into Kara-Kalpak
+* apertium-uzb-kaa.kaa-uzb.t3x  - Postchunk rules for translating into Qaraqalpaq
 * apertium-uzb-kaa.uzb-kaa.lrx  - Lexical selection rules for translating into Uzbek
-* apertium-uzb-kaa.kaa-uzb.lrx  - Lexical selection rules for translating into Kara-Kalpak
+* apertium-uzb-kaa.kaa-uzb.lrx  - Lexical selection rules for translating into Qaraqalpaq
 * modes.xml                     - Translation modes
 
 For more information
