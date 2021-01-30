@@ -7501,6 +7501,7 @@
 <e>       <p><l>qizilcha<s n="n"/></l>                 <r>qızılsha<s n="n"/></r></p></e>
 <e>       <p><l>qizillik<s n="n"/></l>                 <r>qızıllıq<s n="n"/></r></p></e>
 <e>       <p><l>qiziq<s n="n"/></l>                    <r>qızıq<s n="n"/></r></p></e>
+<e>       <p><l>qiziq<s n="v"/><s n="iv"/></l>         <r>qızıq<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>qiziqchilik<s n="n"/></l>              <r>masqarapazlıq<s n="n"/></r></p></e>
 <e>       <p><l>qiziqish<s n="n"/></l>                 <r>qızıǵıwshılıq<s n="n"/></r></p></e>
 <e>       <p><l>qiziqlik<s n="n"/></l>                 <r>qızıqlıq<s n="n"/></r></p></e>
@@ -13194,8 +13195,8 @@
 <e>       <p><l>nosogʻ<s n="adj"/></l>                 <r>awırıw<s n="adj"/></r></p></e>
 <e>       <p><l>nosogʻlik<s n="n"/></l>                <r>awırıw<s n="n"/></r></p></e>
 <e>       <p><l>notinchlan<s n="v"/><s n="iv"/></l>    <r>alaǵadalan<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>notugʻri<s n="adj"/></l>               <r>nadurıs<s n="adj"/></r></p></e>
-<e>       <p><l>notugʻrilik<s n="n"/></l>              <r>nadurıslıq<s n="n"/></r></p></e>
+<e>       <p><l>notoʻgʻri<s n="adj"/></l>              <r>nadurıs<s n="adj"/></r></p></e>
+<e>       <p><l>notoʻgʻrilik<s n="n"/></l>             <r>nadurıslıq<s n="n"/></r></p></e>
 <e>       <p><l>novshadil<s n="n"/></l>                <r>nashatır<s n="n"/></r></p></e>
 <e>       <p><l>noxushlyk<s n="n"/></l>                <r>qolaysızlyk<s n="n"/></r></p></e>
 <e>       <p><l>noyambr<s n="n"/></l>                  <r>noyambr<s n="n"/></r></p></e>
@@ -16879,6 +16880,7 @@
 <e>       <p><l>ushshoq<s n="n"/></l>                  <r>ushshaq<s n="n"/></r></p></e>
 <e>       <p><l>ushuk<s n="n"/></l>                    <r>ayaz<s n="n"/></r></p></e>
 <e>       <p><l>uskunalashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>úskenelewtir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
+<e>       <p><l>usmonli<s n="n"/></l>                  <r>osmanlı<s n="n"/></r></p></e>
 <e>       <p><l>util<s n="n"/></l>                     <r>util<s n="n"/></r></p></e>
 <e>       <p><l>uvalash<s n="v"/><s n="iv"/><s n="coop"/></l><r>maydalaw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>uvali<s n="n"/></l>                    <r>uwlı<s n="n"/></r></p></e>
