@@ -16,6 +16,9 @@
       <!--program name="apertium-tagger -g $2">
         <file name="uzb-kaa.prob"/>
       </program-->
+      <program name="lsx-proc">
+        <file name="uzb-kaa.autoseq.bin"/>
+      </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="uzb-kaa.autobil.bin"/>
@@ -28,6 +31,10 @@
       <program name="rtx-proc">
         <file name="uzb-kaa.rtx.bin"/>
       </program>
+      <program name="lsx-proc" debug-suff="revautoseq">
+        <file name="uzb-kaa.revautoseq.bin"/>
+      </program>
+
       <program name="lt-proc $1">
         <file name="uzb-kaa.autogen.bin"/>
       </program>
@@ -78,7 +85,9 @@
       <!--program name="apertium-tagger -g $2">
         <file name="kaa-uzb.prob"/>
       </program-->
-
+      <program name="lsx-proc">
+        <file name="kaa-uzb.autoseq.bin"/>
+      </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="kaa-uzb.autobil.bin"/>
@@ -91,6 +100,10 @@
       <program name="rtx-proc">
         <file name="kaa-uzb.rtx.bin"/>
       </program>
+      <program name="lsx-proc" debug-suff="revautoseq">
+        <file name="kaa-uzb.revautoseq.bin"/>
+      </program>
+
       <program name="lt-proc $1">
         <file name="kaa-uzb.autogen.bin"/>
       </program>

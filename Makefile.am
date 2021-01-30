@@ -18,6 +18,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
+	$(PREFIX1).autoseq.bin	\
+	$(PREFIX1).revautoseq.bin	\
 	$(PREFIX1).rtx.bin	\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).rlx.bin	\
@@ -25,6 +27,8 @@ TARGETS_COMMON =		\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2).autogen.bin	\
 	$(PREFIX2).autopgen.bin	\
+	$(PREFIX2).autoseq.bin	\
+	$(PREFIX2).revautoseq.bin	\
 	$(PREFIX2).rtx.bin
 
 
@@ -135,6 +139,22 @@ $(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
 
 $(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
 	lrx-comp $< $@
+
+###############################################################################
+## Multiword expressions
+###############################################################################
+
+$(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
+	lsx-comp lr $< $@
+
+$(PREFIX2).autoseq.bin: $(BASENAME).$(PREFIX2).lsx
+	lsx-comp lr $< $@
+
+$(PREFIX1).revautoseq.bin: $(BASENAME).$(PREFIX1).lsx
+	lsx-comp rl $< $@
+
+$(PREFIX2).revautoseq.bin: $(BASENAME).$(PREFIX2).lsx
+	lsx-comp rl $< $@
 
 ###############################################################################
 ## Structural transfer rules
