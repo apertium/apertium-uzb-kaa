@@ -16733,6 +16733,7 @@
 <e>       <p><l>tunbosh<s n="n"/></l>                  <r>piteli jay<s n="n"/></r></p></e>
 <e>       <p><l>tundlash<s n="v"/><s n="iv"/></l>      <r>qopal sóylew<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>tuplash<s n="v"/><s n="iv"/><s n="coop"/></l><r>túkiriw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>tuproq<s n="n"/></l>          <r>topıraq<s n="n"/></r></p></e>
 <e>       <p><l>tuproqshunosliq<s n="n"/></l>          <r>topraqshunosliq<s n="n"/></r></p></e>
 <e>       <p><l>turangʻi<s n="n"/></l>                 <r>aq terek<s n="n"/></r></p></e>
 <e>       <p><l>turar-joy<s n="n"/></l>                <r>turar-jay<s n="n"/></r></p></e>
@@ -16985,7 +16986,8 @@
 <e>       <p><l>xaiqirish<s n="v"/><s n="iv"/><s n="coop"/></l><r>qayqırıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>xairlashil<s n="v"/><s n="iv"/><s n="refl"/></l><r>qayrlas<s n="v"/><s n="iv"/><s n="refl"/></r></p></e>
 <e>       <p><l>xalakash<s n="n"/></l>                 <r>eshek<s n="n"/></r></p></e>
-<e>       <p><l>xalk<s n="n"/></l>                     <r>xalıq<s n="n"/></r></p></e>
+<e r="LR"><p><l>xalk<s n="n"/></l>                     <r>xalıq<s n="n"/></r></p></e>
+<e>       <p><l>xalq<s n="n"/></l>                     <r>xalıq<s n="n"/></r></p></e>
 <e>       <p><l>xalqparvarlik{K}<s n="n"/></l>         <r>xalıqparvar<s n="n"/></r></p></e>
 <e>       <p><l>xarakterlan<s n="v"/><s n="tv"/></l>   <r>xarakterlen<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>xargoʻsh<s n="n"/></l>                 <r>qoyan<s n="n"/></r></p></e>
@@ -17567,8 +17569,9 @@
 <e>       <p><l>yuvoshlash<s n="v"/><s n="iv"/></l>    <r>juwaslaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yuvoshlik<s n="n"/></l>                <r>juwaslıq<s n="n"/></r></p></e>
 <e>       <p><l>yuvundixoʻr<s n="n"/></l>              <r>malay<s n="n"/></r></p></e>
-<e>       <p><l>yuzboshi<s n="n"/></l>                 <r>júz bası<s n="n"/></r></p></e>
-<e>       <p><l>yuzboshilik<s n="n"/></l>              <r>júzlik basshısı<s n="n"/></r></p></e>
+<e>       <p><l>yuz<s n="n"/></l>                      <r>júz<s n="n"/></r></p></e>
+<e>       <p><l>yuzboshi<s n="n"/></l>                 <r>júz<b/>bası<s n="n"/></r></p></e>
+<e>       <p><l>yuzboshilik<s n="n"/></l>              <r>júzlik<b/>basshısı<s n="n"/></r></p></e>
 <e>       <p><l>yuzlashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>júzlestir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>yuzpana<s n="n"/></l>                  <r>júzpana<s n="n"/></r></p></e>
 <e>       <p><l>z<s n="mist"/></l>                     <r>z<s n="mist"/></r></p></e>
