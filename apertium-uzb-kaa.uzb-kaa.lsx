@@ -7,6 +7,10 @@
 		<sdef n="pr"/>
 		<sdef n="n"/>
 		<sdef n="v"/>
+		<sdef n="iv"/>
+		<sdef n="tv"/>
+		<sdef n="nom"/>
+		<sdef n="acc"/>
 		<sdef n="vblex"/>
 		<sdef n="vbser"/>
 		<sdef n="det"/>
@@ -46,17 +50,12 @@
       ^take# out<vblex>...$ [noun phrase]
   -->
 
-		<e lm="take out" c="sacar">
+		<e lm="istiqomat qil" c="jasa">
 			<p>
-				<l>take<s n="vblex"/></l>
-				<r>take<b/>out<s n="vblex"/></r>
+				<l>istiqomat<s n="n"/><s n="nom"/><j/>qil<s n="v"/><s n="tv"/></l>
+				<r>istiqomat<b/>qil<s n="v"/><s n="iv"/><j/></r>
 			</p>
 			<i><t/><j/></i>
-			<par n="SN"/>
-			<p>
-				<l>out<s n="adv"/><j/></l>
-				<r></r>
-			</p>
 		</e>
 	</section>
 </dictionary>
@@ -65,4 +64,3 @@
 Resources:
     http://wiki.apertium.org/wiki/Apertium_separable
 -->
-
