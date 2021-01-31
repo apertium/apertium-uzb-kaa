@@ -240,7 +240,7 @@ AdvP ->
 		%AdvP qst { 1 + 2 } |
 		%AdvP emph { 1 + 2 } |
 		%AdvP mod { 1 + 2 } |
-		%AdvP cnjcoo { 1 + 2 } |
+		%AdvP da@cnjcoo { 1 + 2 } |
 		%AdvP postadv { 1 + 2 }
 		;
 
@@ -261,7 +261,7 @@ nP ->
 		n %n ?((1.possession = "") and (2.possession = px3sp)) { 1 _1 2 } |
 		%np { %1 } |
 		2: %adj.subst { %1 } |
-		%nP cnjcoo { 1 + 2 } |
+		%nP da@cnjcoo { 1 + 2 } |
 		%nP postadv { 1 + 2 }
 		;
 
@@ -271,7 +271,7 @@ aP ->
 		%aP qst { 1 + 2 } |
 		%aP emph { 1 + 2 } |
 		%aP mod { 1 + 2 } |
-		%aP cnjcoo { 1 + 2 } |
+		%aP da@cnjcoo { 1 + 2 } |
 		%aP postadv { 1 + 2 } ;
 
 AP ->
