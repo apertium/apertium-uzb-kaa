@@ -10,6 +10,7 @@
 		<sdef n="iv"/>
 		<sdef n="tv"/>
 		<sdef n="nom"/>
+		<sdef n="attr"/>
 		<sdef n="acc"/>
 		<sdef n="vblex"/>
 		<sdef n="vbser"/>
@@ -42,13 +43,6 @@
 	</pardefs>
 
 	<section id="main" type="standard">
-
-  <!--
-      This replaces
-      ^take<vblex>...$ [noun phrase] ^out<adv>$
-      with
-      ^take# out<vblex>...$ [noun phrase]
-  -->
 
 		<e lm="istiqomat qil" c="jasa">
 			<p>

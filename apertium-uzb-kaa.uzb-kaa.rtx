@@ -124,7 +124,7 @@ S: _ ;
 !!!!!!!!!!!!!!!
 
 tense > tense : pres aor ;  ! ifi past, pri pres, fti fut;
-fin_nonfin > fin_nonfin : pres aor, fut2 ifi, prog_inf prog, gna_impf gna_perf, ger_impf ger_past, ger_abst ger_impf, gpr_rsub gpr_past; ! these two might not be necessary?  copied from t1x
+fin_nonfin > fin_nonfin : pres aor, fut2 ifi, prog_inf prog, gna_impf gna_perf, ger_impf ger_past, ger_abst ger, gpr_rsub gpr_past; ! these two might not be necessary?  copied from t1x
 
 !!!!!!!!!!!!!!!
 !! MACROS
@@ -298,7 +298,7 @@ vP ->
 		%vP qst [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP emph [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP mod [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
-		%vP cnjcoo [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
+		%vP da@cnjcoo [$fin_nonfin=1.fin_nonfin] { 1 + 2 } |
 		%vP postadv [$fin_nonfin=1.fin_nonfin] { 1 + 2 }
 		!PPorAdvP %vP { 1 _1 2 }
 	;

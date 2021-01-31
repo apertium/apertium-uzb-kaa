@@ -752,6 +752,7 @@
 <e>       <p><l>tovar<s n="n"/></l>                    <r>tovar<s n="n"/></r></p></e>
 <e>       <p><l>transport<s n="n"/></l>                <r>transport<s n="n"/></r></p></e>
 <e>       <p><l>tur<s n="v"/><s n="iv"/></l>           <r>tur<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>tut<s n="v"/><s n="tv"/></l>           <r>tut<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>turk<s n="n"/></l>                     <r>túrk<s n="n"/></r></p></e>
 <e>       <p><l>uglevodorod<s n="n"/></l>              <r>uglevodorod<s n="n"/></r></p></e>
 <e>       <p><l>ul<s n="n"/></l>                       <r>ul<s n="n"/></r></p></e>
@@ -2786,7 +2787,7 @@
 <e>       <p><l>birgina<s n="adj"/></l>                <r>bir ǵana<s n="adj"/></r></p></e>
 <e>       <p><l>birikish<s n="n"/><s n="vn"/></l>      <r>birigiw<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>birikma<s n="n"/></l>                  <r>birikpe<s n="n"/></r></p></e>
-<e>       <p><l>birinchi<s n="num"/></l>               <r>birinshi<s n="num"/></r></p></e>
+<!-- e>       <p><l>birinchi<s n="num"/></l>               <r>birinshi<s n="num"/></r></p></e --><!-- this is produced automatically from bir "num" -->
 <e>       <p><l>birinchidan<s n="adv"/></l>            <r>birinshiden<s n="adv"/></r></p></e>
 <e>       <p><l>birinchilik<s n="n"/></l>              <r>birinshilik<s n="n"/></r></p></e>
 <e>       <p><l>birin-ketin<s n="adv"/></l>            <r>izbe-iz<s n="adv"/></r></p></e>
@@ -3687,7 +3688,7 @@
 <e>       <p><l>ertangi<s n="adj"/></l>                <r>erteńgi<s n="adj"/></r></p></e>
 <e>       <p><l>eruvchanlik<s n="n"/></l>              <r>eriwsheńlik<s n="n"/></r></p></e>
 <e>       <p><l>es<s n="n"/></l>                       <r>es<s n="n"/></r></p></e>
-<e>       <p><l>esa<s n="n"/></l>                      <r>bolsa<s n="n"/></r></p></e>
+<e>       <p><l>esa<s n="cnjcoo"/></l>                 <r>bolsa<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>esankirash<s n="v"/><s n="tv"/><s n="caus"/></l><r>esenkirew<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>esdalik<s n="n"/></l>                  <r>eskertkishlik<s n="n"/></r></p></e>
 <e>       <p><l>eshak<s n="n"/></l>                    <r>eshek<s n="n"/></r></p></e>
@@ -6436,7 +6437,7 @@
 <e>       <p><l>nippel<s n="n"/></l>                   <r>nippel<s n="n"/></r></p></e>
 <e>       <p><l>niqobli<s n="adj"/></l>                <r>nıqaplı<s n="adj"/></r></p></e>
 <e>       <p><l>nisbat<s n="n"/></l>                   <r>qatnas<s n="n"/></r></p></e>
-<e>       <p><l>nisbatan<s n="adj"/></l>               <r>salıstırǵanda<s n="adj"/></r></p></e>
+<e>       <p><l>nisbatan<s n="post"/></l>              <r>salıstırǵanda<s n="post"/></r></p></e>
 <e>       <p><l>nisbiy<s n="n"/></l>                   <r>salıstırmalı<s n="n"/></r></p></e>
 <e>       <p><l>nish<s n="n"/></l>                     <r>ósindi<s n="n"/></r></p></e>
 <e>       <p><l>nishab<s n="adj"/></l>                 <r>qıya<s n="adj"/></r></p></e>
@@ -7224,7 +7225,7 @@
 <e>       <p><l>qadam<s n="n"/></l>                    <r>qádem<s n="n"/></r></p></e>
 <e>       <p><l>qadama<s n="adj"/></l>                 <r>qádema<s n="adj"/></r></p></e>
 <e>       <p><l>qadamjo<s n="n"/></l>                  <r>zıyarat ornı<s n="n"/></r></p></e>
-<e>       <p><l>qadar<s n="post"/><s n="nom"/></l>     <r>shekem<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>qadar<s n="post"/></l>                 <r>shekem<s n="post"/></r></p></e>
 <e>       <p><l>qadim<s n="n"/></l>                    <r>áyyemgi<s n="n"/></r></p></e>
 <e>       <p><l>qadimdan<s n="n"/></l>                 <r>áyyemgiden<s n="n"/></r></p></e>
 <e>       <p><l>qadimgi<s n="adj"/></l>                <r>áyyemgi<s n="adj"/></r></p></e>
@@ -7601,6 +7602,7 @@
 <e>       <p><l>qudrat<s n="n"/></l>                   <r>qudıret<s n="n"/></r></p></e>
 <e>       <p><l>qudratli<s n="adj"/></l>               <r>qúdiretli<s n="adj"/></r></p></e>
 <e>       <p><l>quduq<s n="n"/></l>                    <r>qudıq<s n="n"/></r></p></e>
+<e>       <p><l>qula<s n="v"/><s n="iv"/></l>          <r>qula<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>qulay<s n="adj"/></l>                  <r>qolay<s n="adj"/></r></p></e>
 <e>       <p><l>qulaysiz<s n="adj"/></l>               <r>qolaysız<s n="adj"/></r></p></e>
 <e>       <p><l>qulchilik<s n="n"/></l>                <r>qulshılıq<s n="n"/></r></p></e>
@@ -11252,7 +11254,7 @@
 <e>       <p><l>fashistcha<s n="adj"/></l>             <r>fashistcha<s n="adj"/></r></p></e>
 <e>       <p><l>fashistlashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>fashistlashtir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>fashistlashtirish<s n="n"/><s n="vn"/></l><r>fashistlastiriw<s n="n"/><s n="vn"/></r></p></e>
-<e>       <p><l>fath<s n="n"/></l>                     <r>basıp<b/>alıw<s n="v"/><s n="tv"/><s n="ger"/></r></p></e>
+<e>       <p><l>fath<s n="n"/></l>                     <r>basıp<b/>al<s n="v"/><s n="tv"/><s n="ger"/></r></p></e>
 <e>       <p><l>feldsher<s n="n"/></l>                 <r>feldsher<s n="n"/></r></p></e>
 <e>       <p><l>feldsherlik<s n="n"/></l>              <r>feldsherlik<s n="n"/></r></p></e>
 <e>       <p><l>feleton<s n="n"/></l>                  <r>feleton<s n="n"/></r></p></e>
@@ -15860,9 +15862,9 @@
 <e>       <p><l>soʻm<s n="n"/></l>                     <r>sum<s n="n"/></r></p></e>
 <e>       <p><l>soʻna<s n="n"/></l>                    <r>sona<s n="n"/></r></p></e>
 <e>       <p><l>soʻndir<s n="v"/><s n="tv"/><s n="caus"/></l><r>sóndir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
-<e>       <p><l>soʻng<s n="post"/><s n="nom"/></l>     <r>soń<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>soʻng<s n="post"/></l>                 <r>soń<s n="post"/></r></p></e>
 <e>       <p><l>soʻngak<s n="n"/></l>                  <r>sonıaq<s n="n"/></r></p></e>
-<e>       <p><l>soʻnggi<s n="n"/></l>                  <r>sońǵı<s n="n"/></r></p></e>
+<e>       <p><l>soʻnggi<s n="adj"/></l>                <r>sońǵı<s n="adj"/></r></p></e>
 <e>       <p><l>soʻngra<s n="n"/></l>                  <r>sonnan<b/>keyin<s n="n"/></r></p></e>
 <e>       <p><l>soʻngsiz<s n="adj"/></l>               <r>sońsız<s n="adj"/></r></p></e>
 <e>       <p><l>soʻniklik<s n="n"/></l>                <r>sóniklik<s n="n"/></r></p></e>
@@ -16262,7 +16264,9 @@
 <e>       <p><l>tilyogʻlamachilik<s n="n"/></l>        <r>tili maylıshılıq<s n="n"/></r></p></e>
 <e>       <p><l>tilyogʻlamalik<s n="n"/></l>           <r>tili maylılıq<s n="n"/></r></p></e>
 <e>       <p><l>timdalash<s n="v"/><s n="tv"/><s n="coop"/></l><r>tımdalaw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
-<e>       <p><l>tinchish<s n="v"/><s n="iv"/><s n="coop"/></l><r>tınıshlanıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>tinchi<s n="v"/><s n="iv"/></l>        <r>tınıshlan<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>tinch<s n="adj"/></l>                  <r>tınısh<s n="adj"/></r></p></e>
+<e>       <p><l>tinchlik<s n="n"/></l>                 <r>tınıshlıq<s n="n"/></r></p></e>
 <e>       <p><l>tinglash<s n="v"/><s n="iv"/></l>      <r>tıńlaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>tingʻ<s n="n"/></l>                    <r>tıń<s n="n"/></r></p></e>
 <e>       <p><l>tingʻ-tingʻ<s n="adv"/></l>            <r>tıń-tıń<s n="adv"/></r></p></e>
@@ -17237,6 +17241,7 @@
 <e>       <p><l>yasanish<s n="v"/><s n="iv"/><s n="coop"/></l><r>jasanıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>yashart<s n="v"/><s n="tv"/><s n="caus"/></l><r>jasart<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>yashat<s n="v"/><s n="tv"/><s n="caus"/></l><r>yashat<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
+<e>       <p><l>yasha<s n="v"/><s n="iv"/></l>         <r>jasa<s n="v"/><s n="iv"/></r></p></e><!-- "live" -->
 <e>       <p><l>yashiksoz<s n="n"/></l>                <r>yashiksaz<s n="n"/></r></p></e>
 <e>       <p><l>yashiksozlik<s n="n"/></l>             <r>yashiksazlıq<s n="n"/></r></p></e>
 <e>       <p><l>yashillan<s n="v"/><s n="iv"/></l>     <r>jasıllan<s n="v"/><s n="iv"/></r></p></e>
@@ -17353,6 +17358,7 @@
 <e>       <p><l>yilgacha<s n="adv"/></l>               <r>jılǵasha<s n="adv"/></r></p></e>
 <e>       <p><l>yilt-yilt<s n="n"/><s n="v"/></l>      <r>yilt-yilt<s n="n"/><s n="v"/></r></p></e>
 <e>       <p><l>yiltirash<s n="n"/><s n="vn"/></l>     <r>jıltıraw<s n="n"/><s n="vn"/></r></p></e>
+<e>       <p><l>yil<s n="n"/></l>                      <r>jıl<s n="n"/></r></p></e><!-- "year" -->
 <e>       <p><l>yiriklash<s n="v"/><s n="iv"/></l>     <r>irilew<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yiriklashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>irilestir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>yiringlash<s n="n"/></l>               <r>irińlew<s n="n"/></r></p></e>
@@ -19553,6 +19559,7 @@
 <e>       <p><l>ushbu<s n="det"/><s n="dem"/></l>       <r>usı<s n="det"/><s n="dem"/></r></p></e>
 <e r="LR"><p><l>shu<s n="det"/><s n="dem"/></l>         <r>usı<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>qay<s n="det"/><s n="dem"/></l>         <r>qay<s n="det"/><s n="itg"/></r></p></e>
+<e>       <p><l>qaysi<s n="det"/><s n="dem"/></l>       <r>qaysı<s n="det"/><s n="itg"/></r></p></e>
 <e>       <p><l>osha<s n="det"/><s n="dem"/></l>        <r>sol<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>u<s n="det"/><s n="dem"/></l>           <r>ol<s n="det"/><s n="dem"/></r></p></e>
 
