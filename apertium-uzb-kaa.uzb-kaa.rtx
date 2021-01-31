@@ -26,7 +26,7 @@ polarity = neg ;
 
 possession = px1sg px1pl px2sg px2pl px3sp ;
 
-case = nom acc gen dat loc abl ins CD ; ! (CD nom)
+case = nom acc gen dat loc abl ins sim CD ; ! (CD nom)
 attr = attr ;
 
 n_person = (PD p3) p1 p2 p3 PD ;
@@ -99,7 +99,7 @@ mod: _ ;
 
 VP: _.transitivity.voice_a.voice_b.voice_c.fin_nonfin.polarity.v_person.formality.v_number ;
 
-n: _.n_number.possession.case.attr ;
+n_normal: _.n_number.possession.case.attr ;
 nP: _.n_number.possession.case ;
 NP: _.n_number.possession.case ;
 
@@ -129,6 +129,12 @@ fin_nonfin > fin_nonfin : pres aor, fut2 ifi, prog_inf prog, gna_impf gna_perf, 
 !!!!!!!!!!!!!!!
 !! MACROS
 !!!!!!!!!!!!!!!
+
+n: (if (1.pos_tag/tl = v)
+       1(v)
+    else
+       1(n_normal)
+   );
 
 det: (if (1.det_type = def or 1.det_type = ind)
          1(det_def)
