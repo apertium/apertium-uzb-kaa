@@ -268,7 +268,10 @@ nP ->
 		%np { %1 } |
 		2: %adj.subst { %1 } |
 		%nP da@cnjcoo { 1 + 2 } |
-		%nP postadv { 1 + 2 }
+		%nP postadv { 1 + 2 } |
+		%nP li@post { 1 + 2 } |
+		%nP siz@post { 1 + 2 } |
+		%nP cha@post { 1 + 2 }
 		;
 
 aP ->

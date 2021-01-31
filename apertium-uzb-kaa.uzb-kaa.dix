@@ -3778,7 +3778,7 @@
 <e>       <p><l>faoliyat<s n="n"/></l>                 <r>iskerlik<s n="n"/></r></p></e>
 <e>       <p><l>faoliyatsiz<s n="adj"/></l>            <r>iskerliksiz<s n="adj"/></r></p></e>
 <e>       <p><l>faoliyatsizlik<s n="n"/></l>           <r>háreketsizlik<s n="n"/></r></p></e>
-<e>       <p><l>faqat<s n="post"/><s n="adv"/></l>     <r>tek<s n="post"/><s n="adv"/></r></p></e>
+<e>       <p><l>faqat<s n="post"/></l>                 <r>tek<s n="post"/></r></p></e>
 <e>       <p><l>faqir<s n="adj"/></l>                  <r>mútáj<s n="adj"/></r></p></e>
 <e>       <p><l>faqirlik<s n="n"/></l>                 <r>mútájlıq<s n="n"/></r></p></e>
 <e>       <p><l>faqirona<s n="n"/></l>                 <r>mútájona<s n="n"/></r></p></e>
@@ -12670,7 +12670,9 @@
 <e>       <p><l>legallashtirish<s n="n"/><s n="vn"/></l><r>legallashtirish<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>leksion<s n="adj"/></l>                <r>leksion<s n="adj"/></r></p></e>
 <e>       <p><l>les<s n="np"/><s n="al"/></l>          <r>les<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>li<s n="mist"/></l>                    <r>lı<s n="mist"/></r></p></e>
+<e>       <p><l>li<s n="post"/></l>                    <r>lı<s n="post"/></r></p></e>
+<e>       <p><l>siz<s n="post"/></l>                   <r>sız<s n="post"/></r></p></e>
+<e>       <p><l>cha<s n="post"/></l>                   <r>she<s n="post"/></r></p></e>
 <e>       <p><l>lik-lik<s n="n"/><s n="v"/></l>        <r>lik-lik<s n="n"/><s n="v"/></r></p></e>
 <e>       <p><l>lip-lip<s n="adj"/></l>                <r>lip-lip<s n="adj"/></r></p></e>
 <e>       <p><l>liqir-liqir<s n="ideo"/></l>           <r>liqir-liqir<s n="ideo"/></r></p></e>
