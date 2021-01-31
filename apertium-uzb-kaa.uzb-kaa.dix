@@ -926,7 +926,7 @@
 <e>       <p><l>avboshlik<s n="n"/></l>                <r>xuliganlıq<s n="n"/></r></p></e>
 <e>       <p><l>avval<s n="adv"/></l>                  <r>dáslep<s n="adv"/></r></p></e>
 <e>       <p><l>avval<s n="n"/></l>                    <r>dáslep<s n="n"/></r></p></e>
-<e>       <p><l>avval<s n="post"/><s n="abl"/></l>     <r>dáslep<s n="post"/><s n="abl"/></r></p></e>
+<e>       <p><l>avval<s n="post"/></l>                 <r>dáslep<s n="post"/></r></p></e>
 <e>       <p><l>avvalan<s n="adv"/></l>                <r>aldınala<s n="adv"/></r></p></e>
 <e>       <p><l>avval<s n="adv"/><s n="attr"/></l>     <r>aldınǵı<s n="adv"/><s n="attr"/></r></p></e>
 <e>       <p><l>avvalgidek<s n="adv"/></l>             <r>dáslepkidey<s n="adv"/></r></p></e>
@@ -2684,7 +2684,7 @@
 <e>       <p><l>bequvvat<s n="adj"/></l>               <r>quwatsız<s n="adj"/></r></p></e>
 <e>       <p><l>berahm<s n="adj"/></l>                 <r>reyimsiz<s n="adj"/></r></p></e>
 <e>       <p><l>berahmlik<s n="n"/></l>                <r>reyimsizlik<s n="n"/></r></p></e>
-<e>       <p><l>beri<s n="post"/><s n="abl"/></l>      <r>berli<s n="post"/><s n="abl"/></r></p></e>
+<e>       <p><l>beri<s n="post"/></l>                  <r>berli<s n="post"/></r></p></e>
 <e>       <p><l>berilgan<s n="adj"/></l>               <r>berilgen<s n="adj"/></r></p></e>
 <e>       <p><l>berilganlik<s n="n"/></l>              <r>berilgenlik<s n="n"/></r></p></e>
 <e>       <p><l>berilish<s n="v"/><s n="iv"/><s n="coop"/></l><r>beriliw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
@@ -2745,7 +2745,7 @@
 <e>       <p><l>bidon<s n="n"/></l>                    <r>bidon<s n="n"/></r></p></e>
 <e>       <p><l>bigiz<s n="n"/></l>                    <r>biz<s n="n"/></r></p></e>
 <e>       <p><l>bikir<s n="adj"/></l>                  <r>quwatlı<s n="adj"/></r></p></e>
-<e>       <p><l>bila<s n="post"/><s n="nom"/><s n="gen"/></l><r>bile<s n="post"/><s n="nom"/><s n="gen"/></r></p></e>
+<e>       <p><l>bila<s n="post"/></l>                  <r>bile<s n="post"/></r></p></e>
 <e>       <p><l>bilaguzuk<s n="n"/></l>                <r>bilezik<s n="n"/></r></p></e>
 <e>       <p><l>bilak<s n="n"/></l>                    <r>bilek<s n="n"/></r></p></e>
 <e>       <p><l>bilan<s n="post"/></l>                 <r>menen<s n="post"/></r></p></e>
@@ -2767,7 +2767,7 @@
 <e>       <p><l>binafsha<s n="n"/></l>                 <r>Biynápshe gúli<s n="n"/></r></p></e>
 <e>       <p><l>binar<s n="adj"/></l>                  <r>binar<s n="adj"/></r></p></e>
 <e>       <p><l>bino<s n="n"/></l>                     <r>jay<s n="n"/></r></p></e>
-<e>       <p><l>binoan<s n="post"/><s n="dat"/></l>    <r>qaray<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>binoan<s n="post"/></l>                <r>qaray<s n="post"/></r></p></e>
 <e>       <p><l>binobarin<s n="cnjsub"/></l>           <r>sonlıqtan<s n="cnjsub"/></r></p></e>
 <e>       <p><l>binokl<s n="n"/></l>                   <r>bınakl<s n="n"/></r></p></e>
 <e>       <p><l>binokor<s n="n"/></l>                  <r>qurılısshı<s n="n"/></r></p></e>
@@ -2782,7 +2782,7 @@
 <e>       <p><l>birdamlik<s n="n"/></l>                <r>tilekleslik<s n="n"/></r></p></e>
 <e>       <p><l>birdan<s n="adv"/></l>                 <r>birden<s n="adv"/></r></p></e>
 <e>       <p><l>birday<s n="adj"/></l>                 <r>birdey<s n="adj"/></r></p></e>
-<e>       <p><l>birga<s n="post"/><s n="nom"/></l>     <r>birge<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>birga<s n="post"/></l>                 <r>birge<s n="post"/></r></p></e>
 <e>       <p><l>birgalik<s n="n"/></l>                 <r>birgelik<s n="n"/></r></p></e>
 <e>       <p><l>birgina<s n="adj"/></l>                <r>bir ǵana<s n="adj"/></r></p></e>
 <e>       <p><l>birikish<s n="n"/><s n="vn"/></l>      <r>birigiw<s n="n"/><s n="vn"/></r></p></e>
@@ -2880,7 +2880,7 @@
 <e>       <p><l>bort<s n="n"/></l>                     <r>bort<s n="n"/></r></p></e>
 <e>       <p><l>bosh<s n="n"/></l>                     <r>bas<s n="n"/></r></p></e>
 <e>       <p><l>boshchilik<s n="n"/></l>               <r>basshılıq<s n="n"/></r></p></e>
-<e>       <p><l>boshlab<s n="post"/><s n="abl"/></l>   <r>baslap<s n="post"/><s n="abl"/></r></p></e>
+<e>       <p><l>boshlab<s n="post"/></l>               <r>baslap<s n="post"/></r></p></e>
 <e>       <p><l>boshlanish<s n="n"/></l>               <r>baslanıw<s n="n"/></r></p></e>
 <e>       <p><l>boshla<s n="n"/></l>                   <r>baslaw<s n="n"/></r></p></e>
 <e>       <p><l>boshli<s n="adj"/></l>                 <r>baslı<s n="adj"/></r></p></e>
@@ -2890,7 +2890,7 @@
 <e>       <p><l>boshoqli<s n="adj"/></l>               <r>masaqlı<s n="adj"/></r></p></e>
 <e>       <p><l>boshpana<s n="n"/></l>                 <r>turar jay<s n="n"/></r></p></e>
 <e>       <p><l>boshpanasiz<s n="adj"/></l>            <r>turar jaysız<s n="adj"/></r></p></e>
-<e>       <p><l>boshqa<s n="post"/><s n="abl"/></l>    <r>basqa<s n="post"/><s n="abl"/></r></p></e>
+<e>       <p><l>boshqa<s n="post"/></l>                <r>basqa<s n="post"/></r></p></e>
 <e>       <p><l>boshqacha<s n="adj"/></l>              <r>basqasha<s n="adj"/></r></p></e>
 <e>       <p><l>boshqarish<s n="n"/></l>               <r>basqarıw<s n="n"/></r></p></e>
 <e>       <p><l>boshqarma<s n="n"/></l>                <r>basqarma<s n="n"/></r></p></e>
@@ -2980,7 +2980,7 @@
 <e>       <p><l>burni<s n="n"/></l>                    <r>murnı<s n="n"/></r></p></e>
 <e>       <p><l>burro<s n="adj"/></l>                  <r>ótkir<s n="adj"/></r></p></e>
 <e>       <p><l>burul<s n="adj"/></l>                  <r>burıl<s n="adj"/></r></p></e>
-<e>       <p><l>burun<s n="post"/><s n="nom"/></l>     <r>murın<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>burun<s n="post"/></l>                 <r>murın<s n="post"/></r></p></e>
 <e>       <p><l>buta<s n="n"/></l>                     <r>puta<s n="n"/></r></p></e>
 <e>       <p><l>butash<s n="n"/><s n="vn"/></l>        <r>putaw<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>butazor<s n="n"/></l>                  <r>putalıq<s n="n"/></r></p></e>
@@ -2995,7 +2995,7 @@
 <e>       <p><l>buxanka<s n="n"/></l>                  <r>buxanka<s n="n"/></r></p></e>
 <e>       <p><l>buxgalter<s n="n"/></l>                <r>buxgalter<s n="n"/></r></p></e>
 <e>       <p><l>buxgalteriya<s n="n"/></l>             <r>buxgalteriya<s n="n"/></r></p></e>
-<e>       <p><l>buyon<s n="post"/><s n="abl"/></l>     <r>berli<s n="post"/><s n="abl"/></r></p></e>
+<e>       <p><l>buyon<s n="post"/></l>                 <r>berli<s n="post"/></r></p></e>
 <e>       <p><l>buyrak<s n="n"/></l>                   <r>búyrek<s n="n"/></r></p></e>
 <e>       <p><l>buyruq<s n="n"/></l>                   <r>buyrıq<s n="n"/></r></p></e>
 <e>       <p><l>buyuk<s n="adj"/></l>                  <r>ullı<s n="adj"/></r></p></e>
@@ -3451,7 +3451,7 @@
 <e>       <p><l>doimiy<s n="adj"/></l>                 <r>mudamǵı<s n="adj"/></r></p></e>
 <e>       <p><l>doimiylik<s n="n"/></l>                <r>mudamǵılıq<s n="n"/></r></p></e>
 <e>       <p><l>doimo<s n="n"/></l>                    <r>mudami<s n="n"/></r></p></e>
-<e>       <p><l>doir<s n="post"/><s n="dat"/></l>      <r>tiyisli<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>doir<s n="post"/></l>                  <r>tiyisli<s n="post"/></r></p></e>
 <e>       <p><l>doira<s n="n"/></l>                    <r>sheńber<s n="n"/></r></p></e>
 <e>       <p><l>doka<s n="n"/></l>                     <r>siyle<s n="n"/></r></p></e>
 <e>       <p><l>doktor<s n="n"/></l>                   <r>doktor<s n="n"/></r></p></e>
@@ -4179,7 +4179,7 @@
 <e>       <p><l>hanuz<s n="n"/></l>                    <r>elege shekem<s n="n"/></r></p></e>
 <e>       <p><l>haq<s n="n"/></l>                      <r>haq<s n="n"/></r></p></e>
 <e>       <p><l>haqda<s n="n"/></l>                    <r>haqqında<s n="n"/></r></p></e>
-<e>       <p><l>haqida<s n="post"/><s n="nom"/></l>    <r>haqqında<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>haqida<s n="post"/></l>                <r>haqqında<s n="post"/></r></p></e>
 <e>       <p><l>haqiga<s n="n"/></l>                   <r>haqına<s n="n"/></r></p></e>
 <e>       <p><l>haqiqat<s n="n"/></l>                  <r>haqıyqat<s n="n"/></r></p></e>
 <e>       <p><l>haqiqatda<s n="n"/></l>                <r>rasında<s n="n"/></r></p></e>
@@ -4408,7 +4408,7 @@
 <e>       <p><l>ibodatxona<s n="n"/></l>               <r>sıyınıwxona<s n="n"/></r></p></e>
 <e>       <p><l>iboli<s n="adj"/></l>                  <r>iybeli<s n="adj"/></r></p></e>
 <e>       <p><l>ibora<s n="n"/></l>                    <r>sóz dizbegi<s n="n"/></r></p></e>
-<e>       <p><l>iborat<s n="post"/><s n="nom"/></l>    <r>ibarat<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>iborat<s n="post"/></l>                <r>ibarat<s n="post"/></r></p></e>
 <e>       <p><l>ibrat<s n="n"/></l>                    <r>ibrat<s n="n"/></r></p></e>
 <e>       <p><l>ibratli<s n="adj"/></l>                <r>ibratlı<s n="adj"/></r></p></e>
 <e>       <p><l>ibtido<s n="n"/></l>                   <r>baslanıw<s n="n"/></r></p></e>
@@ -4975,7 +4975,7 @@
 <e>       <p><l>juvozxona<s n="n"/></l>                <r>juwazxona<s n="n"/></r></p></e>
 <e>       <p><l>jyuri<s n="n"/></l>                    <r>jyuri<s n="n"/></r></p></e>
 <e>       <p><l>kabel<s n="n"/></l>                    <r>kabel<s n="n"/></r></p></e>
-<e>       <p><l>kabi<s n="post"/><s n="nom"/></l>      <r>sıyaqlı<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>kabi<s n="post"/></l>                  <r>sıyaqlı<s n="post"/></r></p></e>
 <e>       <p><l>kabina<s n="n"/></l>                   <r>kabina<s n="n"/></r></p></e>
 <e>       <p><l>kabinet<s n="n"/></l>                  <r>kabinet<s n="n"/></r></p></e>
 <e>       <p><l>kabisa<s n="n"/></l>                   <r>artıq kúni bar jıl<s n="n"/></r></p></e>
@@ -5019,7 +5019,7 @@
 <e>       <p><l>kaltak<s n="n"/></l>                   <r>tayaq<s n="n"/></r></p></e>
 <e>       <p><l>kaltakesak<s n="n"/></l>               <r>kesirtke<s n="n"/></r></p></e>
 <e>       <p><l>kalxat<s n="n"/></l>                   <r>shay<s n="n"/></r></p></e>
-<e>       <p><l>kam<s n="post"/><s n="nom"/></l>       <r>kem<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>kam<s n="post"/></l>                   <r>kem<s n="post"/></r></p></e>
 <e>       <p><l>kamalak<s n="adj"/></l>                <r>oq jay<s n="adj"/></r></p></e>
 <e>       <p><l>kamand<s n="n"/></l>                   <r>kamand<s n="n"/></r></p></e>
 <e>       <p><l>kamar<s n="n"/></l>                    <r>qamar<s n="n"/></r></p></e>
@@ -5793,7 +5793,7 @@
 <e>       <p><l>maqola<s n="n"/></l>                   <r>maqala<s n="n"/></r></p></e>
 <e>       <p><l>maqom<s n="n"/></l>                    <r>huquq<s n="n"/></r></p></e>
 <e>       <p><l>maqsad<s n="n"/></l>                   <r>maqset<s n="n"/></r></p></e>
-<e>       <p><l>maqsadida<s n="post"/><s n="nom"/></l> <r>maqsetinde<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>maqsadida<s n="post"/></l>             <r>maqsetinde<s n="post"/></r></p></e>
 <e>       <p><l>maqsadsiz<s n="adj"/></l>              <r>maqsetsiz<s n="adj"/></r></p></e>
 <e>       <p><l>maqsud<s n="n"/></l>                   <r>nıshana<s n="n"/></r></p></e>
 <e>       <p><l>maqtanchoq<s n="n"/></l>               <r>maqtanshaq<s n="n"/></r></p></e>
@@ -6342,8 +6342,8 @@
 <e>       <p><l>naqsh<s n="n"/></l>                    <r>naǵıs<s n="n"/></r></p></e>
 <e>       <p><l>naqshinkor<s n="adj"/></l>             <r>naǵısinkor<s n="adj"/></r></p></e>
 <e>       <p><l>naqshli<s n="adj"/></l>                <r>naǵıslı<s n="adj"/></r></p></e>
-<e>       <p><l>nari<s n="post"/><s n="nom"/></l>      <r>ol jaqqa<s n="post"/><s n="nom"/></r></p></e>
-<e>       <p><l>naridan<s n="adv"/></l>                <r>ana jaqtan<s n="adv"/></r></p></e>
+<e>       <p><l>nari<s n="post"/></l>                  <r>ol<b/>jaqqa<s n="post"/></r></p></e>
+<e>       <p><l>naridan<s n="adv"/></l>                <r>ana<b/>jaqtan<s n="adv"/></r></p></e>
 <e>       <p><l>narigi<s n="adj"/></l>                 <r>arǵılıq<s n="adj"/></r></p></e>
 <e>       <p><l>nariyoq<s n="n"/></l>                  <r>ana jaq<s n="n"/></r></p></e>
 <e>       <p><l>narkotik<s n="n"/></l>                 <r>narkotik<s n="n"/></r></p></e>
@@ -6614,7 +6614,7 @@
 <e>       <p><l>ohista<s n="adj"/></l>                 <r>áste<s n="adj"/></r></p></e>
 <e>       <p><l>oho<s n="n"/></l>                      <r>oho<s n="n"/></r></p></e>
 <e>       <p><l>ohu<s n="n"/></l>                      <r>jayran<s n="n"/></r></p></e>
-<e>       <p><l>oid<s n="post"/><s n="dat"/></l>       <r>tiyisli<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>oid<s n="post"/></l>                   <r>tiyisli<s n="post"/></r></p></e>
 <e>       <p><l>oila<s n="n"/></l>                     <r>shańaraq<s n="n"/></r></p></e>
 <e>       <p><l>oilasiz<s n="adj"/></l>                <r>xojalıqsız<s n="adj"/></r></p></e>
 <e>       <p><l>oilaviy<s n="adj"/></l>                <r>shańaraqqa tiyisli<s n="adj"/></r></p></e>
@@ -6641,7 +6641,7 @@
 <e>       <p><l>oldida<s n="n"/></l>                   <r>aldında<s n="n"/></r></p></e>
 <e>       <p><l>oldidan<s n="n"/></l>                  <r>aldından<s n="n"/></r></p></e>
 <e>       <p><l>oldiga<s n="n"/></l>                   <r>aldına<s n="n"/></r></p></e>
-<e>       <p><l>oldin<s n="post"/><s n="nom"/></l>     <r>aldın<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>oldin<s n="post"/></l>                 <r>aldın<s n="post"/></r></p></e>
 <e>       <p><l>oldinda<s n="n"/></l>                  <r>aldında<s n="n"/></r></p></e>
 <e>       <p><l>oldindan<s n="adv"/></l>               <r>aldınan<s n="adv"/></r></p></e>
 <e>       <p><l>oldinga<s n="n"/></l>                  <r>aldınǵa<s n="n"/></r></p></e>
@@ -6778,7 +6778,7 @@
 <e>       <p><l>oroyish<s n="n"/></l>                  <r>bezeniw<s n="n"/></r></p></e>
 <e>       <p><l>orqa<s n="n"/></l>                     <r>arqa<s n="n"/></r></p></e>
 <e>       <p><l>orqaga<s n="adv"/></l>                 <r>keyin<b/>basıp<s n="adv"/></r></p></e>
-<e>       <p><l>orqali<s n="post"/><s n="nom"/></l>    <r>arqalı<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>orqali<s n="post"/></l>                <r>arqalı<s n="post"/></r></p></e>
 <e>       <p><l>orqasida<s n="adj"/></l>               <r>arqasında<s n="adj"/></r></p></e>
 <e>       <p><l>orsiz<s n="adj"/></l>                  <r>uyatsız<s n="adj"/></r></p></e>
 <e>       <p><l>orsizlik<s n="n"/></l>                 <r>uyatsızlıq<s n="n"/></r></p></e>
@@ -7297,12 +7297,12 @@
 <e>       <p><l>qapish<s n="n"/></l>                   <r>tıǵıl<s n="n"/></r></p></e>
 <e>       <p><l>qaqshatqich<s n="n"/></l>              <r>qaqsatqısh<s n="n"/></r></p></e>
 <e>       <p><l>qara<s n="v"/><s n="iv"/></l>          <r>qara<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>qarab<s n="post"/><s n="dat"/></l>     <r>qaray<s n="post"/><s n="dat"/></r></p></e>
-<e>       <p><l>qaraganda<s n="post"/><s n="nom"/></l> <r>qaraǵanda<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>qarab<s n="post"/>></l>                <r>qaray<s n="post"/></r></p></e>
+<e>       <p><l>qaraganda<s n="post"/></l>             <r>qaraǵanda<s n="post"/></r></p></e>
 <e>       <p><l>qaram<s n="adj"/></l>                  <r>ǵárezli<s n="adj"/></r></p></e>
 <e>       <p><l>qarama-qarshi<s n="n"/></l>            <r>keri<s n="n"/></r></p></e>
-<e>       <p><l>qaramasdan<s n="post"/><s n="nom"/></l><r>qaramastan<s n="post"/><s n="nom"/></r></p></e>
-<e>       <p><l>qaramay<s n="post"/><s n="dat"/></l>   <r>qaramay<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>qaramasdan<s n="post"/></l>            <r>qaramastan<s n="post"/></r></p></e>
+<e>       <p><l>qaramay<s n="post"/></l>               <r>qaramay<s n="post"/></r></p></e>
 <e>       <p><l>qaramlik<s n="n"/></l>                 <r>qaraslılıq<s n="n"/></r></p></e>
 <e>       <p><l>qarash<s n="n"/></l>                   <r>qaraw<s n="n"/></r></p></e>
 <e>       <p><l>qarashli<s n="adj"/></l>               <r>qarawlı<s n="adj"/></r></p></e>
@@ -7321,7 +7321,7 @@
 <e>       <p><l>qarovchi<s n="n"/></l>                 <r>qarawshı<s n="n"/></r></p></e>
 <e>       <p><l>qarovsiz<s n="adj"/></l>               <r>qarawsız<s n="adj"/></r></p></e>
 <e>       <p><l>qars<s n="ideo"/></l>                  <r>tırs<s n="ideo"/></r></p></e>
-<e>       <p><l>qarshi<s n="post"/><s n="dat"/></l>    <r>qarsı<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>qarshi<s n="post"/></l>                <r>qarsı<s n="post"/></r></p></e>
 <e>       <p><l>qarshilik<s n="n"/></l>                <r>qarsılıq<s n="n"/></r></p></e>
 <e>       <p><l>qarta<s n="n"/></l>                    <r>karta<s n="n"/></r></p></e>
 <e>       <p><l>qartaboz<s n="n"/></l>                 <r>kartapaz<s n="n"/></r></p></e>
@@ -7923,7 +7923,7 @@
 <e>       <p><l>sabab<s n="n"/></l>                    <r>sebep<s n="n"/></r></p></e>
 <e>       <p><l>sababchi<s n="n"/></l>                 <r>baslawshı<s n="n"/></r></p></e>
 <e>       <p><l>sababiy<s n="n"/></l>                  <r>sebebiy<s n="n"/></r></p></e>
-<e>       <p><l>sababli<s n="post"/><s n="abl"/></l>   <r>sebepli<s n="post"/><s n="abl"/></r></p></e>
+<e>       <p><l>sababli<s n="post"/></l>               <r>sebepli<s n="post"/></r></p></e>
 <e>       <p><l>sababsiz<s n="adj"/></l>               <r>sebepsiz<s n="adj"/></r></p></e>
 <e>       <p><l>sabil<s n="adj"/></l>                  <r>iyesiz qalǵan<s n="adj"/></r></p></e>
 <e>       <p><l>sabo<s n="n"/></l>                     <r>jaǵımlı tań samalı<s n="n"/></r></p></e>
@@ -8529,7 +8529,7 @@
 <e>       <p><l>sinf<s n="n"/></l>                     <r>klass<s n="n"/></r></p></e>
 <e>       <p><l>sinfdosh<s n="n"/></l>                 <r>klasstas<s n="n"/></r></p></e>
 <e>       <p><l>sinfiy<s n="n"/></l>                   <r>klasıy<s n="n"/></r></p></e>
-<e>       <p><l>singari<s n="post"/><s n="nom"/></l>   <r>sıyaqlı<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>singari<s n="post"/></l>               <r>sıyaqlı<s n="post"/></r></p></e>
 <e>       <p><l>singdirish<s n="n"/><s n="vn"/></l>    <r>sıńırıw<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>singil<s n="n"/></l>                   <r>qarındas<s n="n"/></r></p></e>
 <e>       <p><l>singish<s n="v"/><s n="iv"/><s n="refl"/></l><r>sińiw<s n="v"/><s n="iv"/><s n="refl"/></r></p></e>
@@ -10631,15 +10631,15 @@
 <e>       <p><l>boʻydoqlik<s n="n"/></l>               <r>boydaqlıq<s n="n"/></r></p></e>
 <e>       <p><l>boʻyeqchi<s n="n"/></l>                <r>boyaqshı<s n="n"/></r></p></e>
 <e>       <p><l>boʻyeqchilyk<s n="n"/></l>             <r>boyaqshılıq<s n="n"/></r></p></e>
-<e>       <p><l>boʻyi<s n="post"/><s n="nom"/></l>     <r>boyı<s n="post"/><s n="nom"/></r></p></e>
-<e>       <p><l>boʻyicha<s n="post"/><s n="nom"/></l>  <r>boyınsha<s n="post"/><s n="nom"/></r></p></e>
-<e>       <p><l>boʻyida<s n="post"/><s n="nom"/></l>   <r>boyıda<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>boʻyi<s n="post"/></l>                 <r>boyı<s n="post"/></r></p></e>
+<e>       <p><l>boʻyicha<s n="post"/></l>              <r>boyınsha<s n="post"/></r></p></e>
+<e>       <p><l>boʻyida<s n="post"/></l>               <r>boyıda<s n="post"/></r></p></e>
 <e>       <p><l>boʻyimodaron<s n="n"/></l>             <r>mıń japıraq<s n="n"/></r></p></e>
 <e>       <p><l>boʻyin<s n="n"/></l>                   <r>moyin<s n="n"/></r></p></e>
 <e>       <p><l>boʻyinbogʻ<s n="n"/></l>               <r>galstuk<s n="n"/></r></p></e>
-<e>       <p><l>boʻyincha<s n="post"/><s n="nom"/></l> <r>kúshen<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>boʻyincha<s n="post"/></l> <r>kúshen<s n="post"/></r></p></e>
 <e>       <p><l>boʻyinchaduz<s n="n"/></l>             <r>kúshenduz<s n="n"/></r></p></e>
-<e>       <p><l>boʻylab<s n="post"/><s n="nom"/></l>   <r>boylap<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>boʻylab<s n="post"/></l>               <r>boylap<s n="post"/></r></p></e>
 <e>       <p><l>boʻylan<s n="v"/><s n="iv"/></l>       <r>sasıw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>boʻylat<s n="v"/><s n="tv"/><s n="caus"/></l><r>boyla<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>boʻyni<s n="n"/></l>                   <r>moynı<s n="n"/></r></p></e>
@@ -12512,14 +12512,14 @@
 <e>       <p><l>koʻptirma<s n="adj"/></l>              <r>ashıǵan<s n="adj"/></r></p></e>
 <e>       <p><l>koʻr<s n="v"/><s n="tv"/></l>          <r>kór<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>koʻr-kurona<s n="ideo"/></l>           <r>soqır-kurona<s n="ideo"/></r></p></e>
-<e>       <p><l>koʻra<s n="post"/><s n="dat"/></l>     <r>kóre<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>koʻra<s n="post"/></l>                 <r>kóre<s n="post"/></r></p></e>
 <e>       <p><l>koʻrak<s n="n"/></l>                   <r>kórek<s n="n"/></r></p></e>
 <e>       <p><l>koʻrfaz<s n="n"/></l>                  <r>qoltıq<s n="n"/></r></p></e>
 <e>       <p><l>koʻrgaz<s n="v"/><s n="tv"/><s n="caus"/></l><r>kórgez<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>koʻrgazma<s n="n"/></l>                <r>kórgezbe<s n="n"/></r></p></e>
 <e>       <p><l>koʻrgazmali<s n="adj"/></l>            <r>kórgezbeli<s n="adj"/></r></p></e>
 <e>       <p><l>koʻrgilik<s n="n"/></l>                <r>kórgilik<s n="n"/></r></p></e>
-<e>       <p><l>koʻri<s n="post"/><s n="nom"/></l>     <r>qaraw<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>koʻri<s n="post"/></l>                 <r>qaraw<s n="post"/></r></p></e>
 <e>       <p><l>koʻril<s n="v"/><s n="iv"/></l>        <r>kórin<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>koʻrimli<s n="adj"/></l>               <r>kórimli<s n="adj"/></r></p></e>
 <e>       <p><l>koʻrimsiz<s n="adj"/></l>              <r>kórimsiz<s n="adj"/></r></p></e>
@@ -14324,7 +14324,7 @@
 <e>       <p><l>qatiyan<s n="n"/></l>                  <r>qatiyan<s n="n"/></r></p></e>
 <e>       <p><l>qatnashgan<s n="adj"/></l>             <r>qatnasqan<s n="adj"/></r></p></e>
 <e>       <p><l>qatnashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>qatmashtir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
-<e>       <p><l>qatori<s n="post"/><s n="nom"/></l>    <r>qatarı<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>qatori<s n="post"/></l>                <r>qatarı<s n="post"/></r></p></e>
 <e>       <p><l>qatorla<s n="v"/><s n="tv"/></l>       <r>qatarla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>qatorlash<s n="v"/><s n="iv"/><s n="refl"/></l><r>qatarlaw<s n="v"/><s n="iv"/><s n="refl"/></r></p></e>
 <e>       <p><l>qatorlashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>qatarlastır<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
@@ -16415,7 +16415,7 @@
 <e>       <p><l>toʻgʻrilik<s n="n"/></l>               <r>tuwrılıq<s n="n"/></r></p></e>
 <e>       <p><l>toʻgʻrilikcha<s n="adv"/></l>          <r>tuwrılıqsha<s n="adv"/></r></p></e>
 <e>       <p><l>toʻgʻrisi<s n="n"/></l>                <r>tuwrısı<s n="n"/></r></p></e>
-<e>       <p><l>toʻgʻrisida<s n="post"/><s n="nom"/></l><r>tuwrısında<s n="post"/><s n="nom"/></r></p></e>
+<e>       <p><l>toʻgʻrisida<s n="post"/></l>           <r>tuwrısında<s n="post"/></r></p></e>
 <e>       <p><l>toʻygʻaz<s n="v"/><s n="tv"/><s n="caus"/></l><r>toyǵız<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>toʻygʻiz<s n="v"/><s n="tv"/><s n="caus"/></l><r>toyǵız<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>toʻkali<s n="adj"/></l>                <r>tógeli<s n="adj"/></r></p></e>
@@ -17592,7 +17592,7 @@
 <e>       <p><l>zer-zabar<s n="n"/></l>                <r>zer-zebil<s n="n"/></r></p></e>
 <e>       <p><l>zg<s n="n"/><s n="REmOvE"/></l>        <r>zg<s n="n"/><s n="REmOvE"/></r></p></e>
 <e>       <p><l>zi<s n="mist"/></l>                    <r>zi<s n="mist"/></r></p></e>
-<e>       <p><l>zid<s n="post"/><s n="dat"/></l>       <r>qarsı<s n="post"/><s n="dat"/></r></p></e>
+<e>       <p><l>zid<s n="post"/></l>                   <r>qarsı<s n="post"/></r></p></e>
 <e>       <p><l>zidlash<s n="v"/><s n="tv"/></l>       <r>qarsılıq kórsetiw<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>zigʻir<s n="n"/></l>                   <r>zıǵır<s n="n"/></r></p></e>
 <e>       <p><l>zigʻircha<s n="adj"/></l>              <r>zıǵırsha<s n="adj"/></r></p></e>
