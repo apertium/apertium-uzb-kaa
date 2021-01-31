@@ -1,5 +1,5 @@
 ###############################################################################
-## Makefile for Uzbek--Kara-Kalpak
+## Makefile for Uzbek--Qaraqalpaq
 ###############################################################################
 
 VERSION=0.1.0
@@ -12,6 +12,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1).automorf.bin	\
+	$(PREFIX1).automorf.hfst	\
 	$(PREFIX1).rlx		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).autobil.bin	\
@@ -22,6 +23,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).revautoseq.bin	\
 	$(PREFIX1).rtx.bin	\
 	$(PREFIX2).automorf.bin	\
+	$(PREFIX2).automorf.hfst	\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
@@ -50,11 +52,16 @@ TARGETS_COMMON =		\
 	echo " ?* " | hfst-regexp2fst > .deps/any-symbol.hfst
 	hfst-concatenate -1 .deps/$(PREFIX1).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX1).autobil.prefixes
 
-$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.att.gz .deps/$(PREFIX1).autobil.prefixes .deps/.d
+.deps/$(PREFIX1).automorf.trimmed.att: $(AP_SRC1)/$(LANG1).automorf.att.gz .deps/$(PREFIX1).autobil.prefixes .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > .deps/$(LANG1).automorf.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).automorf.hfst -2 .deps/$(PREFIX1).autobil.prefixes -o .deps/$(PREFIX1).automorf.trimmed
-	hfst-fst2txt -i .deps/$(PREFIX1).automorf.trimmed -o .deps/$(PREFIX1).automorf.trimmed.att
+	hfst-fst2txt -i .deps/$(PREFIX1).automorf.trimmed -o $@
+
+$(PREFIX1).automorf.bin: .deps/$(PREFIX1).automorf.trimmed.att
 	lt-comp lr .deps/$(PREFIX1).automorf.trimmed.att $@
+
+$(PREFIX1).automorf.hfst: .deps/$(PREFIX1).automorf.trimmed.att
+	hfst-txt2fst $< | hfst-minimize | hfst-fst2fst -O -o $@
 
 # -------------------
 # Uzbek generation:
@@ -67,7 +74,7 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	cp $< $@
 
 # -------------------
-# Kara-Kalpak analysis:
+# Qaraqalpaq analysis:
 # -------------------
 
 .deps/$(PREFIX2).autobil.prefixes: $(PREFIX2).autobil.bin .deps/.d
@@ -77,14 +84,20 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	echo " ?* " | hfst-regexp2fst > .deps/any-symbol.hfst
 	hfst-concatenate -1 .deps/$(PREFIX2).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX2).autobil.prefixes
 
-$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.att.gz .deps/$(PREFIX2).autobil.prefixes .deps/.d
+.deps/$(PREFIX2).automorf.trimmed.att: $(AP_SRC2)/$(LANG2).automorf.att.gz .deps/$(PREFIX2).autobil.prefixes .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > .deps/$(LANG2).automorf.hfst
 	hfst-compose-intersect -1 .deps/$(LANG2).automorf.hfst -2 .deps/$(PREFIX2).autobil.prefixes -o .deps/$(PREFIX2).automorf.trimmed
-	hfst-fst2txt -i .deps/$(PREFIX2).automorf.trimmed -o .deps/$(PREFIX2).automorf.trimmed.att
+	hfst-fst2txt -i .deps/$(PREFIX2).automorf.trimmed -o $@
+
+$(PREFIX2).automorf.bin: .deps/$(PREFIX2).automorf.trimmed.att
 	lt-comp lr .deps/$(PREFIX2).automorf.trimmed.att $@
 
+$(PREFIX2).automorf.hfst: .deps/$(PREFIX2).automorf.trimmed.att
+	hfst-txt2fst $< | hfst-minimize | hfst-fst2fst -O -o $@
+
+
 # -------------------
-# Kara-Kalpak generation:
+# Qaraqalpaq generation:
 # ---------------------
 
 $(PREFIX1).autogen.hfst: $(AP_SRC2)/$(LANG2).autogen.hfst
