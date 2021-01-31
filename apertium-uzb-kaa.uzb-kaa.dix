@@ -4664,7 +4664,8 @@
 <e>       <p><l>ishchan<s n="adj"/></l>                <r>ısker<s n="adj"/></r></p></e>
 <e>       <p><l>ishchi<s n="n"/></l>                   <r>jumısshı<s n="n"/></r></p></e>
 <e>       <p><l>ishkallik<s n="n"/></l>                <r>bógeliw<s n="n"/></r></p></e>
-<e>       <p><l>ishla<s n="n"/><s n="vn"/></l>         <r>islew<s n="n"/><s n="vn"/></r></p></e>
+<e>       <p><l>ishla<s n="v"/><s n="tv"/></l>         <r>isle<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>ishla<s n="v"/><s n="iv"/></l>         <r>isle<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>ishlov<s n="n"/></l>                   <r>islew<s n="n"/></r></p></e>
 <e>       <p><l>ishonch<s n="n"/></l>                  <r>isenim<s n="n"/></r></p></e>
 <e>       <p><l>ishonchsiz<s n="adj"/></l>             <r>isenimsiz<s n="adj"/></r></p></e>
@@ -16752,6 +16753,7 @@
 <e>       <p><l>turtinish<s n="v"/><s n="iv"/><s n="coop"/></l><r>turtiniw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>turtkilash<s n="v"/><s n="iv"/><s n="coop"/></l><r>dúmpishlew<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>turush<s n="n"/></l>                   <r>ashıǵan<s n="n"/></r></p></e>
+<e>       <p><l>tush<s n="v"/><s n="iv"/></l>          <r>tús<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>tushayish<s n="v"/><s n="iv"/><s n="coop"/></l><r>bultıyıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>tushirgi<s n="n"/></l>                 <r>túsirgi<s n="n"/></r></p></e>
 <e>       <p><l>tushirgich<s n="n"/></l>               <r>túsirgish<s n="n"/></r></p></e>
@@ -17214,6 +17216,7 @@
 <e>       <p><l>yamashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>jamawtir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>yamoq<s n="n"/></l>                    <r>jamaw<s n="n"/></r></p></e>
 <e>       <p><l>yamoq-yamoq<s n="adj"/></l>            <r>jamaw-jamaw<s n="adj"/></r></p></e>
+<e>       <p><l>yangi<s n="adj"/></l>                  <r>jańa<s n="adj"/></r></p></e>
 <e>       <p><l>yangilan<s n="v"/><s n="iv"/><s n="refl"/></l><r>jańalan<s n="v"/><s n="iv"/><s n="refl"/></r></p></e>
 <e>       <p><l>yangligʻ<s n="adj"/></l>               <r>yańlı<s n="adj"/></r></p></e>
 <e>       <p><l>yanglishlik<s n="n"/></l>              <r>aljasıqlıq<s n="n"/></r></p></e>
@@ -17555,6 +17558,7 @@
 <e>       <p><l>yupqalash<s n="v"/><s n="iv"/></l>     <r>juqalaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yupqalashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>juqalastır<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>yuqolish<s n="n"/><s n="vn"/></l>      <r>joǵalıw<s n="n"/><s n="vn"/></r></p></e>
+<e>       <p><l>yuqori<s n="adj"/></l>                 <r>joqarı<s n="adj"/></r></p></e>
 <e>       <p><l>yuqorilash<s n="v"/><s n="iv"/></l>    <r>joqarılaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yurakdosh<s n="adj"/></l>              <r>júrekles<s n="adj"/></r></p></e>
 <e>       <p><l>yuraklik<s n="n"/></l>                 <r>júreklik<s n="n"/></r></p></e>
