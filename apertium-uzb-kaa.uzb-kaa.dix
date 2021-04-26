@@ -1,98 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Dictionary:
-	Sections: 1
-	Entries: 19363
-	Sdefs: 88
+    Dictionary:
+    Sections: 1
+    Entries: 19363
+    Sdefs: 88
 
 -->
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
-    <sdef n="n" 	c="Noun                        Зат есім            Atlıq"/> 
-    <sdef n="np" 	c="Proper noun                 Жалқы есім          Menshikli atlıq"/> 
-    <sdef n="adj" 	c="Adjective                   Сын есім            Kelbetlik"/> 
-    <sdef n="num" 	c="Numeral                     Сан есім            Sanlıq"/> 
-    <sdef n="prn" 	c="Pronoun                     Есімдік             Almasıq"/> 
-    <sdef n="det" 	c="Determiner                  Детерминатив        Determinativ"/> 
-    <sdef n="v" 	c="Verb                        Етістік             Feyil"/> 
-    <sdef n="vaux" 	c="Auxiliary verb              Көмекші етістік     Koʻmekshi feyil"/> 
-    <sdef n="adv" 	c="Adverb                      Үстеу               Ra’wish"/> 
-    <sdef n="post" 	c="Postposition                Септеулік шылау     Tirkewish"/> 
-    <sdef n="postadv" 	c="Postadverb                  ʻАртүстеуʻ          ʻАртрәвешʻ"/> 
-    <sdef n="cnjcoo" 	c="Coordinating conjunction    ? жалғаулық шылау   Duʻziwshi da’neker"/> 
-    <sdef n="cnjsub" 	c="Subordinating conjunction   ? жалғаулық шылау   Jaratıwshı da’neker"/> 
-    <sdef n="cnjadv" 	c="Adverbial conjunction       Үстеу-жалғаулық     Ra’wish da’neker"/> 
-    <sdef n="ij" 	c="Interjection                Одағай              Tan’laqʻ"/> 
-    <sdef n="abbr" 	c="Abbreviation                Қысқарған сөз       Qospalı qısqartılgʻan soʻz"/> 
-    <sdef n="cop" 	c="Copula                      Копула              Kopula"/> 
-    <sdef n="ideo" 	c="Ideophone                   Еліктеу сөз         Eliklewish"/> 
-    <sdef n="top" 	c="Toponym"/> 
-    <sdef n="ant" 	c="Anthroponym"/> 
-    <sdef n="cog" 	c="Cognomen"/> 
-    <sdef n="pat" 	c="Patronym"/> 
-    <sdef n="org" 	c="Organization name"/> 
-    <sdef n="al" 	c="Other"/> 
-    <sdef n="m" 	c="Мужской род"/> 
-    <sdef n="f" 	c="Женский род"/> 
-    <sdef n="mf" 	c="Мужской или женский род"/> 
-    <sdef n="attr" 	c="Attributive"/> 
-    <sdef n="subst" 	c="Substantivized"/> 
-    <sdef n="advl" 	c="Adverbial"/> 
-    <sdef n="sg" 	c=""/> 
-    <sdef n="pl" 	c=""/> 
+    <sdef n="n"     c="Noun                        Зат есім            Atlıq"/> 
+    <sdef n="np"    c="Proper noun                 Жалқы есім          Menshikli atlıq"/> 
+    <sdef n="adj"   c="Adjective                   Сын есім            Kelbetlik"/> 
+    <sdef n="num"   c="Numeral                     Сан есім            Sanlıq"/> 
+    <sdef n="prn"   c="Pronoun                     Есімдік             Almasıq"/> 
+    <sdef n="det"   c="Determiner                  Детерминатив        Determinativ"/> 
+    <sdef n="v"     c="Verb                        Етістік             Feyil"/> 
+    <sdef n="vaux"  c="Auxiliary verb              Көмекші етістік     Koʻmekshi feyil"/> 
+    <sdef n="adv"   c="Adverb                      Үстеу               Ra’wish"/> 
+    <sdef n="post"  c="Postposition                Септеулік шылау     Tirkewish"/> 
+    <sdef n="postadv"   c="Postadverb                  ʻАртүстеуʻ          ʻАртрәвешʻ"/> 
+    <sdef n="cnjcoo"    c="Coordinating conjunction    ? жалғаулық шылау   Duʻziwshi da’neker"/> 
+    <sdef n="cnjsub"    c="Subordinating conjunction   ? жалғаулық шылау   Jaratıwshı da’neker"/> 
+    <sdef n="cnjadv"    c="Adverbial conjunction       Үстеу-жалғаулық     Ra’wish da’neker"/> 
+    <sdef n="ij"    c="Interjection                Одағай              Tan’laqʻ"/> 
+    <sdef n="abbr"  c="Abbreviation                Қысқарған сөз       Qospalı qısqartılgʻan soʻz"/> 
+    <sdef n="cop"   c="Copula                      Копула              Kopula"/> 
+    <sdef n="ideo"  c="Ideophone                   Еліктеу сөз         Eliklewish"/> 
+    <sdef n="top"   c="Toponym"/> 
+    <sdef n="ant"   c="Anthroponym"/> 
+    <sdef n="cog"   c="Cognomen"/> 
+    <sdef n="pat"   c="Patronym"/> 
+    <sdef n="org"   c="Organization name"/> 
+    <sdef n="al"    c="Other"/> 
+    <sdef n="m"     c="Мужской род"/> 
+    <sdef n="f"     c="Женский род"/> 
+    <sdef n="mf"    c="Мужской или женский род"/> 
+    <sdef n="attr"  c="Attributive"/> 
+    <sdef n="subst"     c="Substantivized"/> 
+    <sdef n="advl"  c="Adverbial"/> 
+    <sdef n="sg"    c=""/> 
+    <sdef n="pl"    c=""/> 
     <sdef n="cc" /> 
-    <sdef n="dat" 	c=""/> 
-    <sdef n="sp" 	c=""/> 
-    <sdef n="vn" 	c=""/> 
-    <sdef n="px" 	c=""/> 
-    <sdef n="loc" 	c=""/> 
+    <sdef n="dat"   c=""/> 
+    <sdef n="sp"    c=""/> 
+    <sdef n="vn"    c=""/> 
+    <sdef n="px"    c=""/> 
+    <sdef n="loc"   c=""/> 
     <sdef n="mist" /> 
     <sdef n="nat" /> 
-    <sdef n="sim" 	c=""/> 
-    <sdef n="pers" 	c="Personal - Зат (алмашлыгы) - Личное (местоимение)"/> 
-    <sdef n="recip" 	c="Reciprocal"/> 
-    <sdef n="dem" 	c="Demonstrative"/> 
-    <sdef n="ind" 	c="Indefinite"/> 
-    <sdef n="itg" 	c="Interrogative"/> 
-    <sdef n="qnt" 	c="Quantifier"/> 
-    <sdef n="neg" 	c="Negative"/> 
-    <sdef n="ref" 	c="Reflexive"/> 
-    <sdef n="ord" 	c=""/> 
-    <sdef n="caus" 	c=""/> 
-    <sdef n="pass" 	c=""/> 
-    <sdef n="coop" 	c=""/> 
-    <sdef n="prc_perf" 	c=""/> 
-    <sdef n="ger" 	c=""/> 
-    <sdef n="gpr_past" 	c=""/> 
-    <sdef n="gpr_pot" 	c=""/> 
-    <sdef n="gpr_ppot" 	c=""/> 
-    <sdef n="iv" 	c="Intransitive"/> 
-    <sdef n="tv" 	c="Transitive"/> 
-    <sdef n="TD" 	c="Temporary tag"/> 
-    <sdef n="p1" 	c=""/> 
-    <sdef n="p2" 	c=""/> 
-    <sdef n="p3" 	c=""/> 
-    <sdef n="frm" 	c=""/> 
-    <sdef n="qst" 	c="Question modal (clitic)"/> 
-    <sdef n="emph" 	c="Emphasising modal"/> 
-    <sdef n="mod" 	c="Other modal 'particles'"/> 
-    <sdef n="sent" 	c=""/> 
-    <sdef n="guio" 	c=""/> 
-    <sdef n="cm" 	c=""/> 
-    <sdef n="apos" 	c=""/> 
-    <sdef n="abl" 	c=""/> 
-    <sdef n="nom" 	c=""/> 
-    <sdef n="gen" 	c=""/> 
-    <sdef n="rquot" 	c=""/> 
-    <sdef n="lquot" 	c=""/> 
-    <sdef n="rpar" 	c=""/> 
-    <sdef n="lpar" 	c=""/> 
+    <sdef n="sim"   c=""/> 
+    <sdef n="pers"  c="Personal - Зат (алмашлыгы) - Личное (местоимение)"/> 
+    <sdef n="recip"     c="Reciprocal"/> 
+    <sdef n="dem"   c="Demonstrative"/> 
+    <sdef n="ind"   c="Indefinite"/> 
+    <sdef n="itg"   c="Interrogative"/> 
+    <sdef n="qnt"   c="Quantifier"/> 
+    <sdef n="neg"   c="Negative"/> 
+    <sdef n="ref"   c="Reflexive"/> 
+    <sdef n="ord"   c=""/> 
+    <sdef n="caus"  c=""/> 
+    <sdef n="pass"  c=""/> 
+    <sdef n="coop"  c=""/> 
+    <sdef n="prc_perf"  c=""/> 
+    <sdef n="ger"   c=""/> 
+    <sdef n="gpr_past"  c=""/> 
+    <sdef n="gpr_pot"   c=""/> 
+    <sdef n="gpr_ppot"  c=""/> 
+    <sdef n="iv"    c="Intransitive"/> 
+    <sdef n="tv"    c="Transitive"/> 
+    <sdef n="TD"    c="Temporary tag"/> 
+    <sdef n="p1"    c=""/> 
+    <sdef n="p2"    c=""/> 
+    <sdef n="p3"    c=""/> 
+    <sdef n="frm"   c=""/> 
+    <sdef n="qst"   c="Question modal (clitic)"/> 
+    <sdef n="emph"  c="Emphasising modal"/> 
+    <sdef n="mod"   c="Other modal 'particles'"/> 
+    <sdef n="sent"  c=""/> 
+    <sdef n="guio"  c=""/> 
+    <sdef n="cm"    c=""/> 
+    <sdef n="apos"  c=""/> 
+    <sdef n="abl"   c=""/> 
+    <sdef n="nom"   c=""/> 
+    <sdef n="gen"   c=""/> 
+    <sdef n="rquot"     c=""/> 
+    <sdef n="lquot"     c=""/> 
+    <sdef n="rpar"  c=""/> 
+    <sdef n="lpar"  c=""/> 
     <sdef n="infl" /> 
     <sdef n="paren" /> 
     <sdef n="refl" /> 
     <sdef n="prep" /> 
-    <sdef n="REmOvE" 	c=""/> 
+    <sdef n="REmOvE"    c=""/> 
   </sdefs>
   <section id="main" type="standard">
 
@@ -711,6 +711,7 @@
 <e>       <p><l>”<s n="rquot"/></l>                    <r>”<s n="rquot"/></r></p></e>
 <e>       <p><l>sol<s n="adj"/></l>                    <r>sol<s n="adj"/></r></p></e>
 <e>       <p><l>soʻra<s n="v"/><s n="tv"/></l>         <r>sora<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>soʻradi<s n="v"/><s n="tv"/></l>         <r>soradi<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>sovet<s n="n"/></l>                    <r>sovet<s n="n"/></r></p></e>
 <e>       <p><l>soʻz<s n="n"/></l>                     <r>sóz<s n="n"/></r></p></e>
 <e>       <p><l>soz<s n="n"/></l>                      <r>soz<s n="n"/></r></p></e><!-- FIXME: CHECK -->
@@ -2868,7 +2869,7 @@
 <e>       <p><l>boqim<s n="n"/></l>                    <r>qaraw<s n="n"/></r></p></e>
 <e>       <p><l>boqimsiz<s n="adj"/></l>               <r>jetim<s n="adj"/></r></p></e>
 <e>       <p><l>boqish<s n="v"/><s n="tv"/><s n="coop"/></l><r>qaraw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
-<e>       <p><l>bor<s n="n"/></l>                      <r>bor<s n="n"/></r></p></e>
+<e>       <p><l>bor<s n="n"/></l>                      <r>bar<s n="n"/></r></p></e>
 <e>       <p><l>bora<s n="n"/></l>                     <r>bara<s n="n"/></r></p></e>
 <e>       <p><l>bordi-keldi<s n="n"/></l>              <r>bardı-keldi<s n="n"/></r></p></e>
 <e>       <p><l>bordon<s n="n"/></l>                   <r>mardan<s n="n"/></r></p></e>
@@ -4391,6 +4392,7 @@
 <e>       <p><l>hurmatsizlik<s n="n"/></l>             <r>húrmetsizlik<s n="n"/></r></p></e>
 <e>       <p><l>hurriyat<s n="n"/></l>                 <r>azatlıq<s n="n"/></r></p></e>
 <e>       <p><l>hurriyatparvar<s n="n"/></l>           <r>azatlıqparvar<s n="n"/></r></p></e>
+<e>       <p><l>hursand<s n="n"/></l>           <r>quwanıshlı<s n="n"/></r></p></e>
 <e>       <p><l>hush<s n="n"/></l>                     <r>sezim<s n="n"/></r></p></e>
 <e>       <p><l>hushli<s n="adj"/></l>                 <r>aqıllı<s n="adj"/></r></p></e>
 <e>       <p><l>hushsiz<s n="adj"/></l>                <r>aqılsız<s n="adj"/></r></p></e>
@@ -5180,6 +5182,7 @@
 <e>       <p><l>keksa<s n="adj"/></l>                  <r>ǵarrı<s n="adj"/></r></p></e>
 <e>       <p><l>keksalik<s n="n"/></l>                 <r>ǵarrılıq<s n="n"/></r></p></e>
 <e>       <p><l>kelajak<s n="n"/></l>                  <r>keleshek<s n="n"/></r></p></e>
+<e>       <p><l>kelayapdi<s n="n"/></l>                  <r>kiyatir<s n="n"/></r></p></e>
 <e>       <p><l>kelasi<s n="adj"/></l>                 <r>kelesi<s n="adj"/></r></p></e>
 <e>       <p><l>kelgindi<s n="n"/></l>                 <r>kelgindi<s n="n"/></r></p></e>
 <e>       <p><l>kelgusi<s n="n"/></l>                  <r>kelesi<s n="n"/></r></p></e>
@@ -14346,6 +14349,7 @@
 <e>       <p><l>qayoqqadir<s n="n"/></l>               <r>qayaqqadir<s n="n"/></r></p></e>
 <e>       <p><l>qayerdagi<s n="n"/></l>                <r>qay jerdegi<s n="n"/></r></p></e>
 <e>       <p><l>qayerdalik<s n="n"/></l>               <r>qay jerdelik<s n="n"/></r></p></e>
+<e>       <p><l>qayerdaligini<s n="n"/></l>               <r>qay jerde ekenin<s n="n"/></r></p></e>
 <e>       <p><l>qayerdandir<s n="n"/></l>              <r>qay jerdendur<s n="n"/></r></p></e>
 <e>       <p><l>qayerlarda<s n="n"/></l>               <r>qay jerlerde<s n="n"/></r></p></e>
 <e>       <p><l>qayerlardan<s n="n"/></l>              <r>qay jerlerden<s n="n"/></r></p></e>
@@ -16707,6 +16711,7 @@
 <e>       <p><l>transsendentalizm<s n="n"/></l>        <r>transsendentalizm<s n="n"/></r></p></e>
 <e>       <p><l>truppala<s n="v"/><s n="tv"/></l>      <r>truppala<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tuflash<s n="v"/><s n="iv"/><s n="coop"/></l><r>túpiriw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>tugatgandan<s n="n"/></l>                 <r>tawsıwdan<s n="n"/></r></p></e>
 <e>       <p><l>tuginmoq<s n="n"/></l>                 <r>túginiw<s n="n"/></r></p></e>
 <e>       <p><l>tugish<s n="v"/><s n="tv"/><s n="coop"/></l><r>tugiw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
 <e>       <p><l>tugmabosh<s n="n"/></l>                <r>túymebas<s n="n"/></r></p></e>
@@ -17631,6 +17636,7 @@
 <e>       <p><l>zoʻrla<s n="v"/><s n="tv"/></l>        <r>zorla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>zoʻrlan<s n="v"/><s n="iv"/><s n="coop"/></l><r>zorlan<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>zoʻrlik<s n="n"/></l>                  <r>zorlıq<s n="n"/></r></p></e>
+<e>       <p><l>zudlik<s n="n"/></l>                  <r>asıǵıs<s n="n"/></r></p></e>
 <e>       <p><l>zulqa’da’da<s n="n"/></l>              <r>zulqada<s n="n"/></r></p></e>
 <e>       <p><l>Avila<s n="np"/><s n="top"/></l>       <r>Avila<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>İstanbulspor<s n="np"/><s n="org"/></l><r>İstanbulspor<s n="np"/><s n="org"/></r></p></e>
@@ -19480,7 +19486,7 @@
 <e>       <p><l>zarafshon<s n="adv"/></l>              <r>zarafshan<s n="adv"/></r></p></e>
 <e>       <p><l>zigʻirkor<s n="adv"/></l>              <r>zıǵırkar<s n="adv"/></r></p></e>
 <e>       <p><l>zoʻraki<s n="adv"/></l>                <r>jasalma<s n="adv"/></r></p></e>
-		  
+          
 
 <!-- SECTION: Punctuation -->
 
@@ -20579,7 +20585,7 @@
 <e>       <p><l>Oltinoy<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Altınoy<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Omonnisa<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Omonnisa<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Oqbola<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Oqbola<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e>       <p><l>Oygul<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Oygul<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>Oygul<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Aygúl<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Oyjon<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Oyjon<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Oysha<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Oysha<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Pantayivka<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Pantayivka<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
