@@ -711,7 +711,6 @@
 <e>       <p><l>”<s n="rquot"/></l>                    <r>”<s n="rquot"/></r></p></e>
 <e>       <p><l>sol<s n="adj"/></l>                    <r>sol<s n="adj"/></r></p></e>
 <e>       <p><l>soʻra<s n="v"/><s n="tv"/></l>         <r>sora<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>soʻradi<s n="v"/><s n="tv"/></l>         <r>soradi<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>sovet<s n="n"/></l>                    <r>sovet<s n="n"/></r></p></e>
 <e>       <p><l>soʻz<s n="n"/></l>                     <r>sóz<s n="n"/></r></p></e>
 <e>       <p><l>soz<s n="n"/></l>                      <r>soz<s n="n"/></r></p></e><!-- FIXME: CHECK -->
@@ -2869,7 +2868,7 @@
 <e>       <p><l>boqim<s n="n"/></l>                    <r>qaraw<s n="n"/></r></p></e>
 <e>       <p><l>boqimsiz<s n="adj"/></l>               <r>jetim<s n="adj"/></r></p></e>
 <e>       <p><l>boqish<s n="v"/><s n="tv"/><s n="coop"/></l><r>qaraw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
-<e>       <p><l>bor<s n="n"/></l>                      <r>bar<s n="n"/></r></p></e>
+<e>       <p><l>bor<s n="n"/></l>                      <r>por<s n="n"/></r></p></e>
 <e>       <p><l>bora<s n="n"/></l>                     <r>bara<s n="n"/></r></p></e>
 <e>       <p><l>bordi-keldi<s n="n"/></l>              <r>bardı-keldi<s n="n"/></r></p></e>
 <e>       <p><l>bordon<s n="n"/></l>                   <r>mardan<s n="n"/></r></p></e>
@@ -5182,7 +5181,6 @@
 <e>       <p><l>keksa<s n="adj"/></l>                  <r>ǵarrı<s n="adj"/></r></p></e>
 <e>       <p><l>keksalik<s n="n"/></l>                 <r>ǵarrılıq<s n="n"/></r></p></e>
 <e>       <p><l>kelajak<s n="n"/></l>                  <r>keleshek<s n="n"/></r></p></e>
-<e>       <p><l>kelayapdi<s n="n"/></l>                  <r>kiyatir<s n="n"/></r></p></e>
 <e>       <p><l>kelasi<s n="adj"/></l>                 <r>kelesi<s n="adj"/></r></p></e>
 <e>       <p><l>kelgindi<s n="n"/></l>                 <r>kelgindi<s n="n"/></r></p></e>
 <e>       <p><l>kelgusi<s n="n"/></l>                  <r>kelesi<s n="n"/></r></p></e>
@@ -14349,7 +14347,6 @@
 <e>       <p><l>qayoqqadir<s n="n"/></l>               <r>qayaqqadir<s n="n"/></r></p></e>
 <e>       <p><l>qayerdagi<s n="n"/></l>                <r>qay jerdegi<s n="n"/></r></p></e>
 <e>       <p><l>qayerdalik<s n="n"/></l>               <r>qay jerdelik<s n="n"/></r></p></e>
-<e>       <p><l>qayerdaligini<s n="n"/></l>               <r>qay jerde ekenin<s n="n"/></r></p></e>
 <e>       <p><l>qayerdandir<s n="n"/></l>              <r>qay jerdendur<s n="n"/></r></p></e>
 <e>       <p><l>qayerlarda<s n="n"/></l>               <r>qay jerlerde<s n="n"/></r></p></e>
 <e>       <p><l>qayerlardan<s n="n"/></l>              <r>qay jerlerden<s n="n"/></r></p></e>
@@ -16711,7 +16708,6 @@
 <e>       <p><l>transsendentalizm<s n="n"/></l>        <r>transsendentalizm<s n="n"/></r></p></e>
 <e>       <p><l>truppala<s n="v"/><s n="tv"/></l>      <r>truppala<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tuflash<s n="v"/><s n="iv"/><s n="coop"/></l><r>túpiriw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
-<e>       <p><l>tugatgandan<s n="n"/></l>                 <r>tawsıwdan<s n="n"/></r></p></e>
 <e>       <p><l>tuginmoq<s n="n"/></l>                 <r>túginiw<s n="n"/></r></p></e>
 <e>       <p><l>tugish<s n="v"/><s n="tv"/><s n="coop"/></l><r>tugiw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
 <e>       <p><l>tugmabosh<s n="n"/></l>                <r>túymebas<s n="n"/></r></p></e>
