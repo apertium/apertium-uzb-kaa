@@ -3,7 +3,7 @@
 # Runs a corpus a test - compares the output of the last revision with
 # the current one.
 
-# See http://wiki.apertium.org/wiki/corpus_test
+# See https://wiki.apertium.org/wiki/corpus_test
 
 # uzb-kaa
 

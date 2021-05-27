@@ -322,6 +322,6 @@ S ->
 		NP VP { 1 _1 2 } ;
 
 ! Resources:
-! http://wiki.apertium.org/wiki/Apertium-recursive
-! http://wiki.apertium.org/wiki/Apertium-recursive/Formalism
-! http://wiki.apertium.org/wiki/Apertium-recursive/Cookbook
+! https://wiki.apertium.org/wiki/Apertium-recursive
+! https://wiki.apertium.org/wiki/Apertium-recursive/Formalism
+! https://wiki.apertium.org/wiki/Apertium-recursive/Cookbook
