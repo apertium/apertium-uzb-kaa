@@ -1,0 +1,330 @@
+DELIMITERS = "<.>" "<!>" "<?>" ;
+SOFT-DELIMITERS = "<,>" ;
+
+LIST BOS = (>>>) sent ; # Beginning of sentence
+LIST EOS = (<<<) sent ; # End of sentence
+LIST Lpar = lpar;
+LIST Rpar = rpar ; 
+
+LIST N = n ; 
+LIST V = v ; 
+LIST Prop = np ; 
+LIST Pron = prn ; 
+LIST Num = num ; 
+LIST A = adj ; 
+LIST Det = det ; 
+LIST Adv = adv ; 
+LIST CC = cnjcoo ; 
+LIST CS = cnjsub ; 
+LIST Interj = ij ; 
+LIST Post = post ; 
+LIST Cop = cop ; 
+LIST IV = iv ; 
+LIST TV = tv ; 
+LIST Poss = px1sg px2sg px3sg px1pl px2pl px3pl ; 
+LIST Poss3 = px3sg px3sp px3pl ;
+LIST Poss2 = px2sg ; 
+LIST Past = past ; 
+LIST Px3Sp = px3sp ; 
+LIST Px2Sg = px2sg ;
+
+LIST 1PS = p1 sg ; 
+LIST 2PS = p2 sg ; 
+LIST 3PS = p3 sg ; 
+LIST 3Sg = p3 sg ; 
+LIST 1Pl = p1 pl ; 
+LIST 2Pl = p2 pl ; 
+LIST 3Pl = p3 pl ; 
+
+LIST Person = p1 p2 p3 ; 
+
+LIST Nom = nom ; 
+LIST Gen = gen ; 
+LIST Abe = abe ; 
+LIST Abl = abl ; 
+LIST Acc = acc ; 
+LIST Dat = dat ;  
+LIST Loc = loc ; 
+ 
+LIST Subst = subst ; 
+LIST Attr = attr ; 
+LIST Advl = advl ; 
+
+LIST Ant = (np ant);
+LIST Cog = (np cog);
+
+LIST Recip = rec ; 
+LIST Caus = caus ; 
+LIST Coop = coop ;
+
+LIST FiniteVerb = pres aor past ifi ifi_evid fut fut_plan imp opt pih ;
+
+LIST Ger = ger_past ger_abst ger_inf ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
+
+LIST Prc = prc_impf prc_perf ;
+
+LIST Gna = gna_impf gna_perf gna_cond gna_until gna_after ;
+
+LIST Vaux = vaux ;
+
+LIST rsub = gpr_rsub ; 
+
+LIST Gerinf = ger_inf ; 
+
+LIST Imper = imp ; 
+
+LIST Mistake = mistake ;
+
+LIST Colon = ":" ;
+
+SET FINITE = V - Ger ;
+
+SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC 
+
+SET NOMINAL-HEAD = N | Ger | Subst | Pron ; 
+
+SET PronSg = (prn pers sg) | (prn dem) ;
+
+SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
+SET MARK =  (",") | ("\\") | ("\;") | ("–"); #"
+SET WORDMARK = WORD | MARK ;
+SET PHRASEMARK =  ("\\") | ("\;") ; #"
+
+
+
+REMOVE Mistake ;
+#why is there a tag like this anyway?
+
+
+#To be fixed, ugly
+
+REMOVE Imper IF (NOT 0C Imper) ;
+
+#There can be no gerund at the end of a sentence
+
+REMOVE Ger IF (1 EOS OR Lpar); 
+
+
+# N+attr selections
+REMOVE Attr IF (0 A); 
+#select adjectives over n.attr
+
+REMOVE Attr IF (NOT 1 PRE-N) (NOT 1 NOMINAL-HEAD) (NOT 1/1 NOMINAL-HEAD) ; 
+
+REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
+
+SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
+
+REMOVE Attr IF (1 V) ;
+
+REMOVE Attr IF (1 A) ;
+
+#
+
+
+SELECT Pron IF (0 N) ; 
+
+#REMOVE Cop IF (NOT 1C EOS);
+	
+SELECT SUB:1 Cop IF (1 EOS) ; 
+
+ REMOVE SUB:1 Cop IF
+        (NOT 1 EOS OR MARK OR ("da"))
+;
+ REMOVE SUB:1 Cop IF
+        (-1 BOS OR MARK) ## Headings or enumerations
+        (NOT 1 EOS)
+;
+
+ SELECT SUB:1 Cop IF
+        (1 (lpar))
+        (2* (rpar) BARRIER EOS)
+        (NOT -1 Colon) 
+ ;
+
+
+
+#
+ SELECT SUB:1 Cop IF
+        (1 MARK)
+        (2*/1 Cop BARRIER EOS)
+        (NOT 0 Interj) ## Дұрыс, оның мысығы бар.
+        (NOT 0 FiniteVerb) ## 74 ... барлығы 53 ел [0]қатысты.
+        (NOT 2 N)
+;
+## Жоқ, Айгүлдің күшігі [0]жоқ, оның мысығы [0]бар.
+
+ SELECT SUB:1 Cop IF
+        (1 EOS)
+        (NOT 0 V OR Vaux)
+ ;
+
+
+
+
+#SInce the 3 singular can be mute in some cases, better to remove it if it is not the end of the sentence!
+
+REMOVE 3PS IF (NOT 1 EOS) ; 
+
+# REMOVE the Intransitive if the previous item is in accusative form
+
+REMOVE IV IF (-1C Acc) ;
+
+SELECT TV IF (-1C Acc) ;
+
+#If following item is an ADV, then select Pron reading
+
+SELECT Pron IF (0C Det OR Pron) (1 Adv) ;
+ 
+# Select Proper noun if it starts with a capital letter while not being after a full stop
+
+SELECT Prop IF (0 N)(0 Prop) (0 ("[:upper:]+[:lower:]*"r))(NOT -1 BOS) ;
+
+# IF there is a Noun which is both np and n, and the following name is a cog, then the first one may be as well a proper noun
+
+SELECT Prop IF (0 N) (0 Ant)(1 Cog) (-1 BOS);
+
+#If we have a form which is both present as N1 or derivative gerund, select N1
+
+SELECT N IF (0 N) (0 Ger) ;
+
+# If there's a verb form that can be <coop> or <p3><pl>,
+# usually we want <p3><pl>, unless there's a singular subject maybe?
+REMOVE Coop IF (0 3Pl) (NOT -1* PronSg BARRIER NOMINAL-HEAD ) ;
+
+#REMOVE 3Sg IF (0 3Pl) (NOT -1* PronSg BARRIER NOMINAL-HEAD ) ;
+
+# If it's prc or gna and next word is vaux, then it's probably prc
+SELECT Prc IF (0 Gna) (1 Vaux);
+
+# If previous word is prc and can be verb or vaux, probably vaux
+SELECT Vaux IF (0 V) (-1 Prc) ;
+
+#Construction gen + poss (ataturk'un cumhuriyeti)
+
+SELECT Poss3 IF (-1 Gen) ; 
+
+SELECT Gen IF (1C Poss3) ; 
+
+
+#### POSTPOSITIONS ######
+
+"<bilan>" SELECT Post IF (-1 Ger + Poss) ;
+
+"<sari>" SELECT Post IF (-1 Ger) ;
+
+"<qadar>" SELECT Post IF (-1 Dat) ; 
+
+"<haqida>" SELECT Post IF (-1 Nom) ;
+
+"<oldin>" SELECT Post IF (-1 Abl) ; 
+
+"<tomon>" SELECT Post IF (-1 Dat) ;
+ 
+"<ko'ra>" SELECT Post IF (-1 Dat) ;
+
+"<qarshi>" SELECT Post IF (-1 Dat) ;
+
+"<qaramay>" SELECT Post IF (-1 Dat) ;
+
+"<oid>" SELECT Post IF (-1 Dat) ;
+ 
+"<dovur>" SELECT Post IF (-1 Dat) ;
+
+"<zid>" SELECT Post IF (-1 Dat) ;
+
+"<qarab>" SELECT Post IF (-1 Dat) ;
+
+"<mansub>" SELECT Post IF (-1 Dat) ;
+
+"<boshqa>" SELECT Post IF (-1 Abl) ;
+ 
+"<beri>" SELECT Post IF (-1 Abl) ;
+
+"<buyon>" SELECT Post IF (-1 Abl) ;
+
+"<sababli>" SELECT Post IF (-1 Abl) ;
+
+"<etibaran>" SELECT Post IF (-1 Abl) ;
+ 
+"<avval>" SELECT Post IF (-1 Abl) ;
+
+"<keyin>" SELECT Post IF (-1 Abl) ;
+
+"<oldin>" SELECT Post IF (-1 Abl) ;
+
+"<orqasindan>" SELECT Post IF (-1 Gen) ;
+
+"<mayda>" SELECT N IF (-1 Num) ; 
+
+"<qaraganda>" SELECT Post IF (-1 Dat) ; 
+
+"<deb>" SELECT CS IF (-1 MARK) (1 V) ; 
+#“Qadimgilarga: “Zino qilma”, – deb aytilganini eshitgansizlar.
+
+# ATTRIBUTIVE ADJ
+
+#If an adjective is right before a finite verb, select its adverbial reading
+
+SELECT Advl IF (1C FINITE) ; 
+
+#If an adjective is right before the end of a sentence, we can safely expect it to be an adjective.
+
+SELECT N IF (0 Ger);
+#kurash
+
+REMOVE Advl IF (0 A)(1 EOS) ;
+
+#If the following item does not include a copula in its reading, discard subst from the adjective.
+
+REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
+
+REMOVE A IF (0 A) (NOT 1 Subst) ;
+
+#If an adjective is right before a numeral + noun it is an adjective for sure
+
+SELECT A IF (1C Num) (2C N) ;
+
+## select A if inbetween nouns
+SELECT A IF (-1 N) (1 N) ; 
+ 
+## select A if before copula (idi, iken)
+SELECT A IF (1 Cop) ; 
+
+# 2nd Singular Possessive
+
+REMOVE Poss2 IF (NOT 0 Gen)(1 Poss3) ;
+
+REMOVE Gerinf IF (0 Loc) ;
+#ketmoqda
+
+#VERBS
+
+#Select FINITE FORM (in this case past) if it is the last word of the sentence
+
+SELECT Past IF (1 EOS) ; 
+
+#Remove V + V reading
+
+REMOVE V IF (1 FINITE) (2 EOS) ; 
+
+SELECT A IF (-1 N) (0 Nom) (1 N) ; 
+# Aholining koʻpchilik qismi
+
+REMOVE Attr IF (1C Cop);
+   ## Shu bilan birga kamolchilik inqilobi kator salbiy xususiyatlarga xam ega edi.
+
+REMOVE Interj IF (NOT -1 BOS) (NOT 1 EOS) ;
+ #yoq, bar
+
+SELECT rsub IF (-1 N) (1 N) ;
+#yor olgan tasvir
+
+SELECT Ger IF (0 A) ; 
+#o'tgan
+
+SELECT Sub:1 FINITE IF
+	#(0/1 Ger)                # FIXME: why does this only work when commented
+	(1 EOS OR PHRASEMARK) ;
+
+SELECT Prop IF (0 N) (-1 Post) ;  # e.g. asal/Asal
