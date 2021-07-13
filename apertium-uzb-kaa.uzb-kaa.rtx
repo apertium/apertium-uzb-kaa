@@ -167,11 +167,13 @@ vaux: (if (1.fin_nonfin in tense)
 			1(vaux_inf_vol)
 		elseif (1.fin_nonfin in inf)
 			1(vaux_inf)
-		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger) and ((1.possession="") and (1.case=nom)))
-			1(vaux_ger)[fin_nonfin=ger_pres]
-		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger))
-			1(vaux_ger)[fin_nonfin=ger_past]
+!		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger) and ((1.possession="") and (1.case=nom)))
+!			1(vaux_ger)[fin_nonfin=ger_pres]
+!		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger))
+!			1(vaux_ger)[fin_nonfin=ger_past]
 		elseif (1.fin_nonfin in ger)
+			1(vaux_ger)
+		else
 			1(vaux_ger)
 		);
 
@@ -187,11 +189,13 @@ v: (if (1.fin_nonfin in tense)
 			1(v_inf_vol)
 		elseif (1.fin_nonfin in inf)
 			1(v_inf)
-		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger) and ((1.possession="") and (1.case=nom)))
-			1(v_ger)[fin_nonfin=ger_pres]
-		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger))
-			1(v_ger)[fin_nonfin=ger_past]
+!		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger) and ((1.possession="") and (1.case=nom)))
+!			1(v_ger)[fin_nonfin=ger_pres]
+!		elseif ((1.fin_nonfin in ger) and (1.fin_nonfin=ger))
+!			1(v_ger)[fin_nonfin=ger_past]
 		elseif (1.fin_nonfin in ger)
+			1(v_ger)
+		else
 			1(v_ger)
 		);
 
