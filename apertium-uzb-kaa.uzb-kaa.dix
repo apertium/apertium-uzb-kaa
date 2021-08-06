@@ -2869,7 +2869,7 @@
 <e>       <p><l>boqimsiz<s n="adj"/></l>               <r>jetim<s n="adj"/></r></p></e>
 <e>       <p><l>boqish<s n="v"/><s n="tv"/><s n="coop"/></l><r>qaraw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
 <e>       <p><l>bor<s n="n"/></l>                      <r>por<s n="n"/></r></p></e>
-<e>       <p><l>bor<s n="v"/></l>                      <r>bar<s n="n"/></r></p></e>
+<e>       <p><l>bor<s n="v"/><s n="iv"/></l>                      <r>bar<s n="n"/></r></p></e>
 <e>       <p><l>bor<s n="adj"/></l>                      <r>bar<s n="n"/></r></p></e>
 <e>       <p><l>bora<s n="n"/></l>                     <r>bara<s n="n"/></r></p></e>
 <e>       <p><l>bordi-keldi<s n="n"/></l>              <r>bardı-keldi<s n="n"/></r></p></e>
@@ -7516,6 +7516,7 @@
 <e>       <p><l>qofiyaboz<s n="n"/></l>                <r>uyqas tapqısh<s n="n"/></r></p></e>
 <e>       <p><l>qofiyali<s n="adj"/></l>               <r>uyqaslı<s n="adj"/></r></p></e>
 <e>       <p><l>qoida<s n="n"/></l>                    <r>qaǵıyda<s n="n"/></r></p></e>
+<e>       <p><l>qoldi<s n="v"/></l>                   <r>qaldı<s n="v"/></r></p></e>
 <e>       <p><l>qoldiq<s n="n"/></l>                   <r>qaldıq<s n="n"/></r></p></e>
 <e>       <p><l>qolip<s n="adj"/></l>                  <r>qálip<s n="adj"/></r></p></e>
 <e>       <p><l>qolish<s n="v"/><s n="tv"/><s n="coop"/></l><r>qalıw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
@@ -16760,6 +16761,7 @@
 <e>       <p><l>turush<s n="n"/></l>                   <r>ashıǵan<s n="n"/></r></p></e>
 <e>       <p><l>tush<s n="v"/><s n="iv"/></l>          <r>tús<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>tushayish<s n="v"/><s n="iv"/><s n="coop"/></l><r>bultıyıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>tushintirish<s n="v"/></l>                 <r>túsindiriw<s n="v"/></r></p></e>
 <e>       <p><l>tushirgi<s n="n"/></l>                 <r>túsirgi<s n="n"/></r></p></e>
 <e>       <p><l>tushirgich<s n="n"/></l>               <r>túsirgish<s n="n"/></r></p></e>
 <e>       <p><l>tushiril<s n="v"/><s n="iv"/></l>      <r>túsiril<s n="v"/><s n="iv"/></r></p></e>
@@ -16870,6 +16872,7 @@
 <e>       <p><l>urugʻlik<s n="n"/></l>                 <r>tuqımlıq<s n="n"/></r></p></e>
 <e>       <p><l>urugʻxona<s n="n"/></l>                <r>tuqım xana<s n="n"/></r></p></e>
 <e>       <p><l>uruq<s n="n"/></l>                     <r>tuqım<s n="n"/></r></p></e>
+<e>       <p><l>ustoz<s n="n"/></l>                     <r>ustaz<s n="n"/></r></p></e>
 <e>       <p><l>ushatil<s n="v"/><s n="tv"/></l>       <r>maydalanıw<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ushatiqli<s n="adj"/></l>              <r>sındırılǵan<s n="adj"/></r></p></e>
 <e>       <p><l>ushatish<s n="n"/><s n="vn"/></l>      <r>sındırıw<s n="n"/><s n="vn"/></r></p></e>
@@ -17023,6 +17026,7 @@
 <e>       <p><l>xaxolash<s n="v"/><s n="iv"/><s n="coop"/></l><r>xaxolaw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>xaykaltarosh<s n="n"/></l>             <r>háykelshi<s n="n"/></r></p></e>
 <e>       <p><l>xayolkashlik<s n="n"/></l>             <r>qıyalkeshlik<s n="n"/></r></p></e>
+<e>       <p><l>xayolchan<s n="n"/></l>             <r>qıyalkesh<s n="n"/></r></p></e>
 <e>       <p><l>xayolqash<s n="n"/></l>                <r>qıyalqash<s n="n"/></r></p></e>
 <e>       <p><l>xayr-ma’zurʻzur<s n="n"/></l>          <r>xoshalliyarʻzur<s n="n"/></r></p></e>
 <e>       <p><l>xayr-xush<s n="n"/></l>                <r>qayır-xush<s n="n"/></r></p></e>
@@ -17050,6 +17054,7 @@
 <e>       <p><l>xizmatkash<s n="adj"/></l>             <r>xızmetkash<s n="adj"/></r></p></e>
 <e>       <p><l>xlorid<s n="n"/></l>                   <r>xlorid<s n="n"/></r></p></e>
 <e>       <p><l>xmdo<s n="n"/></l>                     <r>xmdo<s n="n"/></r></p></e>
+<e>       <p><l>xodim<s n="n"/></l>                 <r>xizmetker<s n="n"/></r></p></e>
 <e>       <p><l>xohlash<s n="v"/><s n="iv"/><s n="coop"/></l><r>qálew<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>xokitoʻrob<s n="n"/></l>               <r>jer menen jeksen bolıw<s n="n"/></r></p></e>
 <e>       <p><l>xolisan<s n="n"/></l>                  <r>qalısan<s n="n"/></r></p></e>
@@ -17068,6 +17073,7 @@
 <e>       <p><l>xotinak<s n="n"/></l>                  <r>hayalak<s n="n"/></r></p></e>
 <e>       <p><l>xotinfurush<s n="n"/></l>              <r>hayalfurush<s n="n"/></r></p></e>
 <e>       <p><l>xotirlash<s n="v"/><s n="iv"/><s n="coop"/></l><r>eslew<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>xotira<s n="n"/></l>                 <r>yad<s n="n"/></r></p></e>
 <e>       <p><l>xotirlik<s n="n"/></l>                 <r>qálemew<s n="n"/></r></p></e>
 <e>       <p><l>xoxlamoq<s n="adj"/></l>               <r>qálew<s n="adj"/></r></p></e>
 <e>       <p><l>xoʻja<s n="n"/></l>                    <r>xojayın<s n="n"/></r></p></e>
@@ -17464,7 +17470,7 @@
 <e>       <p><l>yozish-chizish<s n="n"/></l>           <r>jazıw-sızıw<s n="n"/></r></p></e>
 <e>       <p><l>yozishicha<s n="adj"/></l>             <r>jayıwısha<s n="adj"/></r></p></e>
 <e>       <p><l>yozmoq<s n="n"/></l>                   <r>jayıw<s n="n"/></r></p></e>
-<e>       <p><l>yozuvchu<s n="n"/></l>                 <r>jazıwchu<s n="n"/></r></p></e>
+<e>       <p><l>yozuvchi<s n="n"/></l>                 <r>jazıwchı<s n="n"/></r></p></e>
 <e>       <p><l>yoʻgʻir<s n="v"/><s n="tv"/><s n="caus"/></l><r>qosıw<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>yoʻgʻon<s n="adj"/></l>                <r>tolıq<s n="adj"/></r></p></e>
 <e>       <p><l>yoʻgʻonlash<s n="v"/><s n="iv"/></l>   <r>semiriw<s n="v"/><s n="iv"/></r></p></e>
@@ -17617,6 +17623,7 @@
 <e>       <p><l>zingʻircha<s n="n"/></l>               <r>zıǵırday<s n="n"/></r></p></e>
 <e>       <p><l>zip<s n="n"/></l>                      <r>zip<s n="n"/></r></p></e>
 <e>       <p><l>zirq-zirq<s n="ideo"/></l>             <r>zirq-zirq<s n="ideo"/></r></p></e>
+<e>       <p><l>ziyod<s n="adj"/></l>                      <r>ziyat<s n="adj"/></r></p></e>
 <e>       <p><l>ziyodalash<s n="v"/><s n="iv"/></l>    <r>zıyadalaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>zmeyevik<s n="n"/></l>                 <r>zmeyevik<s n="n"/></r></p></e>
 <e>       <p><l>zogʻ<s n="n"/></l>                     <r>ǵarǵa<s n="n"/></r></p></e>
@@ -18547,7 +18554,8 @@
 <e>       <p><l>qiyiq<s n="adv"/></l>                  <r>qıyıq<s n="adv"/></r></p></e>
 <e>       <p><l>qiyshiq<s n="adv"/></l>                <r>qıysıq<s n="adv"/></r></p></e>
 <e>       <p><l>qizil<s n="adv"/></l>                  <r>qızıl<s n="adv"/></r></p></e>
-<e>       <p><l>qiziqqon<s n="adv"/></l>               <r>qızıqqon<s n="adv"/></r></p></e>
+<e>       <p><l>qiziq<s n="adv"/></l>                  <r>qızıqlı<s n="adv"/></r></p></e>
+<e>       <p><l>qiziqqon<s n="adv"/></l>               <r>qızıqqan<s n="adv"/></r></p></e>
 <e>       <p><l>qobil<s n="adv"/></l>                  <r>uqıplı<s n="adv"/></r></p></e>
 <e>       <p><l>qobiliyatli<s n="adv"/></l>            <r>qábiletli<s n="adv"/></r></p></e>
 <e>       <p><l>qodir<s n="adv"/></l>                  <r>ılayıq<s n="adv"/></r></p></e>
@@ -19341,7 +19349,9 @@
 <e>       <p><l>tashlandi<s n="adv"/></l>              <r>taslandıq<s n="adv"/></r></p></e>
 <e>       <p><l>tashkil<s n="adv"/></l>                 <r>ornalastırıw<s n="adv"/></r></p></e>
 <e>       <p><l>tashkiliy-siyosiy<s n="adv"/></l>      <r>shólkemlesken-siyasiy<s n="adv"/></r></p></e>
-<e>       <p><l>tashviqiy<s n="adv"/></l>              <r>tasviqiy<s n="adv"/></r></p></e>
+<e>       <p><l>tashviqiy<s n="adv"/></l>              <r>tasviqiy<s 
+n="adv"/></r></p></e>
+<e>       <p><l>tayyor<s n="adj"/><s n="tv"/></l>             <r>tayar<s n="adj"/></r></p></e>
 <e>       <p><l>tayyorlash<s n="adv"/></l>             <r>tayarlaw<s n="adv"/></r></p></e>
 <e>       <p><l>ta’msiz<s n="adv"/></l>                <r>dámsiz<s n="adv"/></r></p></e>
 <e>       <p><l>ta’naomuz<s n="adv"/></l>              <r>minnet gáp<s n="adv"/></r></p></e>
@@ -19357,6 +19367,7 @@
 <e>       <p><l>tishqoli<s n="adv"/></l>               <r>tishqalı<s n="adv"/></r></p></e>
 <e>       <p><l>togʻli<s n="adv"/></l>                 <r>tawlıq<s n="adv"/></r></p></e>
 <e>       <p><l>tomon<s n="n"/></l>                 <r>tárep<s n="n"/></r></p></e>
+<e>       <p><l>tomchi<s n="n"/></l>                 <r>tamshi<s n="n"/></r></p></e>
 <e>       <p><l>toshkumir<s n="adv"/></l>              <r>taskómir<s n="adv"/></r></p></e>
 <e>       <p><l>tovutqash<s n="adv"/></l>              <r>tabıtqas<s n="adv"/></r></p></e>
 <e>       <p><l>toʻfonli<s n="adv"/></l>               <r>topanlı<s n="adv"/></r></p></e>
@@ -20577,6 +20588,7 @@
 <e>       <p><l>Natalya<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Natalya<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Natasha<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Natasha<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Ni<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Ni<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>Nigora<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Nigora<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Nikita<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Nikita<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Nina<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Iyne<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e>       <p><l>Nisa<s n="np"/><s n="ant"/><s n="f"/></l>    <r>Nisa<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
