@@ -2496,7 +2496,7 @@
 <e>       <p><l>bartaraf<s n="adj"/></l>               <r>jónge salıw<s n="adj"/></r></p></e>
 <e>       <p><l>barxan<s n="n"/></l>                   <r>barxan<s n="n"/></r></p></e>
 <e>       <p><l>barxit<s n="n"/></l>                   <r>barqıt<s n="n"/></r></p></e>
-<e>       <p><l>barcha<s n="prn"/></l>                 <r>barlıq<s n="prn"/></r></p></e>
+<e>       <p><l>barcha<s n="det"/><s n="dem"/></l>                 <r>barlıq<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>barqaror<s n="adj"/></l>               <r>turaqlı<s n="adj"/></r></p></e>
 <e>       <p><l>barqarorlik<s n="n"/></l>              <r>turaqlılıq<s n="n"/></r></p></e>
 <e>       <p><l>barqut<s n="n"/></l>                   <r>jaǵımı<s n="n"/></r></p></e>
@@ -2869,8 +2869,8 @@
 <e>       <p><l>boqimsiz<s n="adj"/></l>               <r>jetim<s n="adj"/></r></p></e>
 <e>       <p><l>boqish<s n="v"/><s n="tv"/><s n="coop"/></l><r>qaraw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
 <e>       <p><l>bor<s n="n"/></l>                      <r>por<s n="n"/></r></p></e>
-<e>       <p><l>bor<s n="v"/><s n="iv"/></l>                      <r>bar<s n="n"/></r></p></e>
-<e>       <p><l>bor<s n="adj"/></l>                      <r>bar<s n="n"/></r></p></e>
+<e>       <p><l>bor<s n="v"/><s n="iv"/></l>                      <r>bar<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>bor<s n="adj"/></l>                      <r>bar<s n="adj"/></r></p></e>
 <e>       <p><l>bora<s n="n"/></l>                     <r>bara<s n="n"/></r></p></e>
 <e>       <p><l>bordi-keldi<s n="n"/></l>              <r>bardı-keldi<s n="n"/></r></p></e>
 <e>       <p><l>bordon<s n="n"/></l>                   <r>mardan<s n="n"/></r></p></e>
@@ -3711,6 +3711,7 @@
 <e>       <p><l>eskimo<s n="n"/></l>                   <r>eskimo<s n="n"/></r></p></e>
 <e>       <p><l>eskimos<s n="n"/></l>                  <r>eskimos<s n="n"/></r></p></e>
 <e>       <p><l>eskiz<s n="n"/></l>                    <r>eskiz<s n="n"/></r></p></e>
+<e>       <p><l>esla<s n="v"/></l>                  <r>esle<s n="v"/></r></p></e>
 <e>       <p><l>eslat<s n="n"/><s n="vn"/></l>         <r>eskertiw<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>eslatma<s n="n"/></l>                  <r>esletpe<s n="n"/></r></p></e>
 <e>       <p><l>esminets<s n="n"/></l>                 <r>esminets<s n="n"/></r></p></e>
@@ -16873,6 +16874,8 @@
 <e>       <p><l>urugʻxona<s n="n"/></l>                <r>tuqım xana<s n="n"/></r></p></e>
 <e>       <p><l>uruq<s n="n"/></l>                     <r>tuqım<s n="n"/></r></p></e>
 <e>       <p><l>ustoz<s n="n"/></l>                     <r>ustaz<s n="n"/></r></p></e>
+<e>       <p><l>usta<s n="n"/></l>                     <r>usta<s n="n"/></r></p></e>
+<e>       <p><l>usti<s n="n"/></l>                   <r>ústi<s n="n"/></r></p></e>
 <e>       <p><l>ushatil<s n="v"/><s n="tv"/></l>       <r>maydalanıw<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ushatiqli<s n="adj"/></l>              <r>sındırılǵan<s n="adj"/></r></p></e>
 <e>       <p><l>ushatish<s n="n"/><s n="vn"/></l>      <r>sındırıw<s n="n"/><s n="vn"/></r></p></e>
@@ -17132,6 +17135,7 @@
 <e>       <p><l>xurjunlash<s n="v"/><s n="iv"/></l>    <r>qorjınlaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>xurjunlashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>qorjınlastır<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>xurofotfurush<s n="n"/></l>            <r>ırımfurush<s n="n"/></r></p></e>
+<e>       <p><l>xush<s n="adj"/></l>              <r>xosh<s n="adj"/></r></p></e>
 <e>       <p><l>xushatvor<s n="adj"/></l>              <r>jaqsı tarbıyalı<s n="adj"/></r></p></e>
 <e>       <p><l>xushbahra<s n="adj"/></l>              <r>ráxátli<s n="adj"/></r></p></e>
 <e>       <p><l>xushbahralik<s n="n"/></l>             <r>ráxátli<s n="n"/></r></p></e>
@@ -17238,6 +17242,7 @@
 <e>       <p><l>yaramoq<s n="n"/></l>                  <r>jaraw<s n="n"/></r></p></e>
 <e>       <p><l>yarash-yarash<s n="n"/></l>            <r>jaraw-jaraw<s n="n"/></r></p></e>
 <e>       <p><l>yarashiq<s n="adj"/></l>               <r>jarasıqlı<s n="adj"/></r></p></e>
+<e>       <p><l>yaratish<s n="adj"/></l>               <r>jaratıw<s n="adj"/></r></p></e>
 <e>       <p><l>yarim-yerti<s n="adv"/></l>            <r>yarım-yerti<s n="adv"/></r></p></e>
 <e>       <p><l>yarimoʻtkazgich<s n="n"/></l>          <r>yarım ótkezgish<s n="n"/></r></p></e>
 <e>       <p><l>yarim{u}m<s n="adj"/></l>              <r>yarım<s n="adj"/></r></p></e>
@@ -17439,6 +17444,7 @@
 <e>       <p><l>yoqligida<s n="adv"/></l>              <r>may gezinde<s n="adv"/></r></p></e>
 <e>       <p><l>yor-doʻstlar<s n="n"/></l>             <r>yar-doslar<s n="n"/></r></p></e>
 <e>       <p><l>yorgʻi<s n="n"/></l>                   <r>járiyma<s n="n"/></r></p></e>
+<e>       <p><l>yorish<s n="v"/></l>                   <r>jarıw<s n="v"/></r></p></e>
 <e>       <p><l>yorlash<s n="v"/><s n="iv"/></l>       <r>járdemlesiw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yorugʻ<s n="adj"/></l>                 <r>jarıq<s n="adj"/></r></p></e>
 <e>       <p><l>yorugʻlash<s n="v"/><s n="iv"/></l>    <r>jarıqlaw<s n="v"/><s n="iv"/></r></p></e>
@@ -18883,6 +18889,7 @@
 <e>       <p><l>forigʻ<s n="adv"/></l>                 <r>azat<s n="adv"/></r></p></e>
 <e>       <p><l>forigʻbol<s n="adv"/></l>              <r>azatbol<s n="adv"/></r></p></e>
 <e>       <p><l>gardankash<s n="adv"/></l>             <r>moyınnıń arqa tárepikash<s n="adv"/></r></p></e>
+<e>       <p><l>garang<s n="n"/></l>             <r>gereń<s n="n"/></r></p></e>
 <e>       <p><l>gashtli<s n="adv"/></l>                <r>ráhátli<s n="adv"/></r></p></e>
 <e>       <p><l>gavharafshon<s n="adv"/></l>           <r>gáwharday nur shashıwshı<s n="adv"/></r></p></e>
 <e>       <p><l>goʻlos<s n="adv"/></l>                 <r>qońır<s n="adv"/></r></p></e>
@@ -19044,7 +19051,7 @@
 <e>       <p><l>loʻppak<s n="adv"/></l>                <r>pisken<s n="adv"/></r></p></e>
 <e>       <p><l>loʻppak-luppak<s n="adv"/></l>         <r>kórkem<s n="adv"/></r></p></e>
 <e>       <p><l>loʻppi<s n="adv"/></l>                 <r>semiz<s n="adv"/></r></p></e>
-<e>       <p><l>lugʻat<s n="adv"/></l>                 <r>sózlik<s n="adv"/></r></p></e>
+<e>       <p><l>lugʻat<s n="n"/></l>                 <r>sózlik<s n="n"/></r></p></e>
 <e>       <p><l>lugʻaviya<s n="adv"/></l>              <r>leksikalogika<s n="adv"/></r></p></e>
 <e>       <p><l>magʻizli<s n="adv"/></l>               <r>maǵızlı<s n="adv"/></r></p></e>
 <e>       <p><l>mal’un<s n="adv"/></l>              <r>ǵarǵıs alǵan<s n="adv"/></r></p></e>
