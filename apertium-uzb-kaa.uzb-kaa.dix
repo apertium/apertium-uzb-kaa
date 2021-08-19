@@ -7518,7 +7518,7 @@
 <e>       <p><l>qofiyali<s n="adj"/></l>               <r>uyqaslı<s n="adj"/></r></p></e>
 <e>       <p><l>qoida<s n="n"/></l>                    <r>qaǵıyda<s n="n"/></r></p></e>
 <e>       <p><l>qol<s n="n"/></l>                   <r>qol<s n="n"/></r></p></e>
-<e>       <p><l>qol<s n="v"/></l>                   <r>qal<s n="v"/></r></p></e>
+<e>       <p><l>qol<s n="v"/><s n="iv"/></l>                   <r>qal<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>qoldiq<s n="n"/></l>                   <r>qaldıq<s n="n"/></r></p></e>
 <e>       <p><l>qolip<s n="adj"/></l>                  <r>qálip<s n="adj"/></r></p></e>
 <e>       <p><l>qolish<s n="v"/><s n="tv"/><s n="coop"/></l><r>qalıw<s n="v"/><s n="tv"/><s n="coop"/></r></p></e>
@@ -12823,78 +12823,78 @@
 <e>       <p><l>mayish<s n="v"/><s n="iv"/></l>        <r>iyiliw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>mayrilmoq<s n="adj"/></l>              <r>mertik<s n="adj"/></r></p></e>
 <e>       <p><l>mazutla<s n="v"/><s n="tv"/></l>       <r>mazutla<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>ma’lum<s n="adj"/></l>                 <r>belgili<s n="adj"/></r></p></e>
-<e>       <p><l>ma’lumot<s n="n"/></l>                 <r>maǵlıwmat<s n="n"/></r></p></e>
-<e>       <p><l>ma’muriy<s n="adj"/></l>               <r>basqarıw<s n="adj"/></r></p></e>
-<e>       <p><l>ma’muriyat<s n="n"/></l>               <r>basqarıwat<s n="n"/></r></p></e>
-<e>       <p><l>ma’no<s n="n"/></l>                    <r>mánis<s n="n"/></r></p></e>
-<e>       <p><l>ma’noli<s n="adj"/></l>                <r>mánisli<s n="adj"/></r></p></e>
-<e>       <p><l>ma’rifat<s n="n"/></l>                 <r>bilim<s n="n"/></r></p></e>
+<e>       <p><l>maʼlum<s n="adj"/></l>                 <r>belgili<s n="adj"/></r></p></e>
+<e>       <p><l>maʼlumot<s n="n"/></l>                 <r>maǵlıwmat<s n="n"/></r></p></e>
+<e>       <p><l>maʼmuriy<s n="adj"/></l>               <r>basqarıw<s n="adj"/></r></p></e>
+<e>       <p><l>maʼmuriyat<s n="n"/></l>               <r>basqarıwat<s n="n"/></r></p></e>
+<e>       <p><l>maʼno<s n="n"/></l>                    <r>mánis<s n="n"/></r></p></e>
+<e>       <p><l>maʼnoli<s n="adj"/></l>                <r>mánisli<s n="adj"/></r></p></e>
+<e>       <p><l>maʼrifat<s n="n"/></l>                 <r>bilim<s n="n"/></r></p></e>
 <e>       <p><l>maʼnaviy<s n="adj"/></l>               <r>ruwxıy<s n="adj"/></r></p></e>
-<e>       <p><l>ma’buda<s n="n"/></l>             <r>hayal quday<s n="n"/></r></p></e>
-<e>       <p><l>ma’danchi<s n="n"/></l>         <r>metallshı<s n="n"/></r></p></e>
-<e>       <p><l>ma’daniy<s n="adj"/></l>         <r>metalliy<s n="adj"/></r></p></e>
-<e>       <p><l>ma’danshunos<s n="n"/></l>   <r>metallshunos<s n="n"/></r></p></e>
-<e>       <p><l>ma’dan<s n="n"/></l>               <r>metall<s n="n"/></r></p></e>
-<e>       <p><l>ma’kullan<s n="v"/><s n="tv"/></l><r>maqullan<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>ma’kullash<s n="n"/><s n="vn"/></l><r>maqullaw<s n="n"/><s n="vn"/></r></p></e>
-<e>       <p><l>ma’kullat<s n="v"/><s n="tv"/><s n="caus"/></l><r>maqullat<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
-<e>       <p><l>ma’lumki<s n="n"/></l>           <r>ekenin aytıw kerek<s n="n"/></r></p></e>
-<e>       <p><l>ma’lumotli<s n="adj"/></l>     <r>maǵlıwmatlı<s n="adj"/></r></p></e>
-<e>       <p><l>ma’lumot<s n="n"/></l>           <r>maǵlıwmat<s n="n"/></r></p></e>
-<e>       <p><l>ma’lum<s n="n"/></l>               <r>belgili<s n="n"/></r></p></e>
-<e>       <p><l>ma’mura<s n="n"/></l>             <r>administratora<s n="n"/></r></p></e>
-<e>       <p><l>ma’muriyatchilik<s n="n"/></l><r>basqarıwatchilik<s n="n"/></r></p></e>
-<e>       <p><l>ma’muriyat<s n="n"/></l>       <r>basqarıwat<s n="n"/></r></p></e>
-<e>       <p><l>ma’muriy<s n="n"/></l>           <r>basqarıw<s n="n"/></r></p></e>
-<e>       <p><l>ma’murlik<s n="n"/></l>         <r>administratorlıq<s n="n"/></r></p></e>
-<e>       <p><l>ma’mur<s n="n"/></l>               <r>administrator<s n="n"/></r></p></e>
-<e>       <p><l>ma’nan<s n="adj"/></l>             <r>mánisi boyınsha<s n="adj"/></r></p></e>
-<e>       <p><l>ma’naviy-siyosiy<s n="adj"/></l><r>ruwxıy-siyasiy<s n="adj"/></r></p></e>
-<e>       <p><l>ma’naviy<s n="adj"/></l>         <r>ruwxıy<s n="adj"/></r></p></e>
-<e>       <p><l>ma’nili<s n="adj"/></l>           <r>mánili<s n="adj"/></r></p></e>
-<e>       <p><l>ma’ni<s n="n"/></l>                 <r>máni<s n="n"/></r></p></e>
-<e>       <p><l>ma’nodorlik<s n="n"/></l>     <r>mánisdorlik<s n="n"/></r></p></e>
-<e>       <p><l>ma’nodor<s n="adj"/></l>         <r>mánisdor<s n="adj"/></r></p></e>
-<e>       <p><l>ma’nodosh<s n="n"/></l>         <r>mánisles<s n="n"/></r></p></e>
-<e>       <p><l>ma’noli<s n="adj"/></l>           <r>mánisli<s n="adj"/></r></p></e>
-<e>       <p><l>ma’nosizlan<s n="v"/><s n="iv"/></l><r>mánisizlen<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>ma’nosizlik<s n="n"/></l>     <r>mánisizlik<s n="n"/></r></p></e>
-<e>       <p><l>ma’nosiz<s n="adj"/></l>         <r>mánisiz<s n="adj"/></r></p></e>
-<e>       <p><l>ma’no<s n="n"/></l>                 <r>mánis<s n="n"/></r></p></e>
-<e>       <p><l>ma’qulla<s n="v"/><s n="tv"/></l><r>maqulla<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>ma’qullik<s n="n"/></l>         <r>maqullik<s n="n"/></r></p></e>
-<e>       <p><l>ma’qul<s n="adj"/></l>             <r>maqul<s n="adj"/></r></p></e>
-<e>       <p><l>ma’rakador<s n="n"/></l>       <r>sadaqador<s n="n"/></r></p></e>
-<e>       <p><l>ma’raka<s n="n"/></l>             <r>sadaqa<s n="n"/></r></p></e>
-<e>       <p><l>ma’ramoq<s n="n"/></l>           <r>mańıraw<s n="n"/></r></p></e>
-<e>       <p><l>ma’rash<s n="v"/><s n="iv"/><s n="coop"/></l><r>mańıraw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
-<e>       <p><l>ma’rifatchi<s n="n"/></l>     <r>aǵartıwshı<s n="n"/></r></p></e>
-<e>       <p><l>ma’rifatli<s n="adj"/></l>     <r>bilimli<s n="adj"/></r></p></e>
-<e>       <p><l>ma’rifatparvarlik<s n="n"/></l><r>bilimparvarlik<s n="n"/></r></p></e>
-<e>       <p><l>ma’rifatparvar<s n="n"/></l><r>bilimparvar<s n="n"/></r></p></e>
-<e>       <p><l>ma’rifatsiz<s n="adj"/></l>   <r>bilimsiz<s n="adj"/></r></p></e>
-<e>       <p><l>ma’rifat<s n="n"/></l>           <r>bilim<s n="n"/></r></p></e>
-<e>       <p><l>ma’ruf<s n="n"/></l>               <r>belgili<s n="n"/></r></p></e>
-<e>       <p><l>ma’ruzachi<s n="n"/></l>       <r>bayanatshı<s n="n"/></r></p></e>
-<e>       <p><l>ma’ruza<s n="n"/></l>             <r>lekciya<s n="n"/></r></p></e>
-<e>       <p><l>ma’shuqa<s n="n"/></l>           <r>oynas<s n="n"/></r></p></e>
-<e>       <p><l>ma’shuqlik<s n="n"/></l>       <r>oynaslıq<s n="n"/></r></p></e>
-<e>       <p><l>ma’shuq<s n="n"/></l>             <r>oynas<s n="n"/></r></p></e>
-<e>       <p><l>ma’suma<s n="n"/></l>             <r>gúnasıza<s n="n"/></r></p></e>
-<e>       <p><l>ma’sumlik<s n="n"/></l>         <r>gúnasızlıq<s n="n"/></r></p></e>
-<e>       <p><l>ma’sumona<s n="adj"/></l>       <r>gúnasızona<s n="adj"/></r></p></e>
-<e>       <p><l>ma’sum<s n="adj"/></l>             <r>gúnasız<s n="adj"/></r></p></e>
-<e>       <p><l>ma’vo<s n="n"/></l>                 <r>pana<s n="n"/></r></p></e>
-<e>       <p><l>ma’yub<s n="n"/></l>               <r>ayıpker<s n="n"/></r></p></e>
-<e>       <p><l>ma’yuslangir<s n="v"/><s n="tv"/><s n="caus"/></l><r>muńlilangir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
-<e>       <p><l>ma’yuslan<s n="v"/><s n="iv"/></l><r>muńlilen<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>ma’yuslik<s n="n"/></l>         <r>muńlilik<s n="n"/></r></p></e>
-<e>       <p><l>ma’yusona<s n="adj"/></l>       <r>muńliona<s n="adj"/></r></p></e>
-<e>       <p><l>ma’yus<s n="n"/></l>               <r>muńli<s n="n"/></r></p></e>
-<e>       <p><l>ma’zirat<s n="n"/></l>           <r>keshirim<s n="n"/></r></p></e>
-<e>       <p><l>ma’zul<s n="n"/></l>               <r>hámelinen<s n="n"/></r></p></e>
-<e>       <p><l>ma’zur<s n="adj"/></l>             <r>keshirimli<s n="adj"/></r></p></e>
+<e>       <p><l>maʼbuda<s n="n"/></l>             <r>hayal quday<s n="n"/></r></p></e>
+<e>       <p><l>maʼdanchi<s n="n"/></l>         <r>metallshı<s n="n"/></r></p></e>
+<e>       <p><l>maʼdaniy<s n="adj"/></l>         <r>metalliy<s n="adj"/></r></p></e>
+<e>       <p><l>maʼdanshunos<s n="n"/></l>   <r>metallshunos<s n="n"/></r></p></e>
+<e>       <p><l>maʼdan<s n="n"/></l>               <r>metall<s n="n"/></r></p></e>
+<e>       <p><l>maʼkullan<s n="v"/><s n="tv"/></l><r>maqullan<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>maʼkullash<s n="n"/><s n="vn"/></l><r>maqullaw<s n="n"/><s n="vn"/></r></p></e>
+<e>       <p><l>maʼkullat<s n="v"/><s n="tv"/><s n="caus"/></l><r>maqullat<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
+<e>       <p><l>maʼlumki<s n="n"/></l>           <r>ekenin aytıw kerek<s n="n"/></r></p></e>
+<e>       <p><l>maʼlumotli<s n="adj"/></l>     <r>maǵlıwmatlı<s n="adj"/></r></p></e>
+<e>       <p><l>maʼlumot<s n="n"/></l>           <r>maǵlıwmat<s n="n"/></r></p></e>
+<e>       <p><l>maʼlum<s n="n"/></l>               <r>belgili<s n="n"/></r></p></e>
+<e>       <p><l>maʼmura<s n="n"/></l>             <r>administratora<s n="n"/></r></p></e>
+<e>       <p><l>maʼmuriyatchilik<s n="n"/></l><r>basqarıwatchilik<s n="n"/></r></p></e>
+<e>       <p><l>maʼmuriyat<s n="n"/></l>       <r>basqarıwat<s n="n"/></r></p></e>
+<e>       <p><l>maʼmuriy<s n="n"/></l>           <r>basqarıw<s n="n"/></r></p></e>
+<e>       <p><l>maʼmurlik<s n="n"/></l>         <r>administratorlıq<s n="n"/></r></p></e>
+<e>       <p><l>maʼmur<s n="n"/></l>               <r>administrator<s n="n"/></r></p></e>
+<e>       <p><l>maʼnan<s n="adj"/></l>             <r>mánisi boyınsha<s n="adj"/></r></p></e>
+<e>       <p><l>maʼnaviy-siyosiy<s n="adj"/></l><r>ruwxıy-siyasiy<s n="adj"/></r></p></e>
+<e>       <p><l>maʼnaviy<s n="adj"/></l>         <r>ruwxıy<s n="adj"/></r></p></e>
+<e>       <p><l>maʼnili<s n="adj"/></l>           <r>mánili<s n="adj"/></r></p></e>
+<e>       <p><l>maʼni<s n="n"/></l>                 <r>máni<s n="n"/></r></p></e>
+<e>       <p><l>maʼnodorlik<s n="n"/></l>     <r>mánisdorlik<s n="n"/></r></p></e>
+<e>       <p><l>maʼnodor<s n="adj"/></l>         <r>mánisdor<s n="adj"/></r></p></e>
+<e>       <p><l>maʼnodosh<s n="n"/></l>         <r>mánisles<s n="n"/></r></p></e>
+<e>       <p><l>maʼnoli<s n="adj"/></l>           <r>mánisli<s n="adj"/></r></p></e>
+<e>       <p><l>maʼnosizlan<s n="v"/><s n="iv"/></l><r>mánisizlen<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>maʼnosizlik<s n="n"/></l>     <r>mánisizlik<s n="n"/></r></p></e>
+<e>       <p><l>maʼnosiz<s n="adj"/></l>         <r>mánisiz<s n="adj"/></r></p></e>
+<e>       <p><l>maʼno<s n="n"/></l>                 <r>mánis<s n="n"/></r></p></e>
+<e>       <p><l>maʼqulla<s n="v"/><s n="tv"/></l><r>maqulla<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>maʼqullik<s n="n"/></l>         <r>maqullik<s n="n"/></r></p></e>
+<e>       <p><l>maʼqul<s n="adj"/></l>             <r>maqul<s n="adj"/></r></p></e>
+<e>       <p><l>maʼrakador<s n="n"/></l>       <r>sadaqador<s n="n"/></r></p></e>
+<e>       <p><l>maʼraka<s n="n"/></l>             <r>sadaqa<s n="n"/></r></p></e>
+<e>       <p><l>maʼramoq<s n="n"/></l>           <r>mańıraw<s n="n"/></r></p></e>
+<e>       <p><l>maʼrash<s n="v"/><s n="iv"/><s n="coop"/></l><r>mańıraw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>maʼrifatchi<s n="n"/></l>     <r>aǵartıwshı<s n="n"/></r></p></e>
+<e>       <p><l>maʼrifatli<s n="adj"/></l>     <r>bilimli<s n="adj"/></r></p></e>
+<e>       <p><l>maʼrifatparvarlik<s n="n"/></l><r>bilimparvarlik<s n="n"/></r></p></e>
+<e>       <p><l>maʼrifatparvar<s n="n"/></l><r>bilimparvar<s n="n"/></r></p></e>
+<e>       <p><l>maʼrifatsiz<s n="adj"/></l>   <r>bilimsiz<s n="adj"/></r></p></e>
+<e>       <p><l>maʼrifat<s n="n"/></l>           <r>bilim<s n="n"/></r></p></e>
+<e>       <p><l>maʼruf<s n="n"/></l>               <r>belgili<s n="n"/></r></p></e>
+<e>       <p><l>maʼruzachi<s n="n"/></l>       <r>bayanatshı<s n="n"/></r></p></e>
+<e>       <p><l>maʼruza<s n="n"/></l>             <r>lekciya<s n="n"/></r></p></e>
+<e>       <p><l>maʼshuqa<s n="n"/></l>           <r>oynas<s n="n"/></r></p></e>
+<e>       <p><l>maʼshuqlik<s n="n"/></l>       <r>oynaslıq<s n="n"/></r></p></e>
+<e>       <p><l>maʼshuq<s n="n"/></l>             <r>oynas<s n="n"/></r></p></e>
+<e>       <p><l>maʼsuma<s n="n"/></l>             <r>gúnasıza<s n="n"/></r></p></e>
+<e>       <p><l>maʼsumlik<s n="n"/></l>         <r>gúnasızlıq<s n="n"/></r></p></e>
+<e>       <p><l>maʼsumona<s n="adj"/></l>       <r>gúnasızona<s n="adj"/></r></p></e>
+<e>       <p><l>maʼsum<s n="adj"/></l>             <r>gúnasız<s n="adj"/></r></p></e>
+<e>       <p><l>maʼvo<s n="n"/></l>                 <r>pana<s n="n"/></r></p></e>
+<e>       <p><l>maʼyub<s n="n"/></l>               <r>ayıpker<s n="n"/></r></p></e>
+<e>       <p><l>maʼyuslangir<s n="v"/><s n="tv"/><s n="caus"/></l><r>muńlilangir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
+<e>       <p><l>maʼyuslan<s n="v"/><s n="iv"/></l><r>muńlilen<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>maʼyuslik<s n="n"/></l>         <r>muńlilik<s n="n"/></r></p></e>
+<e>       <p><l>maʼyusona<s n="adj"/></l>       <r>muńliona<s n="adj"/></r></p></e>
+<e>       <p><l>maʼyus<s n="n"/></l>               <r>muńli<s n="n"/></r></p></e>
+<e>       <p><l>maʼzirat<s n="n"/></l>           <r>keshirim<s n="n"/></r></p></e>
+<e>       <p><l>maʼzul<s n="n"/></l>               <r>hámelinen<s n="n"/></r></p></e>
+<e>       <p><l>maʼzur<s n="adj"/></l>             <r>keshirimli<s n="adj"/></r></p></e>
 <e>       <p><l>mebelfurushlik<s n="n"/></l>           <r>mebelfurushlik<s n="n"/></r></p></e>
 <e>       <p><l>mehmondoʻst<s n="n"/></l>              <r>qońaqshıl<s n="n"/></r></p></e>
 <e>       <p><l>mehmondoʻstlik<s n="n"/></l>           <r>qońaqshıllıq<s n="n"/></r></p></e>
@@ -16766,6 +16766,7 @@
 <e>       <p><l>turush<s n="n"/></l>                   <r>ashıǵan<s n="n"/></r></p></e>
 <e>       <p><l>tush<s n="v"/><s n="iv"/></l>          <r>tús<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>tushayish<s n="v"/><s n="iv"/><s n="coop"/></l><r>bultıyıw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>tushintir<s n="v"/><s n="tv"/></l>                 <r>túsindir<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tushirgi<s n="n"/></l>                 <r>túsirgi<s n="n"/></r></p></e>
 <e>       <p><l>tushirgich<s n="n"/></l>               <r>túsirgish<s n="n"/></r></p></e>
 <e>       <p><l>tushiril<s n="v"/><s n="iv"/></l>      <r>túsiril<s n="v"/><s n="iv"/></r></p></e>
@@ -16831,7 +16832,7 @@
 <e>       <p><l>ultimativ<s n="adj"/></l>              <r>ultimativ<s n="adj"/></r></p></e>
 <e>       <p><l>ultimatum<s n="n"/></l>                <r>ultimatum<s n="n"/></r></p></e>
 <e>       <p><l>ulug<s n="adj"/></l>                   <r>ullı<s n="adj"/></r></p></e>
-<e>       <p><l>ulugʻ<s n="n"/></l>                    <r>ullı<s n="n"/></r></p></e>
+<e>       <p><l>ulugʻ<s n="adj"/></l>                    <r>ullı<s n="adj"/></r></p></e>
 <e>       <p><l>ulugʻla<s n="v"/><s n="tv"/></l>       <r>ullıla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ulugʻlan<s n="v"/><s n="iv"/><s n="refl"/></l><r>ullılan<s n="v"/><s n="iv"/><s n="refl"/></r></p></e>
 <e>       <p><l>ulugʻlash<s n="v"/><s n="iv"/><s n="coop"/></l><r>kótermelew<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
@@ -18332,7 +18333,7 @@
 <e>       <p><l>mavsumiy<s n="adv"/></l>               <r>máwsimiy<s n="adv"/></r></p></e>
 <e>       <p><l>mayib<s n="adv"/></l>                  <r>mayıp<s n="adv"/></r></p></e>
 <e>       <p><l>mazali<s n="adv"/></l>                 <r>mazalı<s n="adv"/></r></p></e>
-<e>       <p><l>mazkur<s n="adv"/></l>                 <r>usı<s n="adv"/></r></p></e>
+<e>       <p><l>mazkur<s n="adj"/></l>                 <r>usı<s n="adj"/></r></p></e>
 <e>       <p><l>mazmundor<s n="adv"/></l>              <r>mazmundor<s n="adv"/></r></p></e>
 <e>       <p><l>mehnatsevar<s n="adv"/></l>            <r>miynetsevar<s n="adv"/></r></p></e>
 <e>       <p><l>mehribon<s n="adv"/></l>               <r>mehriban<s n="adv"/></r></p></e>
@@ -19358,7 +19359,7 @@
 <e>       <p><l>tashdan<s n="adv"/></l>                <r>tashdan<s n="adv"/></r></p></e>
 <e>       <p><l>tashdid<s n="adv"/></l>                <r>tintiw<s n="adv"/></r></p></e>
 <e>       <p><l>tashlandi<s n="adv"/></l>              <r>taslandıq<s n="adv"/></r></p></e>
-<e>       <p><l>tashkil<s n="v"/><s n="tv"/></l>                 <r>ornalastır<s n="v"/></r></p></e>
+<e>       <p><l>tashkil<s n="v"/><s n="tv"/></l>                 <r>ornalastır<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tashkiliy-siyosiy<s n="adv"/></l>      <r>shólkemlesken-siyasiy<s n="adv"/></r></p></e>
 <e>       <p><l>tashviqiy<s n="adv"/></l>              <r>tasviqiy<s 
 n="adv"/></r></p></e>
@@ -19596,7 +19597,7 @@ n="adv"/></r></p></e>
 <e>       <p><l>biron<s n="det"/><s n="dem"/></l>                   <r>qandayda<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>har<s n="det"/><s n="qnt"/></l>                   <r>hár<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>mekan<s n="qst"/></l>                   <r>meken<s n="qst"/></r></p></e>
-<e>       <p><l>bu<s n="det"/><s n="dem"/></l>          <r>bu<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>bu<s n="det"/><s n="dem"/> <s n="prn"/></l>          <r>bul<s n="det"/><s n="dem"/><s n="prn"/></r></p></e>
 <e>       <p><l>ushbu<s n="det"/><s n="dem"/></l>       <r>usı<s n="det"/><s n="dem"/></r></p></e>
 <e r="LR"><p><l>shu<s n="det"/><s n="dem"/></l>         <r>usı<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>qay<s n="det"/><s n="dem"/></l>         <r>qay<s n="det"/><s n="itg"/></r></p></e>
