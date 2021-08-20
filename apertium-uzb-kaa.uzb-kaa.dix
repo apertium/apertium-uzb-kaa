@@ -3165,7 +3165,8 @@
 <e>       <p><l>chiqaruvchi<s n="n"/></l>              <r>shıǵarıwshı<s n="n"/></r></p></e>
 <e>       <p><l>chiqim<s n="n"/></l>                   <r>shıǵın<s n="n"/></r></p></e>
 <e>       <p><l>chiqindi<s n="n"/></l>                 <r>shıǵındı<s n="n"/></r></p></e>
-<e>       <p><l>chiqish<s n="v"/><s n="tv"/></l>                  <r>shıǵıw<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>chiqish<s n="n"/></l>                  <r>shıǵıw<s n="n"/></r></p></e>
+<e>       <p><l>chiq<s n="v"/><s n="tv"/></l>                  <r>shıq<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>chiqit<s n="n"/></l>                   <r>shıǵındı<s n="n"/></r></p></e>
 <e>       <p><l>chiqqan<s n="n"/></l>                  <r>shıqqan<s n="n"/></r></p></e>
 <e>       <p><l>chiranish<s n="v"/><s n="tv"/><s n="caus"/></l><r>shireniw<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
@@ -10514,7 +10515,7 @@
 <e>       <p><l>boshkesar<s n="n"/></l>                <r>bas keser<s n="n"/></r></p></e>
 <e>       <p><l>boshlangʻich<s n="n"/></l>             <r>baslanǵısh<s n="n"/></r></p></e>
 <e>       <p><l>boshlanma<s n="n"/></l>                <r>baslanma<s n="n"/></r></p></e>
-<e>       <p><l>boshlash<s n="v"/><s n="iv"/><s n="coop"/></l><r>baslaw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>boshlash<s n="v"/><s n="iv"/></l><r>baslaw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>boshlat<s n="v"/><s n="tv"/><s n="caus"/></l><r>baslat<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>boshliq{Q}<s n="n"/></l>               <r>basshı<s n="n"/></r></p></e>
 <e>       <p><l>boshoqla<s n="v"/><s n="iv"/></l>      <r>masaqla<s n="v"/><s n="iv"/></r></p></e>
@@ -17449,7 +17450,7 @@
 <e>       <p><l>yor-doʻstlar<s n="n"/></l>             <r>yar-doslar<s n="n"/></r></p></e>
 <e>       <p><l>yordam<s n="n"/></l>                   <r>járdem<s n="n"/></r></p></e>
 <e>       <p><l>yorgʻi<s n="n"/></l>                   <r>járiyma<s n="n"/></r></p></e>
-<e>       <p><l>yorish<s n="v"/></l>                   <r>jarıw<s n="v"/></r></p></e>
+<e>       <p><l>yor<s n="v"/><s n="tv"/></l>                   <r>jar<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>yorlash<s n="v"/><s n="iv"/></l>       <r>járdemlesiw<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yorugʻ<s n="adj"/></l>                 <r>jarıq<s n="adj"/></r></p></e>
 <e>       <p><l>yorugʻlash<s n="v"/><s n="iv"/></l>    <r>jarıqlaw<s n="v"/><s n="iv"/></r></p></e>
@@ -19597,7 +19598,7 @@ n="adv"/></r></p></e>
 <e>       <p><l>biron<s n="det"/><s n="dem"/></l>                   <r>qandayda<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>har<s n="det"/><s n="qnt"/></l>                   <r>hár<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>mekan<s n="qst"/></l>                   <r>meken<s n="qst"/></r></p></e>
-<e>       <p><l>bu<s n="det"/><s n="dem"/> <s n="prn"/></l>          <r>bul<s n="det"/><s n="dem"/><s n="prn"/></r></p></e>
+<e>       <p><l>bu<s n="det"/><s n="dem"/> </l>          <r>bul<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>ushbu<s n="det"/><s n="dem"/></l>       <r>usı<s n="det"/><s n="dem"/></r></p></e>
 <e r="LR"><p><l>shu<s n="det"/><s n="dem"/></l>         <r>usı<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>qay<s n="det"/><s n="dem"/></l>         <r>qay<s n="det"/><s n="itg"/></r></p></e>
