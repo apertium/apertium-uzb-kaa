@@ -2260,8 +2260,7 @@
 <e>       <p><l>bayonot<s n="n"/></l>                  <r>bayanat<s n="n"/></r></p></e>
 <e>       <p><l>bayonatchilik<s n="n"/></l>            <r>bayanatchilik<s n="n"/></r></p></e>
 <e>       <p><l>bayot<s n="n"/></l>                    <r>bayat<s n="n"/></r></p></e>
-<e>       <p><l>bajar<s n="v"/><s n="tv"/></l>         <r>atqarılmoq<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>bajarish<s n="v"/><s n="iv"/><s n="coop"/></l><r>orınlawmoq<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
+<e>       <p><l>bajarish<s n="v"/><s n="iv"/><s n="coop"/></l><r>orınlaw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e>       <p><l>bajar<s n="v"/><s n="tv"/></l>         <r>orınlaw<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>bajartir<s n="v"/><s n="tv"/><s n="caus"/></l><r>atqartirmoq<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>bajo<s n="adj"/></l>                   <r>orınlı<s n="adj"/></r></p></e>
@@ -6649,7 +6648,7 @@
 <e>       <p><l>oldiga<s n="n"/></l>                   <r>aldına<s n="n"/></r></p></e>
 <e>       <p><l>oldin<s n="post"/></l>                 <r>aldın<s n="post"/></r></p></e>
 <e>       <p><l>oldinda<s n="n"/></l>                  <r>aldında<s n="n"/></r></p></e>
-<e>       <p><l>oldindan<s n="adv"/></l>               <r>aldınan<s n="adv"/></r></p></e>
+<e>       <p><l>oldindan<s n="adv"/></l>               <r>aldınnan<s n="adv"/></r></p></e>
 <e>       <p><l>oldinga<s n="n"/></l>                  <r>aldınǵa<s n="n"/></r></p></e>
 <e>       <p><l>oldingi<s n="adv"/></l>                <r>aldınǵı<s n="adv"/></r></p></e>
 <e>       <p><l>oldi-sotdi<s n="n"/></l>               <r>Aldı-satdi<s n="n"/></r></p></e>
@@ -15760,7 +15759,6 @@
 <e>       <p><l>siyqalashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>sıyqasın shıǵar<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>siyraklashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>siyreklestir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>siyraklatil<s n="v"/><s n="tv"/></l>   <r>siyrekletil<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>siz<s n="adj"/></l>        <r>siz<s n="adj"/></r></p></e>
 <e>       <p><l>sizgʻi<s n="v"/><s n="iv"/></l>        <r>sızǵı<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>sizgʻir<s n="v"/><s n="tv"/><s n="caus"/></l><r>sızǵır<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>sizgʻirik<s n="n"/></l>                <r>sızǵırlıq<s n="n"/></r></p></e>
