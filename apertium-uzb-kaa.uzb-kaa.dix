@@ -751,6 +751,7 @@
 <e>       <p><l>top<s n="v"/><s n="tv"/></l>           <r>tap<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tovar<s n="n"/></l>                    <r>tovar<s n="n"/></r></p></e>
 <e>       <p><l>transport<s n="n"/></l>                <r>transport<s n="n"/></r></p></e>
+<e>       <p><l>tranzistor<s n="n"/></l>                <r>tranzistor<s n="n"/></r></p></e>
 <e>       <p><l>tur<s n="v"/><s n="iv"/></l>           <r>tur<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>tut<s n="v"/><s n="tv"/></l>           <r>tut<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>turk<s n="n"/></l>                     <r>túrk<s n="n"/></r></p></e>
@@ -2775,6 +2776,7 @@
 <e>       <p><l>bint<s n="n"/></l>                     <r>tańıw sılesi<s n="n"/></r></p></e>
 <e>       <p><l>biografik<s n="adj"/></l>              <r>ómirbayanshiik<s n="adj"/></r></p></e>
 <e>       <p><l>biologiya<s n="n"/></l>                <r>biologiya<s n="n"/></r></p></e>
+<e>       <p><l>biosxema<s n="n"/></l>                <r>biosxema<s n="n"/></r></p></e>
 <e>       <p><l>biqin<s n="v"/><s n="iv"/><s n="refl"/></l><r>janbas<s n="v"/><s n="iv"/><s n="refl"/></r></p></e>
 <e>       <p><l>bir<s n="num"/></l>                    <r>bir<s n="num"/></r></p></e>
 <e>       <p><l>birdam<s n="adj"/></l>                 <r>birlesip<s n="adj"/></r></p></e>
@@ -3909,7 +3911,7 @@
 <e>       <p><l>fotoplastinka<s n="n"/></l>            <r>fotoplastinka<s n="n"/></r></p></e>
 <e>       <p><l>fotosurat<s n="n"/></l>                <r>fotosurat<s n="n"/></r></p></e>
 <e>       <p><l>foyda<s n="n"/></l>                    <r>payda<s n="n"/></r></p></e>
-<e>       <p><l>foydalanish<s n="n"/></l>              <r>paydalanıw<s n="n"/></r></p></e>
+<e>       <p><l>foydalan<s n="v"/><s n="iv"/><s n="pass"/></l>              <r>paydalan<s n="v"/><s n="iv"/><s n="pass"/></r></p></e>
 <e>       <p><l>foydali<s n="adj"/></l>                <r>paydalı<s n="adj"/></r></p></e>
 <e>       <p><l>foydasiz<s n="adj"/></l>               <r>paydasız<s n="adj"/></r></p></e>
 <e>       <p><l>foye<s n="n"/></l>                     <r>foye<s n="n"/></r></p></e>
@@ -5154,7 +5156,7 @@
 <e>       <p><l>katod<s n="adj"/></l>                  <r>katod<s n="adj"/></r></p></e>
 <e>       <p><l>katolik<s n="n"/></l>                  <r>katolik<s n="n"/></r></p></e>
 <e>       <p><l>katoliklik<s n="n"/></l>               <r>katoliklik<s n="n"/></r></p></e>
-<e>       <p><l>katta<s n="n"/></l>                    <r>úlken<s n="n"/></r></p></e>
+<e>       <p><l>katta<s n="adj"/></l>                    <r>úlken<s n="adj"/></r></p></e>
 <e>       <p><l>kattakon<s n="adj"/></l>               <r>oǵada úlken<s n="adj"/></r></p></e>
 <e>       <p><l>kattalik<s n="n"/></l>                 <r>shama<s n="n"/></r></p></e>
 <e>       <p><l>kauchuk<s n="n"/></l>                  <r>kauchuk<s n="n"/></r></p></e>
@@ -6004,6 +6006,8 @@
 <e>       <p><l>mijoz<s n="n"/></l>                    <r>klient<s n="n"/></r></p></e>
 <e>       <p><l>mikrofon<s n="n"/></l>                 <r>mikrofon<s n="n"/></r></p></e>
 <e>       <p><l>mikroskopik<s n="adj"/></l>            <r>mikroskopik<s n="adj"/></r></p></e>
+<e>       <p><l>mikrosxema<s n="n"/></l>                 <r>mikrosxema<s n="n"/></r></p></e>
+<e>       <p><l>mikroelektron<s n="n"/></l>                 <r>mikroelektron<s n="n"/></r></p></e>
 <e>       <p><l>milk<s n="n"/></l>                     <r>jıyek<s n="n"/></r></p></e>
 <e>       <p><l>millat<s n="n"/></l>                   <r>millet<s n="n"/></r></p></e>
 <e>       <p><l>millatchi<s n="n"/></l>                <r>mılletshil<s n="n"/></r></p></e>
@@ -12292,6 +12296,7 @@
 <e>       <p><l>ketmonkash<s n="n"/></l>               <r>ketpenkash<s n="n"/></r></p></e>
 <e>       <p><l>kg<s n="abbr"/></l>                    <r>kg<s n="abbr"/></r></p></e>
 <e>       <p><l>kichiklash<s n="v"/><s n="iv"/></l>    <r>kishilew<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>kichray<s n="v"/><s n="iv"/></l>    <r>kishrey<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>kichiklashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>kishilestir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>kichiqlashtir<s n="v"/><s n="tv"/><s n="caus"/></l><r>kishilestir<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>kinnakash<s n="n"/></l>                <r>kóz tiygiziwkash<s n="n"/></r></p></e>
@@ -16862,6 +16867,7 @@
 <e>       <p><l>urishuvchi<s n="n"/></l>               <r>urıwıwshı<s n="n"/></r></p></e>
 <e>       <p><l>url<s n="n"/><s n="REmOvE"/></l>       <r>url<s n="n"/><s n="REmOvE"/></r></p></e>
 <e>       <p><l>urtmoq<s n="n"/></l>                   <r>oraw<s n="n"/></r></p></e>
+<e>       <p><l>urnat<s n="v"/><s n="tv"/></l>                   <r>ornat<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>urugʻ<s n="n"/></l>                    <r>tuqım<s n="n"/></r></p></e>
 <e>       <p><l>urugʻ-aimoq<s n="n"/></l>              <r>tuwısqanlar<s n="n"/></r></p></e>
 <e>       <p><l>urugʻchi<s n="n"/></l>                 <r>tuqımgershilik qánigesi<s n="n"/></r></p></e>
