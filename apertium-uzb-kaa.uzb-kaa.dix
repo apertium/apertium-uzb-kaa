@@ -2261,8 +2261,8 @@
 <e>       <p><l>bayonot<s n="n"/></l>                  <r>bayanat<s n="n"/></r></p></e>
 <e>       <p><l>bayonatchilik<s n="n"/></l>            <r>bayanatchilik<s n="n"/></r></p></e>
 <e>       <p><l>bayot<s n="n"/></l>                    <r>bayat<s n="n"/></r></p></e>
-<e>       <p><l>bajarish<s n="v"/><s n="iv"/><s n="coop"/></l><r>orınlaw<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
-<e>       <p><l>bajar<s n="v"/><s n="iv"/></l>         <r>orınlaw<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>bajarish<s n="n"/></l>                 <r>orınlaw<s n="n"/></r></p></e>
+<e>       <p><l>bajar<s n="v"/><s n="tv"/></l>         <r>orınla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>bajartir<s n="v"/><s n="tv"/><s n="caus"/></l><r>atqartirmoq<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>bajo<s n="adj"/></l>                   <r>orınlı<s n="adj"/></r></p></e>
 <e>       <p><l>bajonidil<s n="adv"/></l>              <r>ıqlas penen<s n="adv"/></r></p></e>
@@ -2896,6 +2896,7 @@
 <e>       <p><l>boshqa<s n="post"/></l>                <r>basqa<s n="post"/></r></p></e>
 <e>       <p><l>boshqacha<s n="adj"/></l>              <r>basqasha<s n="adj"/></r></p></e>
 <e>       <p><l>boshqar<s n="v"/><s n ="tv"/></l>               <r>basqar<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>boshqarish<s n="n"/></l>                <r>basqarıw<s n="n"/></r></p></e>
 <e>       <p><l>boshqarma<s n="n"/></l>                <r>basqarma<s n="n"/></r></p></e>
 <e>       <p><l>boshqaruv<s n="n"/><s n="vn"/></l>     <r>basqarıw<s n="n"/><s n="vn"/></r></p></e>
 <e>       <p><l>boshqaruvchi<s n="n"/></l>             <r>basqarıwshı<s n="n"/></r></p></e>
@@ -3912,7 +3913,7 @@
 <e>       <p><l>fotosurat<s n="n"/></l>                <r>fotosurat<s n="n"/></r></p></e>
 <e>       <p><l>foyda<s n="n"/></l>                    <r>payda<s n="n"/></r></p></e>
 <e>       <p><l>foydalanish<s n="n"/></l>              <r>paydalanıw<s n="n"/></r></p></e>
-<e>       <p><l>foydalan<s n="tv"/><s n="tv"/></l>              <r>paydalan<s n="tv"/><s n="tv"/></r></p></e>
+<e>       <p><l>foydalan<s n="v"/><s n="tv"/></l>              <r>paydalan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>foydali<s n="adj"/></l>                <r>paydalı<s n="adj"/></r></p></e>
 <e>       <p><l>foydasiz<s n="adj"/></l>               <r>paydasız<s n="adj"/></r></p></e>
 <e>       <p><l>foye<s n="n"/></l>                     <r>foye<s n="n"/></r></p></e>
