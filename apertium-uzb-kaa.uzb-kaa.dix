@@ -3911,7 +3911,8 @@
 <e>       <p><l>fotoplastinka<s n="n"/></l>            <r>fotoplastinka<s n="n"/></r></p></e>
 <e>       <p><l>fotosurat<s n="n"/></l>                <r>fotosurat<s n="n"/></r></p></e>
 <e>       <p><l>foyda<s n="n"/></l>                    <r>payda<s n="n"/></r></p></e>
-<e>       <p><l>foydalan<s n="v"/><s n="tv"/></l>              <r>paydalan<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>foydalanish<s n="n"/></l>              <r>paydalanıw<s n="n"/></r></p></e>
+<e>       <p><l>foydalan<s n="tv"/><s n="tv"/></l>              <r>paydalan<s n="tv"/><s n="tv"/></r></p></e>
 <e>       <p><l>foydali<s n="adj"/></l>                <r>paydalı<s n="adj"/></r></p></e>
 <e>       <p><l>foydasiz<s n="adj"/></l>               <r>paydasız<s n="adj"/></r></p></e>
 <e>       <p><l>foye<s n="n"/></l>                     <r>foye<s n="n"/></r></p></e>
@@ -13718,7 +13719,7 @@
 <e>       <p><l>oʻrindosh<s n="n"/></l>                <r>orınlas<s n="n"/></r></p></e>
 <e>       <p><l>oʻrindoshlik<s n="n"/></l>             <r>orındoshlik<s n="n"/></r></p></e>
 <e>       <p><l>oʻrinla<s n="v"/><s n="tv"/></l>       <r>orınla<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>oʻrinlash<s n="v"/><s n="tv"/><s n="caus"/></l><r>orınlaw<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
+<e>       <p><l>oʻrinlash<s n="n"/>                    </l><r>orınlaw<s n="n"/></r></p></e>
 <e>       <p><l>oʻrinlat<s n="v"/><s n="tv"/></l>      <r>orınlat<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>oʻrinli<s n="adj"/></l>                <r>orınlı<s n="adj"/></r></p></e>
 <e>       <p><l>oʻrinlilik<s n="n"/></l>               <r>orınlılıq<s n="n"/></r></p></e>
