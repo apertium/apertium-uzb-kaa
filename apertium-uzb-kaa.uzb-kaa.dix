@@ -3911,7 +3911,7 @@
 <e>       <p><l>fotoplastinka<s n="n"/></l>            <r>fotoplastinka<s n="n"/></r></p></e>
 <e>       <p><l>fotosurat<s n="n"/></l>                <r>fotosurat<s n="n"/></r></p></e>
 <e>       <p><l>foyda<s n="n"/></l>                    <r>payda<s n="n"/></r></p></e>
-<e>       <p><l>foydalan<s n="v"/><s n="iv"/></l>              <r>paydalan<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>foydalan<s n="v"/><s n="tv"/></l>              <r>paydalan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>foydali<s n="adj"/></l>                <r>paydalı<s n="adj"/></r></p></e>
 <e>       <p><l>foydasiz<s n="adj"/></l>               <r>paydasız<s n="adj"/></r></p></e>
 <e>       <p><l>foye<s n="n"/></l>                     <r>foye<s n="n"/></r></p></e>
@@ -4308,7 +4308,7 @@
 <e>       <p><l>hisob<s n="n"/></l>                    <r>esap<s n="n"/></r></p></e>
 <e>       <p><l>hisobchi<s n="n"/></l>                 <r>esapshı<s n="n"/></r></p></e>
 <e>       <p><l>hisobdor<s n="adj"/></l>               <r>esapdor<s n="adj"/></r></p></e>
-<e>       <p><l>hisobla<s n="v"/><s n="iv"/></l>                  <r>esapla<s n="n"/><s n="iv"/></r></p></e>
+<e>       <p><l>hisobla<s n="v"/><s n="tv"/></l>       <r>esapla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>hisoblashish<s n="n"/></l>             <r>esaplawıw<s n="n"/></r></p></e>
 <e>       <p><l>hisobli<s n="adj"/></l>                <r>esaplı<s n="adj"/></r></p></e>
 <e>       <p><l>hisobot<s n="n"/></l>                  <r>esabat<s n="n"/></r></p></e>
@@ -6648,7 +6648,7 @@
 <e>       <p><l>olcha<s n="n"/></l>                    <r>shıye<s n="n"/></r></p></e>
 <e>       <p><l>olchazor<s n="n"/></l>                 <r>shıyezor<s n="n"/></r></p></e>
 <e>       <p><l>oldi<s n="adj"/></l>                   <r>aldı<s n="adj"/></r></p></e>
-<e>       <p><l>old<s n="v"/><s n="iv"/></l>                   <r>ald<s n="n"/><s n="iv"/></r></p></e>
+<e>       <p><l>old<s n="n"/></l>                      <r>ald<s n="n"/></r></p></e>
 <e>       <p><l>oldi-sotdi<s n="n"/></l>               <r>Aldı-satdi<s n="n"/></r></p></e>
 <e>       <p><l>olibsotar<s n="n"/></l>                <r>alıp satar<s n="n"/></r></p></e>
 <e>       <p><l>olibsotarlik<s n="n"/></l>             <r>alıp satarlıq<s n="n"/></r></p></e>
@@ -16877,9 +16877,7 @@
 <e>       <p><l>urugʻlik<s n="n"/></l>                 <r>tuqımlıq<s n="n"/></r></p></e>
 <e>       <p><l>urugʻxona<s n="n"/></l>                <r>tuqım xana<s n="n"/></r></p></e>
 <e>       <p><l>uruq<s n="n"/></l>                     <r>tuqım<s n="n"/></r></p></e>
-<e>       <p><l>ustoz<s n="n"/></l>                     <r>ustaz<s n="n"/></r></p></e>
-<e>       <p><l>usta<s n="n"/></l>                     <r>usta<s n="n"/></r></p></e>
-<e>       <p><l>usti<s n="n"/></l>                   <r>ústi<s n="n"/></r></p></e>
+<e>       <p><l>ust<s n="n"/></l>                   <r>úst<s n="n"/></r></p></e>
 <e>       <p><l>ushatil<s n="v"/><s n="tv"/></l>       <r>maydalanıw<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ushatiqli<s n="adj"/></l>              <r>sındırılǵan<s n="adj"/></r></p></e>
 <e>       <p><l>ushatish<s n="n"/><s n="vn"/></l>      <r>sındırıw<s n="n"/><s n="vn"/></r></p></e>
@@ -19364,8 +19362,7 @@
 <e>       <p><l>tashlandi<s n="adv"/></l>              <r>taslandıq<s n="adv"/></r></p></e>
 <e>       <p><l>tashkil<s n="v"/><s n="tv"/></l>                 <r>ornalastır<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>tashkiliy-siyosiy<s n="adv"/></l>      <r>shólkemlesken-siyasiy<s n="adv"/></r></p></e>
-<e>       <p><l>tashviqiy<s n="adv"/></l>              <r>tasviqiy<s 
-n="adv"/></r></p></e>
+<e>       <p><l>tashviqiy<s n="adv"/></l>              <r>tasviqiy<s n="adv"/></r></p></e>
 <e>       <p><l>tayyorlash<s n="adv"/></l>             <r>tayarlaw<s n="adv"/></r></p></e>
 <e>       <p><l>tayyorla<s n="v"/><s n="tv"/></l>             <r>tayarla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ta’msiz<s n="adv"/></l>                <r>dámsiz<s n="adv"/></r></p></e>
