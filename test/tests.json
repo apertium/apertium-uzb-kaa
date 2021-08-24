@@ -1,0 +1,10 @@
+{
+    "story-uzb-kaa": {
+        "input": "story.uzb.txt",
+        "mode": "uzb-kaa"
+    },
+    "story-kaa-uzb": {
+        "input": "story.kaa.txt",
+        "mode": "kaa-uzb"
+    }
+}
