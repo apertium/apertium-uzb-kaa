@@ -20,5 +20,6 @@
 /*.prob
 /*.hfst
 /*.zhfst
+/uzb-kaa.rlx
 /.DS_Store
 /test/*-output.txt
