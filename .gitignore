@@ -18,5 +18,8 @@
 /config.in
 /config
 /*.prob
+/*.hfst
+/*.zhfst
 /uzb-kaa.rlx
-/*hfst
+/.DS_Store
+/test/*-output.txt
