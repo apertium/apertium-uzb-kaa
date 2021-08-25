@@ -10513,6 +10513,7 @@
 <e>       <p><l>boshchi<s n="n"/></l>                  <r>basshı<s n="n"/></r></p></e>
 <e>       <p><l>boshkesar<s n="n"/></l>                <r>bas keser<s n="n"/></r></p></e>
 <e>       <p><l>boshla<s n="v"/><s n="tv"/></l><r>basla<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>boshlangʻich<s n="adj"/></l>           <r>baslanǵısh<s n="adj"/></r></p></e>
 <e>       <p><l>boshlat<s n="v"/><s n="tv"/><s n="caus"/></l><r>baslat<s n="v"/><s n="tv"/><s n="caus"/></r></p></e>
 <e>       <p><l>boshliq{Q}<s n="n"/></l>               <r>basshı<s n="n"/></r></p></e>
 <e>       <p><l>boshoqla<s n="v"/><s n="iv"/></l>      <r>masaqla<s n="v"/><s n="iv"/></r></p></e>
@@ -11297,7 +11298,7 @@
 <e>       <p><l>fortepyano<s n="n"/></l>               <r>fortepyano<s n="n"/></r></p></e>
 <e>       <p><l>foshla<s n="v"/><s n="iv"/></l>        <r>áshkár<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>fotokogʻoz<s n="n"/></l>               <r>fotokogʻoz<s n="n"/></r></p></e>
-<e>       <p><l>foydalan<s n="tv"/><s n="tv"/></l>    <r>paydalan<s n="tv"/><s n="tv"/></r></p></e>
+<e>       <p><l>foydalan<s n="v"/><s n="tv"/></l>    <r>paydalan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>fraksioner<s n="n"/></l>               <r>fraksioner<s n="n"/></r></p></e>
 <e>       <p><l>fraksiyabozlik<s n="n"/></l>           <r>fraksiyabozlik<s n="n"/></r></p></e>
 <e>       <p><l>frans<s n="abbr"/></l>                 <r>frans<s n="abbr"/></r></p></e>
@@ -18568,6 +18569,7 @@
 <e>       <p><l>qiyiq<s n="adv"/></l>                  <r>qıyıq<s n="adv"/></r></p></e>
 <e>       <p><l>qiyshiq<s n="adv"/></l>                <r>qıysıq<s n="adv"/></r></p></e>
 <e>       <p><l>qizil<s n="adj"/></l>                  <r>qızıl<s n="adj"/></r></p></e>
+<e>       <p><l>qiziq<s n="n"/></l>                    <r>qızıl<s n="n"/></r></p></e>
 <e>       <p><l>qiziq<s n="adj"/></l>                  <r>qızıqlı<s n="adj"/></r></p></e>
 <e>       <p><l>qiziqqon<s n="adv"/></l>               <r>qızıqqan<s n="adv"/></r></p></e>
 <e>       <p><l>qobil<s n="adv"/></l>                  <r>uqıplı<s n="adv"/></r></p></e>
