@@ -14,18 +14,18 @@
 
 	<pardefs>
 		<pardef n="adj">
-			<e><i><w/><s n="adj"/><j/></i></e>
-			<e><i><w/><s n="adj"/><t/><j/></i></e>
+			<e><i><w/><s n="adj"/><d/></i></e>
+			<e><i><w/><s n="adj"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="adv">
-			<e><i><w/><s n="adv"/><j/></i></e>
-			<e><i><w/><s n="adv"/><t/><j/></i></e>
+			<e><i><w/><s n="adv"/><d/></i></e>
+			<e><i><w/><s n="adv"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="n">
-			<e><i><w/><s n="n"/><t/><j/></i></e>
+			<e><i><w/><s n="n"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="det">
-			<e><i><w/><s n="det"/><t/><j/></i></e>
+			<e><i><w/><s n="det"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="SN">
 			<e><par n="n"/></e>
@@ -51,10 +51,10 @@
 				<l>take<s n="vblex"/></l>
 				<r>take<b/>out<s n="vblex"/></r>
 			</p>
-			<i><t/><j/></i>
+			<i><t/><d/></i>
 			<par n="SN"/>
 			<p>
-				<l>out<s n="adv"/><j/></l>
+				<l>out<s n="adv"/><d/></l>
 				<r></r>
 			</p>
 		</e>

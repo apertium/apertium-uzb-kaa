@@ -19,18 +19,18 @@
 
 	<pardefs>
 		<pardef n="adj">
-			<e><i><w/><s n="adj"/><j/></i></e>
-			<e><i><w/><s n="adj"/><t/><j/></i></e>
+			<e><i><w/><s n="adj"/><d/></i></e>
+			<e><i><w/><s n="adj"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="adv">
-			<e><i><w/><s n="adv"/><j/></i></e>
-			<e><i><w/><s n="adv"/><t/><j/></i></e>
+			<e><i><w/><s n="adv"/><d/></i></e>
+			<e><i><w/><s n="adv"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="n">
-			<e><i><w/><s n="n"/><t/><j/></i></e>
+			<e><i><w/><s n="n"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="det">
-			<e><i><w/><s n="det"/><t/><j/></i></e>
+			<e><i><w/><s n="det"/><t/><d/></i></e>
 		</pardef>
 		<pardef n="SN">
 			<e><par n="n"/></e>
@@ -46,10 +46,10 @@
 
 		<e lm="istiqomat qil" c="jasa">
 			<p>
-				<l>istiqomat<s n="n"/><s n="nom"/><j/>qil<s n="v"/><s n="tv"/></l>
+				<l>istiqomat<s n="n"/><s n="nom"/><d/>qil<s n="v"/><s n="tv"/></l>
 				<r>istiqomat<b/>qil<s n="v"/><s n="iv"/></r>
 			</p>
-			<i><t/><j/></i>
+			<i><t/><d/></i>
 		</e>
 	</section>
 </dictionary>
